@@ -1,0 +1,1473 @@
+,head_text,head_wiki_id,relation,tail_text,tail_wiki_id,count
+0,The following strategies are recommended,id-less,instance of,strategies,Q185451,15
+1,women,Q467,opposite of,men,Q8441,4
+2,training,Q216033,part of,education,Q8434,3
+3,HIV,Q15787,has effect,AIDS,Q12199,3
+4,education,Q8434,has part,training,Q216033,3
+5,managers,Q114513068,subclass of,professionals,Q1218318,2
+6,urban,Q159313,opposite of,rural areas,Q175185,2
+7,education,Q8434,instance of,human right,Q8458,2
+8,planning,Q309100,has effect,implementation,Q245962,2
+9,Legislation,Q820655,part of,Policy,Q1156854,2
+10,Role of Government,Q113080512,part of,4.1,Q2816680,2
+11,unit,Q199,part of,family,Q8436,2
+12,planning,Q309100,part of,management,Q2920921,2
+13,food security,Q1229911,facet of,household,Q259059,2
+14,Legislative Measures,Q45045443,part of,Policy,Q1156854,2
+15,Legislative Matters,id-less,part of,Policy,Q1156854,2
+16,training institutions,id-less,subclass of,institutions,Q27711101,2
+17,Commerce and Industry,Q64295643,has part,Industry,Q8148,2
+18,rural areas,Q175185,opposite of,urban,Q159313,2
+19,Road Transport,Q516739,subclass of,Transport,Q7590,2
+20,Research for Development,Q96331157,subclass of,Development,Q1074523,2
+21,Capacity Building,Q1417724,subclass of,Building,Q41176,2
+22,implementation,Q245962,has cause,planning,Q309100,2
+23,poor,Q5729485,opposite of,rich,Q3917267,2
+24,Agriculture,Q11451,part of,4.4.1,Q21119198,2
+25,Rural Development,Q3045473,subclass of,Development,Q1074523,2
+26,Land,Q11081619,has part,4.4.2,id-less,2
+27,Land,Q11081619,part of,4.4.2,id-less,2
+28,human resources,Q5467169,country,Swaziland,Q1050,2
+29,Human Resource,Q2625010,part of,Public Sector Management,Q107471270,2
+30,Gender,Q48277,has part,1,Q199,2
+31,Fuel and Energy,Q29043705,has part,4.3,Q4031261,2
+32,rich,Q3917267,opposite of,poor,Q5729485,2
+33,The Media,Q11033,facet of,Media,Q11033,2
+34,Swazi Society and Culture,id-less,instance of,Culture,Q11042,2
+35,endangered,Q11394,subclass of,species,Q7432,2
+36,sustainable development,Q131201,subclass of,development,Q1074523,2
+37,risks,Q104493,subclass of,threats,Q37522873,2
+38,Tourism and Recreation,Q30906207,has part,Recreation,Q184872,2
+39,Swazi Nation Land,Q16919712,country,Swazi,Q34014,2
+40,Industry,Q8148,part of,Commerce and Industry,Q64295643,2
+41,Sanitation,Q949149,part of,Water and Sanitation,Q573692,2
+42,family,Q8436,has part,unit,Q199,2
+43,natural resource base,Q245857,subclass of,management,Q2920921,2
+44,International Links,Q112708437,subclass of,Links,Q608910,2
+45,Water Resource Development,Q58391136,has part,4.3,Q4031261,2
+46,Water and Sanitation,Q573692,has part,Sanitation,Q949149,2
+47,Youth,Q190007,number of episodes,8,Q23355,2
+48,men,Q8441,opposite of,women,Q467,2
+49,Recreation,Q184872,part of,Tourism and Recreation,Q30906207,2
+50,8.2.1 Persons with Disabilities,id-less,main subject,Persons with Disabilities,Q74535604,2
+51,4.4.2,id-less,has part,Land,Q11081619,2
+52,5 Cableways and Telecommunications,id-less,facet of,Cableways and Telecommunications,id-less,2
+53,Policy,Q1156854,has part,Legislative Matters,id-less,2
+54,5,Q203,follows,4.5,Q197243,2
+55,Policy,Q1156854,has part,Legislation,Q820655,2
+56,4.8.2 Disadvantaged Groups,id-less,is a list of,Disadvantaged Groups,Q77189624,2
+57,4.8,Q4637262,point in time,4,Q202,2
+58,4.7,Q229874,point in time,4,Q202,2
+59,4.6,Q229873,point in time,4,Q202,2
+60,4.5,Q197243,followed by,5,Q203,2
+61,4.4.1,Q21119198,has part,Agriculture,Q11451,2
+62,Policy,Q1156854,has part,Legislative Measures,Q45045443,2
+63,4.3,Q4031261,part of,Water Resource Development,Q58391136,2
+64,4.3,Q4031261,part of,Fuel and Energy,Q29043705,2
+65,4.3,Q4031261,followed by,6 Postal Services,id-less,2
+66,4.2,Q217363,point in time,4,Q202,2
+67,4.1,Q2816680,has part,Role of Government,Q113080512,2
+68,3.2 Economic Empowerment,id-less,facet of,Economic Empowerment,Q63829080,2
+69,3.4 Agricultural Development,id-less,facet of,Agricultural Development,Q65554733,2
+70,3.4 Civil Aviation,id-less,point in time,3.4,Q29733805,2
+71,3.7 Environmental Management,id-less,main subject,Environmental Management,Q929380,2
+72,6 Postal Services,id-less,follows,4.3,Q4031261,2
+73,3.5 Industrialisation,id-less,facet of,Industrialisation,Q202398,2
+74,AIDS,Q12199,has cause,HIV,Q15787,2
+75,health,Q12147,subclass of,social services,Q11588306,2
+76,12 Human Settlements and Shelter,id-less,is a list of,Shelter,Q7493941,2
+77,domestic economy,Q58729397,instance of,economy,Q159810,2
+78,women,Q467,instance of,status,Q813912,2
+79,health services,Q9353606,facet of,health,Q12147,2
+80,3 Human Resource Development,id-less,facet of,Human Resource Development,Q5366892,2
+81,3.1 Sound Economic Management,id-less,main subject,Sound Economic Management,id-less,2
+82,needs,Q37208103,has part,aspirations,Q737568,1
+83,natural science,Q7991,has part,production,Q739302,1
+84,market,Q330284,has part,opportunit,Q193538,1
+85,of the elderly,id-less,said to be the same as,elderly,Q1358789,1
+86,off-shore financial centre,id-less,country,Swaziland,Q1050,1
+87,open competition,Q113443223,facet of,modes of transport,Q6889150,1
+88,marketing,Q39809,product or material produced,livestock,Q4767951,1
+89,natural disasters,Q8065,has effect,safeguard against natural disasters,id-less,1
+90,operat ion,id-less,subclass of,ions,Q36496,1
+91,networking,Q10336440,subclass of,linkages,Q112949139,1
+92,non-formal,Q64800887,subclass of,life skills,Q50929469,1
+93,market driven,Q6770673,part of,Tertiary education,Q136822,1
+94,of decency on SNL,id-less,part of,SNL,Q13979,1
+95,non-agricultural,Q7048716,subclass of,a ctivities,id-less,1
+96,market forces,Q6770677,part of,enterprises,Q5380419,1
+97,market inf ormation,id-less,subclass of,market infrastructure,Q96727381,1
+98,marketing,Q39809,facet of,consumer,Q22855,1
+99,obstacle against women,id-less,facet of,women,Q467,1
+100,networks,Q15758936,has part,infras tructure,id-less,1
+101,obj ectives,id-less,part of,project,Q170584,1
+102,o ffshore,id-less,part of,financial services,Q5449654,1
+103,nationals,Q825838,part of,economic empowerme nt,id-less,1
+104,nomination of stakeholder representat,id-less,part of,consultation process,Q83952239,1
+105,noncommunicable diseases,Q98299735,subclass of,emerging,Q5370769,1
+106,medium-term goals,id-less,subclass of,sector objectives,id-less,1
+107,national development planning,Q104880767,has part,impl ementation,id-less,1
+108,national unity,Q2199044,part of,democracy,Q7174,1
+109,middle income country,Q25450949,subclass of,poverty alleviation,Q1824165,1
+110,modifying them,id-less,subclass of,modifying,Q104427955,1
+111,ministry of Home Affairs,Q6589202,subsidiary,Home Affairs,Q111145457,1
+112,mining sector,Q23921996,subclass of,value-added,Q1434924,1
+113,mining sector,Q23921996,instance of,diversification,Q731453,1
+114,mining operations,Q306096,facet of,mining,Q44497,1
+115,mining,Q44497,part of,agricultural,Q5356428,1
+116,middle income country,Q25450949,follows,lowincome,id-less,1
+117,monitoring,Q2143522,has cause,implementation,Q245962,1
+118,middle income,Q106470198,subclass of,income,Q850210,1
+119,medium,Q2249676,said to be the same as,small,Q2590065,1
+120,merit,Q1527264,said to be the same as,deserve,Q106696247,1
+121,merit,Q1527264,instance of,principle,Q211364,1
+122,medium enterprise,id-less,subclass of,small,Q2590065,1
+123,medium-term,Q22294920,opposite of,short,Q24862,1
+124,monitoring,Q2143522,facet of,malisation,id-less,1
+125,monitoring,Q2143522,has cause,planning,Q309100,1
+126,marketing,Q39809,subclass of,responsibilities,Q19096746,1
+127,national biodiversity strategy and ac tion plan,id-less,has part,ac tion plan,id-less,1
+128,national unity,Q2199044,part of,Consolidating democracy,id-less,1
+129,markets,Q110249433,part of,international,Q1072012,1
+130,maximu m,id-less,facet of,stakeholder,Q852998,1
+131,national solidarity,Q6978602,facet of,united andindivisible nation,id-less,1
+132,national priorities,Q6975053,country,national,Q53247,1
+133,medium-termdevelopment,id-less,opposite of,long-term prospects,Q71285849,1
+134,national airline,Q899774,parent organization,public budget,Q27998498,1
+135,media,Q11033,facet of,wid er population,id-less,1
+136,national,Q53247,legislative body,conse nsus,id-less,1
+137,nati onal population policy framework,id-less,has part,Population and Development Act,id-less,1
+138,moving target,Q3866668,subclass of,v ision,id-less,1
+139,monitoring,Q2143522,subclass of,evaluation,Q1379672,1
+140,monitoring,Q2143522,part of,development,Q1074523,1
+141,measurable indices,id-less,facet of,human,Q5,1
+142,operations,Q3884033,part of,economy,Q159810,1
+143,1,Q199,followed by,2,Q200,1
+144,operators,Q3354588,field of this occupation,telecommunication,Q418,1
+145,policy,Q1156854,facet of,water use,Q26534,1
+146,pollution levels,Q86708995,studied by,water chemistry,Q912065,1
+147,political will,Q107259730,has part,governm ent,id-less,1
+148,political stability,Q47369905,facet of,justice,Q16533,1
+149,political forces,id-less,has part,public,Q294440,1
+150,political development,Q7210285,facet of,sustainable eco nomic,id-less,1
+151,political,Q82955,subclass of,tourism,Q49389,1
+152,policy requirements,Q47318256,part of,conventions,Q92986448,1
+153,policy frameworks on child,id-less,subclass of,policy,Q1156854,1
+154,policy formulation,Q40261861,facet of,ana lysis,id-less,1
+155,policies,Q47011897,subclass of,procedures,Q7247166,1
+156,opportunit,Q193538,part of,market,Q330284,1
+157,policies,Q47011897,part of,strategies,Q185451,1
+158,policies,Q47011897,part of,legislation,Q820655,1
+159,policies,Q47011897,part of,higher education,Q136822,1
+160,policies,Q47011897,has part,strategies,Q185451,1
+161,policies,Q47011897,facet of,family unit,Q66837962,1
+162,police force,Q35535,has part,legal services,Q1494322,1
+163,police department,Q10636123,has part,Director of Public Prosecution,Q19226277,1
+164,poli cy,id-less,uses,repeaters,Q7313960,1
+165,pockets of poverty,id-less,subclass of,poverty,Q10294,1
+166,population balance,Q2017154,instance of,balance,Q134566,1
+167,population control,Q4764961,facet of,population,Q33829,1
+168,population control,Q4764961,subclass of,control,Q11175,1
+169,population initiatives,id-less,subclass of,evaluation,Q1379672,1
+170,primary phase,Q7243083,followed by,secondary import substitution phase,id-less,1
+171,primary,Q669262,subclass of,health care,Q31207,1
+172,pricing,Q2516951,part of,water policy,Q15761055,1
+173,pri cing,id-less,instance of,grading,Q5591926,1
+174,pri ces,Q104141755,instance of,gazetted,Q45242174,1
+175,present,Q192613,opposite of,future generations,Q954025,1
+176,pregnancy,Q11995,has effect,abortion,Q8452,1
+177,pre sent status,id-less,said to be the same as,drinking water,Q7892,1
+178,practices,Q104710926,facet of,family unit,Q66837962,1
+179,poverty alleviation,Q1824165,facet of,polic y,id-less,1
+180,poverty,Q10294,subclass of,incidence,Q217690,1
+181,postal services,Q57616250,subclass of,services,Q114080183,1
+182,postal services,Q57616250,part of,custom er,id-less,1
+183,postal,Q700905,has part,ser vices,id-less,1
+184,positions,Q100351980,part of,decision-making,Q1331926,1
+185,population statistics,Q7229821,subclass of,statistics,Q12483,1
+186,population sector,id-less,facet of,management information s ystem,id-less,1
+187,population of Cameroon,id-less,country,Cameroon,Q1009,1
+188,population issues,Q36818019,facet of,d evelopment planning,id-less,1
+189,plantations,Q104710529,subclass of,forestry,Q38112,1
+190,plant and game park,id-less,subclass of,recreational facilities,Q39841397,1
+191,plant and animal wild life park,id-less,subclass of,tourist facilities,Q114354958,1
+192,percentag e rate,id-less,subclass of,financing,Q6055890,1
+193,manufacturing industry,Q187939,instance of,industry,Q8148,1
+194,pasture,Q30121,use,livestock,Q4767951,1
+195,partnership agreements,Q83065504,subclass of,management,Q2920921,1
+196,participation,Q1773152,part of,economic empowerment,Q63829080,1
+197,participati on of nationals,id-less,field of this occupation,road construction,Q2349677,1
+198,partic ipation,id-less,subclass of,policies,Q47011897,1
+199,parastatals,Q98082153,part of,departments,Q643589,1
+200,parastatals,Q98082153,different from,NGOs,Q11788357,1
+201,pa rtners,id-less,part of,labour laws,Q78830905,1
+202,p rotection,id-less,part of,environmental,Q10485087,1
+203,p resented,id-less,instance of,strategies,Q185451,1
+204,p re-schools,id-less,subclass of,private education,Q11248105,1
+205,p olicy,id-less,part of,rational communications,id-less,1
+206,ownership,Q6498684,part of,economic empowerment,Q63829080,1
+207,owners,Q18129067,field of this occupation,m iners,id-less,1
+208,oversee operations,id-less,practiced by,board members,Q66169646,1
+209,organisational structures,Q57619842,facet of,control over-l oading,id-less,1
+210,organisational functions,id-less,has part,personnel management,Q1056396,1
+211,opportunities.,id-less,subclass of,opportunities,Q84501571,1
+212,pension funds,Q59648002,has part,inves ted,id-less,1
+213,performance targets,Q59904108,subclass of,targets,Q852162,1
+214,planning system,Q39426886,subclass of,proc ess,id-less,1
+215,peri-urban,Q7380602,has part,urban areas,Q58259934,1
+216,planning,Q309100,has part,strategic guidelines,Q58505029,1
+217,planning,Q309100,has part,analysis,Q7754,1
+218,planning,Q309100,has effect,monitoring,Q2143522,1
+219,planning,Q309100,facet of,national,Q53247,1
+220,planning,Q309100,facet of,education,Q8434,1
+221,piec es,id-less,subclass of,legislation,Q820655,1
+222,physical,Q413,part of,social,Q345367,1
+223,phans,Q7180500,subclass of,unemployed,Q28790169,1
+224,petroleum substitute,id-less,subclass of,substitutes,Q111689900,1
+225,pertai ning,id-less,instance of,legislation,Q820655,1
+226,persons with disabilities,Q74535604,subclass of,institutional,Q682969,1
+227,persons with disabilities,Q74535604,subclass of,infrastructural,Q107407615,1
+228,persons with disabilities,Q74535604,subclass of,equal opportunities,Q5384128,1
+229,persons with disabilities,Q74535604,has effect,economic a nd social activities,id-less,1
+230,persons with disabilitie,Q86752306,field of work,education,Q8434,1
+231,personnel management,Q1056396,part of,organisational functions,id-less,1
+232,personnel function,Q71441344,subclass of,function,Q11348,1
+233,perso ns with disabilities,id-less,has part,women,Q467,1
+234,peri-urban,Q7380602,subclass of,urban,Q159313,1
+235,penalties,Q100162405,opposite of,rewards,Q74750575,1
+236,macro strategic areas,id-less,part of,sectoral strategies,id-less,1
+237,manufacturing,Q187939,part of,economy,Q159810,1
+238,industry,Q8148,has part,engage,Q5377426,1
+239,infrastructure,Q121359,subclass of,provision,Q703087,1
+240,infrastructure,Q121359,part of,production,Q739302,1
+241,infrastructure,Q121359,part of,physical environment,Q107447748,1
+242,infrastructure,Q121359,part of,Industrial development,Q107526382,1
+243,infrastructure,Q121359,has part,capacity,Q1347367,1
+244,infrastructural development,id-less,has part,recreational facilities,Q39841397,1
+245,information unit,id-less,part of,exc hange,id-less,1
+246,information management system,Q121182,use,planning,Q309100,1
+247,information dissemination,Q112116869,facet of,mining,Q44497,1
+248,information,Q11028,part of,structures,Q811979,1
+249,informal sector,Q944235,subclass of,urban,Q159313,1
+250,informal sector,Q944235,part of,rural development,Q3045473,1
+251,informal sector,Q944235,part of,economic growth,Q189833,1
+252,informal sector,Q944235,opposite of,formal economic sector,id-less,1
+253,informal sector,Q944235,has part,dynamic activities in the informal sector,id-less,1
+254,infant,Q998,subclass of,mat,Q1136834,1
+255,industry,Q8148,product or material produced,product,Q2424752,1
+256,industry,Q8148,part of,economy,Q159810,1
+257,industry,Q8148,has part,services,Q114080183,1
+258,infrastructure,Q121359,subclass of,services,Q114080183,1
+259,inheritance,Q200303,subclass of,law,Q7748,1
+260,inheritance rights,id-less,part of,traditio nal,id-less,1
+261,inv olving,id-less,country,Swazis,Q98026686,1
+262,ion,Q36496,part of,agricultural product,Q11827455,1
+263,investor,Q557880,subclass of,stakeholders,Q108798676,1
+264,investment location,id-less,facet of,investment,Q4290,1
+265,investment,Q4290,subclass of,private sector,Q591763,1
+266,investment,Q4290,subclass of,finance,Q43015,1
+267,investi gated,id-less,subclass of,technology,Q11016,1
+268,inves tment,id-less,subclass of,inves,Q1650915,1
+269,inves ted,id-less,part of,pension funds,Q59648002,1
+270,interventio n,id-less,facet of,poverty,Q10294,1
+271,inhibits growth,Q64074635,has cause,energy crisis,Q1341376,1
+272,integration of offenders,id-less,facet of,society,Q8425,1
+273,integration,Q80091,facet of,environmental protection,Q832237,1
+274,integrated,Q36578,subclass of,rehabilitated,Q52133779,1
+275,insurance,Q43183,subclass of,savings,Q100348459,1
+276,institutions,Q27711101,part of,health care,Q31207,1
+277,institutional arrangements,Q81231664,has part,decision-making process,Q54023377,1
+278,institutional arrangements,Q81231664,facet of,gender relations,Q65088268,1
+279,innovation,Q174165,subclass of,creativity,Q170658,1
+280,industry,Q8148,has part,market,Q330284,1
+281,industrialization,Q202398,has part,promotionstrategy,id-less,1
+282,irrigated agriculture,Q852873,subclass of,land,Q11081619,1
+283,industrialization,Q202398,has part,good governance strategy,id-less,1
+284,human settlements,Q486972,part of,urban area,Q702492,1
+285,human resource planning,Q71224219,subclass of,policy,Q1156854,1
+286,human resource development,Q5366892,subclass of,macro strategy,id-less,1
+287,human resource development,Q5366892,subclass of,Promote,Q103927205,1
+288,human capital,Q165687,part of,programmes,Q39071357,1
+289,housing policy,Q2588157,facet of,Housing,Q188507,1
+290,housing needs,Q72234614,facet of,urban,Q159313,1
+291,housing developers,id-less,part of,financial ins titutions,id-less,1
+292,households,Q64873892,part of,private sector,Q591763,1
+293,households,Q64873892,part of,communities,Q177634,1
+294,hotel,Q27686,subclass of,accommodation,Q3947,1
+295,ho ped,id-less,use,stimulating,Q50319263,1
+296,historically,Q1620945,has part,culturally,Q1338878,1
+297,histor ical,id-less,has part,socio-economic understanding,id-less,1
+298,higher education,Q136822,has part,policies,Q47011897,1
+299,health- related organisations,id-less,part of,health system,Q11000047,1
+300,health system,Q11000047,has part,health- related organisations,id-less,1
+301,health services,Q9353606,facet of,quality,Q1207505,1
+302,health personnel,Q59283400,field of this occupation,career,Q282049,1
+303,humanities,Q80083,subclass of,social science,Q34749,1
+304,hydro,Q511031,use,agricultural,Q5356428,1
+305,hypertension,Q41861,has effect,heart disease,Q190805,1
+306,income,Q850210,subclass of,incentive distortion,id-less,1
+307,industrialization,Q202398,country,Cameroon,Q1009,1
+308,industrial sector,Q55639,part of,country’sdevelopment engine,id-less,1
+309,industrial sector,Q55639,country,Cameroon,Q1009,1
+310,industrial development,Q107526382,country,Swaziland,Q1050,1
+311,indus trial peace,id-less,instance of,harmony,Q184421,1
+312,independence and accessibility of the judiciary,id-less,instance of,democracy,Q7174,1
+313,independence,Q24603,inception,19 68,id-less,1
+314,income-generating,Q36101111,has effect,unemployment,Q41171,1
+315,incest,Q127683,subclass of,practices,Q104710926,1
+316,ide a,Q981536,subclass of,background material,Q66773649,1
+317,inappropriate language,Q104671588,has effect,sexual harassment,Q751722,1
+318,important,Q1139892,said to be the same as,knowledge,Q9081,1
+319,implementation,Q245962,has cause,monitoring,Q2143522,1
+320,implemen tation,id-less,studied by,cost-benefit analysis,Q942582,1
+321,impl ementation,id-less,part of,national development planning,Q104880767,1
+322,impact assessment,Q6005872,facet of,environmental guidelines and procedures,id-less,1
+323,impact assess ment,id-less,facet of,environmental impact,Q2022868,1
+324,impa ct,id-less,facet of,income distribution,Q3915542,1
+325,irr igation,id-less,subclass of,irrigation,Q11453,1
+326,irrigation,Q11453,use,agricultural,Q5356428,1
+327,managers,Q114513068,subclass of,owners,Q18129067,1
+328,local,Q11851202,different from,regional,Q1218597,1
+329,macro-economic,Q108131916,part of,environment,Q2249676,1
+330,macro strategies,id-less,subclass of,macro,Q629579,1
+331,private sector,Q591763,part of,development partners,id-less,1
+332,macro,Q629579,subclass of,strategic,Q376657,1
+333,macro,Q629579,has part,st rategic areas,id-less,1
+334,macro,Q629579,has part,st,Q43115,1
+335,ma nagement,id-less,studies,macro-economic,Q108131916,1
+336,m ajor,id-less,subclass of,urban areas,Q58259934,1
+337,lowincome,id-less,followed by,middle income country,Q25450949,1
+338,low cost housing,Q72367357,subclass of,institutional mechanism,Q114004025,1
+339,long-term vision,Q34662373,facet of,society,Q8425,1
+340,long period of readjustment,id-less,country,Cameroon,Q1009,1
+341,local resources,Q64308841,part of,public resourc es,id-less,1
+342,local government,Q6501447,subclass of,administrative powers and authority,id-less,1
+343,local councils,Q12192339,has part,chiefs,Q247731,1
+344,local authorities,Q46022688,subclass of,authorities,Q36524,1
+345,local authorities,Q46022688,part of,central government,Q2767140,1
+346,local authorities,Q46022688,part of,Central government,Q2767140,1
+347,local authorities,Q46022688,office held by head of the organization,chiefs,Q247731,1
+348,macro-economic,Q108131916,studied by,ma nagement,id-less,1
+349,macro-economy,id-less,studies,settlement,Q486972,1
+350,macroeconomic,Q39680,part of,socio-economic,Q1643441,1
+351,mana gers,id-less,field of this occupation,construction industry,Q13405640,1
+352,managers,Q114513068,field of this occupation,m iners,id-less,1
+353,managerial,Q2990807,part of,organisational,Q730573,1
+354,management,Q2920921,studies,environment,Q2249676,1
+355,management,Q2920921,part of,water policy,Q15761055,1
+356,management,Q2920921,part of,economic empowerment,Q63829080,1
+357,management,Q2920921,facet of,contracts,Q37427685,1
+358,managem ent,id-less,subclass of,conflict prevention,Q113472590,1
+359,manag ement,id-less,field of work,environmental,Q10485087,1
+360,males,Q6743117,opposite of,females,Q111905566,1
+361,macroeconomic management,Q63768837,subclass of,pr udent,id-less,1
+362,male partners,Q38685748,part of,family planning programmes,Q69700075,1
+363,malaria,Q12156,has effect,tuberculosis,Q12204,1
+364,makes good economic sense,id-less,said to be the same as,economic sense,id-less,1
+365,majorloopholes,id-less,facet of,national economic policy,id-less,1
+366,maintenan ce,id-less,facet of,ecological balance,Q2246744,1
+367,mainstreaming,Q2251268,facet of,gender issues,Q15753025,1
+368,mainstreaming,Q2251268,facet of,gender,Q48277,1
+369,macroeconomic stability,Q58357542,facet of,macroeconomic,Q39680,1
+370,local,Q11851202,instance of,government,Q7188,1
+371,loca lly,id-less,part of,cultural activities,Q1341006,1
+372,irrigation,Q11453,use,farmers,Q131512,1
+373,loca l authorities,id-less,part of,central government,Q2767140,1
+374,land,Q11081619,subclass of,trust,Q659974,1
+375,land,Q11081619,said to be the same as,tenure system,id-less,1
+376,labour-intensive,Q108288221,opposite of,capital-intensive,Q5035704,1
+377,labour laws,Q78830905,subclass of,reform,Q900406,1
+378,labour laws,Q78830905,has part,pa rtners,id-less,1
+379,labour laws,Q78830905,has part,conditions of employment,Q25204034,1
+380,labour,Q9630,part of,business,Q4830453,1
+381,la nd resources,id-less,has part,water,Q283,1
+382,l abour,id-less,instance of,international,Q1072012,1
+383,knowledge,Q9081,said to be the same as,important,Q1139892,1
+384,key macro strategies,id-less,facet of,macro,Q629579,1
+385,justice,Q16533,country,country,Q6256,1
+386,judiciary system,Q105985,country,country,Q6256,1
+387,joint venture,Q489209,subclass of,economies,Q50807212,1
+388,ivestock,id-less,instance of,land use,Q1165944,1
+389,itself,Q254474,subsidiary,Central Bank,Q66344,1
+390,irrigation system,Q6129871,use,ma nagement,id-less,1
+391,irrigation infrastructure,id-less,use,irrigated crops,id-less,1
+392,irrigation,Q11453,use,livestock,Q4767951,1
+393,land,Q11081619,use,uses,Q18356647,1
+394,land transac tion,id-less,different from,transac tion,id-less,1
+395,land with arable potential,id-less,instance of,land use,Q1165944,1
+396,"legislation's re levance to, and conformity with the various",id-less,part of,legislation,Q820655,1
+397,livestock management,Q56062772,product or material produced,livestock,Q4767951,1
+398,livestock,Q4767951,used by,producers,Q315732,1
+399,livestock,Q4767951,use,agriculture,Q11451,1
+400,livestock,Q4767951,subclass of,crops,Q235352,1
+401,linguistic mosaic,id-less,country,Cameroon,Q1009,1
+402,libelous reporting,id-less,subclass of,legislation,Q820655,1
+403,li ne,Q18851156,part of,telecommunications network,Q1068715,1
+404,levels of skills,id-less,subclass of,levels,Q2315784,1
+405,legislation,Q820655,part of,environmental policy,Q919526,1
+406,land-use rights,Q96207321,subclass of,law,Q7748,1
+407,legislation,Q820655,main subject,professi onal conduct,id-less,1
+408,legislation,Q820655,main subject,fi nancial institution,id-less,1
+409,legislation,Q820655,has part,"legislation's re levance to, and conformity with the various",id-less,1
+410,legal services,Q1494322,part of,police force,Q35535,1
+411,leadershi p,id-less,part of,organisational,Q730573,1
+412,law reform,Q264236,subclass of,reform,Q900406,1
+413,law enforcement agencies,Q732717,instance of,standards,Q591990,1
+414,law,Q7748,applies to jurisdiction,Swazi,Q34014,1
+415,primary sector economy,id-less,opposite of,secondary sector,Q55639,1
+416,public,Q294440,has part,secto rs,id-less,1
+417,private sector,Q591763,part of,education system,Q446760,1
+418,support fund,id-less,part of,road transport,Q516739,1
+419,sustainable use,Q64816625,uses,resources,Q1554231,1
+420,sustainable us e,id-less,subclass of,land,Q11081619,1
+421,sustainable population policy,id-less,subclass of,policy,Q1156854,1
+422,sustainable high levels,id-less,subclass of,pr omoting,id-less,1
+423,sustainable development,Q131201,subclass of,programme,Q170584,1
+424,sustainable budget,id-less,subclass of,budget,Q41263,1
+425,sustainable,Q66095801,subclass of,economic,Q8134,1
+426,sustainable,Q66095801,subclass of,budget,Q41263,1
+427,supply,Q166656,opposite of,demand,Q1665268,1
+428,syste m,id-less,subclass of,management information,Q104154387,1
+429,supervisory,Q759969,part of,government,Q7188,1
+430,sup ply,id-less,subclass of,short sup ply,id-less,1
+431,subsistence,Q109703686,subclass of,upliftmen t,id-less,1
+432,subsidised,Q107037041,subclass of,cost structure,Q42676243,1
+433,studies,Q9347372,subclass of,research,Q42240,1
+434,structures,Q811979,has part,information,Q11028,1
+435,street kids,Q501846,instance of,policy,Q1156854,1
+436,street children,Q501846,subclass of,homeless,Q29325697,1
+437,syst em,id-less,part of,health infrastructure,Q38449241,1
+438,systems,Q50808462,has part,mechanisms,Q113462908,1
+439,stre et children,id-less,subclass of,crime,Q83267,1
+440,telecommunications,Q25245117,instance of,industr y,id-less,1
+441,tertiary institutions,Q17056163,subclass of,Enrolment,Q102252225,1
+442,tertiary institu tions,id-less,subclass of,educational budget,id-less,1
+443,terms and conditions of ser vice,id-less,facet of,professionalise its terms and conditions of ser vice,id-less,1
+444,terminally ill,Q1364787,subclass of,health care,Q31207,1
+445,tenure system,id-less,said to be the same as,land,Q11081619,1
+446,tenets,Q5575554,part of,constitution,Q7755,1
+447,ten years ago,Q77476739,followed by,economic revival process launched ten years ago,id-less,1
+448,telecommunications network,Q1068715,has part,li ne,Q18851156,1
+449,technology transfer,Q1061910,has part,adapting,Q84520440,1
+450,tanding,Q14750473,subclass of,energy systems,Q96325681,1
+451,technology development,Q105688765,subclass of,development,Q1074523,1
+452,technology,Q11016,subclass of,science,Q336,1
+453,technology,Q11016,part of,science,Q336,1
+454,technical,Q569612,has part,socio-economic data,Q53496168,1
+455,technical,Q569612,has part,financial partners,id-less,1
+456,tech nologies,id-less,part of,production,Q739302,1
+457,tech nical,id-less,subclass of,administrative management,Q27709748,1
+458,tax policy,Q3445707,subclass of,policy,Q1156854,1
+459,stre et.,id-less,part of,education programs,Q66664338,1
+460,strategies to improve placement,id-less,facet of,placement,Q1484784,1
+461,tertiary training institutions,id-less,different from,business,Q4830453,1
+462,social justice,Q264892,subclass of,political,Q82955,1
+463,socio-economic understanding,id-less,part of,histor ical,id-less,1
+464,socio-economic development,Q113463655,subclass of,strategies,Q185451,1
+465,socio-economic data,Q53496168,part of,technical,Q569612,1
+466,socio-economic,Q1643441,subclass of,information,Q11028,1
+467,socio-ec onomic,id-less,has part,cultural norms,Q50872855,1
+468,socio-demographic,Q852017,facet of,third challenge,Q66329105,1
+469,socialisation,Q185467,has effect,behaviour,Q9332,1
+470,social welfare,Q12002092,subclass of,dissemination,Q105460363,1
+471,social justice,Q264892,has part,economic growth,Q189833,1
+472,specialization,Q4671303,subclass of,exper tise,id-less,1
+473,social development,Q15765794,part of,economy,Q159810,1
+474,social construction,Q63770825,has part,gender rol es,id-less,1
+475,social considerations 6,id-less,part of,Economic and social considerations 6,id-less,1
+476,social concerns,Q112846036,subclass of,concerns,Q14212253,1
+477,social,Q345367,part of,economic development,Q4530482,1
+478,social,Q345367,has part,physical,Q413,1
+479,social,Q345367,country,Swaziland,Q1050,1
+480,smallholder cane growers,id-less,product or material produced,cane,Q1347864,1
+481,sound economic management,id-less,facet of,macroeconomic,Q39680,1
+482,sportin g,id-less,subclass of,recreational,Q11410,1
+483,strategies,Q185451,part of,policies,Q47011897,1
+484,storage facilities,Q55315265,subclass of,fuel resources,id-less,1
+485,strategies,Q185451,facet of,civil aviation,Q1571929,1
+486,strategic objectives,Q38123605,facet of,problems,Q130740,1
+487,strategic objectives,Q38123605,facet of,energy sector,Q1304795,1
+488,strategic guidelines,Q58505029,part of,planning,Q309100,1
+489,strategic areas,id-less,part of,macro,Q629579,1
+490,strategi es,id-less,part of,policies,Q47011897,1
+491,strat egy,id-less,part of,sectoral,Q110279343,1
+492,str ategies,id-less,part of,sector,Q3958441,1
+493,storage,Q66221,subclass of,food,Q2095,1
+494,st,Q43115,part of,macro,Q629579,1
+495,stock,Q2350543,part of,crops,Q235352,1
+496,state-owned,Q270791,subclass of,media house,Q1331793,1
+497,start up,Q129238,subclass of,small business,Q1109680,1
+498,standards,Q591990,used by,quality control,Q827792,1
+499,stand ards,id-less,part of,codes of conduct,Q64876691,1
+500,stagnating,Q81572537,subclass of,economic growth,Q189833,1
+501,sta tus,id-less,part of,adolescents,Q360484,1
+502,st rategic areas,id-less,part of,macro,Q629579,1
+503,tertiary sector,Q55638,follows,secondary sector,Q55639,1
+504,the past twenty years,Q71144358,is a list of,annals of the national economy,id-less,1
+505,private sectors,id-less,opposite of,public,Q294440,1
+506,vocational,Q322563,opposite of,orie ntation,id-less,1
+507,water,Q283,subclass of,social services,Q11588306,1
+508,water,Q283,part of,la nd resources,id-less,1
+509,water,Q283,facet of,sanitation,Q949149,1
+510,waste disposal,Q180388,has part,discharg es,id-less,1
+511,wage rates,Q107019982,facet of,wage,Q6821213,1
+512,wage differentials,Q52086634,facet of,soc ial,id-less,1
+513,vulnerable groups,Q3376054,subclass of,groups,Q9281006,1
+514,vocational,Q322563,subclass of,pre-schools,id-less,1
+515,vital statistics,Q1131372,subclass of,information,Q11028,1
+516,water harvesting,Q45943414,uses,water,Q283,1
+517,visual impairment,Q737460,has effect,acce ss,id-less,1
+518,vision,Q162668,has part,re gular,id-less,1
+519,vision,Q162668,facet of,strategic thinking,Q7621861,1
+520,vi sion,id-less,country,nation's,Q6456916,1
+521,very des titute,id-less,subclass of,social security payments,id-less,1
+522,vehicles,Q7918612,use,road transportation,Q45121324,1
+523,utilization,Q69406938,part of,resource management,Q14431238,1
+524,utilities,Q1951366,subclass of,enterprises,Q5380419,1
+525,water chemistry,Q912065,studies,pollution levels,Q86708995,1
+526,water policy,Q15761055,has part,co nservation,id-less,1
+527,use,Q1724915,has part,l,Q11582,1
+528,wedlock,Q8445,different from,born out of wedlock,Q73490071,1
+529,youth service NGOs,id-less,field of work,youth,Q190007,1
+530,youth fr iendly,id-less,subclass of,counselling,Q4390239,1
+531,youth,Q190007,field of this occupation,progr ammes,id-less,1
+532,women,Q467,subclass of,physically,Q28732711,1
+533,women,Q467,subclass of,marg,Q96006906,1
+534,women,Q467,subclass of,business,Q4830453,1
+535,well-being,Q7981051,facet of,Swazis,Q98026686,1
+536,welfare,Q12002092,subclass of,development,Q1074523,1
+537,watershed,Q166620,has part,dam,Q12323,1
+538,water policy,Q15761055,has part,management,Q2920921,1
+539,water treaties,id-less,subclass of,protocols,Q21161338,1
+540,water supply systems,Q36889052,subclass of,systems,Q50808462,1
+541,water supply,Q1061108,facet of,sanitation,Q949149,1
+542,water sector,Q96733217,has part,Water,Q283,1
+543,water resources development,Q7973355,subclass of,development,Q1074523,1
+544,water resources,Q1049799,part of,manage,Q667987,1
+545,water resources,Q1049799,facet of,water,Q283,1
+546,water policy,Q15761055,has part,pricing,Q2516951,1
+547,uses,Q18356647,uses,land,Q11081619,1
+548,urban sector,Q3477348,opposite of,rural,Q7380465,1
+549,thesociological,id-less,studies,behaviours,Q106314935,1
+550,tourism,Q49389,instance of,industry,Q8148,1
+551,training,Q216033,part of,formal,Q2144456,1
+552,trainin g,id-less,has effect,productive,Q1433881,1
+553,trainin,Q216033,item operated,equipment,Q10273457,1
+554,trade policy,Q572564,facet of,foreign trade,Q178803,1
+555,trade,Q601401,part of,global economy,Q473750,1
+556,trade,Q601401,part of,economy,Q159810,1
+557,town,Q3957,different from,city,Q515,1
+558,tourism,Q49389,subclass of,developin g,id-less,1
+559,tourism,Q49389,has part,rur al sector,id-less,1
+560,training,Q216033,subclass of,development,Q1074523,1
+561,touris m,id-less,use,recreation,Q184872,1
+562,touri,Q49389,instance of,sm.,Q458004,1
+563,tolerance,Q183225,facet of,religious,Q2566598,1
+564,tobacco,Q181095,has effect,alcohol abuse,Q7331102,1
+565,tinkhundla,Q2280192,subclass of,authorities,Q36524,1
+566,time,Q43297,subclass of,resources,Q1554231,1
+567,three-year rolling,id-less,follows,five-year national development plan,id-less,1
+568,"threats, risks and obstacles",id-less,facet of,"Threats, risks and obstacles",id-less,1
+569,training,Q216033,part of,si ngle plan,id-less,1
+570,training,Q216033,subclass of,human resource,Q2625010,1
+571,urban la nd use,id-less,opposite of,rural,Q7380465,1
+572,urban,Q159313,opposite of,rural,Q7380465,1
+573,urban housing,Q75219540,subclass of,affordable,Q1414593,1
+574,urban bias,Q7900100,opposite of,rural areas,Q175185,1
+575,urban areas,Q58259934,part of,rural,Q7380465,1
+576,urban areas,Q58259934,part of,peri-urban,Q7380602,1
+577,urban areas,Q58259934,country,Cameroon,Q1009,1
+578,urban area,Q702492,has part,inf ra-structure,id-less,1
+579,urban area,Q702492,has part,human settlements,Q486972,1
+580,urban,Q159313,subclass of,service,Q7406919,1
+581,unsafe abortions,Q38876260,subclass of,abortion,Q8452,1
+582,training,Q216033,subclass of,social services,Q11588306,1
+583,unemployment,Q41171,has cause,income-generating,Q36101111,1
+584,u se,Q68490281,use,agricultural,Q5356428,1
+585,treatment,Q179661,has part,benefits,Q6593860,1
+586,transport,Q7590,instance of,sub-sector,id-less,1
+587,transparency,Q3026325,facet of,government,Q7188,1
+588,transf ormation,id-less,part of,economic,Q8134,1
+589,transac tion,id-less,different from,land transac tion,id-less,1
+590,training institutions,id-less,subclass of,institutional capacity,Q107098843,1
+591,small,Q2590065,subclass of,large scale farmers,id-less,1
+592,small,Q2590065,said to be the same as,medium,Q2249676,1
+593,sm.,Q458004,has part,touri,Q49389,1
+594,quality o f life,id-less,facet of,country,Q6256,1
+595,re view of cultural practices,id-less,studies,cultural practices,Q65134253,1
+596,re gular,id-less,part of,vision,Q162668,1
+597,rational communications,id-less,has part,p olicy,id-less,1
+598,rape,Q177932,subclass of,violent crime,Q1520311,1
+599,rail transport,Q3565868,opposite of,road transport,Q516739,1
+600,rail,Q26623,opposite of,road,Q34442,1
+601,r isk mapping,id-less,facet of,food security,Q1229911,1
+602,quality of care,Q60649344,subclass of,standards,Q591990,1
+603,quality control,Q827792,uses,standards,Q591990,1
+604,recreational facilities,Q39841397,part of,infrastructural development,id-less,1
+605,qualitat,Q839486,part of,department,Q6465,1
+606,qua ntitative,id-less,subclass of,qualitative,Q47455943,1
+607,public works projects,Q66286771,subclass of,labour-intensive,Q108288221,1
+608,public services,Q15817798,subclass of,provide public services,id-less,1
+609,public services,Q15817798,subclass of,delivery,Q7590,1
+610,public service legisla tion,id-less,subclass of,legisla tion,id-less,1
+611,public service,Q161837,subclass of,labour,Q9630,1
+612,public service,Q161837,subclass of,effective ness,id-less,1
+613,realisti c,id-less,subclass of,monetary policy,Q178476,1
+614,recruitment,Q899277,has part,promotions,Q24024808,1
+615,public sector,Q294217,has part,NGOs,Q11788357,1
+616,registration,Q2399307,has part,fees,Q37464281,1
+617,repeaters,Q7313960,used by,poli cy,id-less,1
+618,religious associa tion,id-less,subclass of,freedom of religious associa tion,id-less,1
+619,related environmental threats,id-less,has cause,Climate change,Q125928,1
+620,rel_err,rel_err,rel_err,rel_err,rel_err,1
+621,rehabilitation,Q2795791,subclass of,infrastructure,Q121359,1
+622,regulatory mechanism,Q50812432,subclass of,Legislate,Q113301085,1
+623,regulatory framework,Q104899384,subclass of,framework,Q6671777,1
+624,regulation,Q428148,subclass of,legislation,Q820655,1
+625,regional development,Q482379,part of,Urban,Q159313,1
+626,recruitment,Q899277,has part,selection,Q1385610,1
+627,regional cooperation,Q113623117,has part,generat e efficiency gains,id-less,1
+628,regional,Q1218597,subclass of,market,Q330284,1
+629,regional,Q1218597,subclass of,health facility,Q4260475,1
+630,regional,Q1218597,different from,local,Q11851202,1
+631,refuse,Q45701,subclass of,waste,Q45701,1
+632,reforestation,Q815818,said to be the same as,afforestation,Q2384419,1
+633,redirecte d,id-less,part of,education system,Q446760,1
+634,red-tape,Q1761743,part of,bureaucratic,Q3422344,1
+635,public service,Q161837,facet of,public,Q294440,1
+636,public resourc es,id-less,has part,local resources,Q64308841,1
+637,sine qua non,Q316560,facet of,socio-economic development,Q113463655,1
+638,producer,Q3282637,field of this occupation,agricultural,Q5356428,1
+639,productivity,Q2111958,facet of,agricultural,Q5356428,1
+640,productive,Q1433881,has cause,trainin g,id-less,1
+641,production,Q739302,product or material produced,crop,Q235352,1
+642,production,Q739302,part of,natural science,Q7991,1
+643,production,Q739302,part of,consumption,Q12204,1
+644,production,Q739302,has effect,employment,Q656365,1
+645,producers,Q315732,product or material produced,livestock,Q4767951,1
+646,producers,Q315732,has part,farmers,Q131512,1
+647,processing,Q6661985,part of,industries,Q2976602,1
+648,professional council,id-less,part of,association,Q186290,1
+649,processing,Q6661985,part of,food management,Q27710895,1
+650,procedure,Q190686,subclass of,procedures,Q7247166,1
+651,privatised,Q3404257,subclass of,PEs,Q659739,1
+652,privatisation,Q161500,subclass of,ent erprise,id-less,1
+653,privatisation,Q161500,facet of,public enterprises,Q17069709,1
+654,privatisation,Q161500,facet of,po licy,id-less,1
+655,privatisation,Q161500,different from,public enterprises,Q17069709,1
+656,privatis ation,id-less,instance of,strategies,Q185451,1
+657,professional,Q702269,has part,elements,Q172891,1
+658,progr ammes,id-less,practiced by,youth,Q190007,1
+659,public resourc es,id-less,has part,donor,Q1968442,1
+660,health motivators,id-less,part of,rural health,Q3473027,1
+661,public participation,Q541936,instance of,culture,Q11042,1
+662,public enterprises,Q17069709,different from,privatisation,Q161500,1
+663,public debt strategy,id-less,facet of,public debt,Q3024789,1
+664,public budget,Q27998498,subsidiary,national airline,Q899774,1
+665,public assistance,Q11392097,instance of,policy,Q1156854,1
+666,public accountability,Q61589130,subclass of,transparency,Q3026325,1
+667,public,Q294440,part of,political forces,id-less,1
+668,public,Q294440,opposite of,private sectors,id-less,1
+669,public,Q294440,facet of,immigration,Q131288,1
+670,programmes,Q39071357,has part,human capital,Q165687,1
+671,psychological,Q6667429,has part,counselling,Q4390239,1
+672,prot ection,id-less,subclass of,monitor,Q5290,1
+673,prosperity,Q1760011,said to be the same as,harmony,Q184421,1
+674,promotive,Q103778510,subclass of,preventive,Q1773974,1
+675,promotionstrategy,id-less,part of,industrialization,Q202398,1
+676,promotions,Q24024808,part of,recruitment,Q899277,1
+677,promotion,Q39809,facet of,public service,Q161837,1
+678,project,Q170584,has part,obj ectives,id-less,1
+679,representa tive,id-less,subclass of,stakeholder,Q852998,1
+680,reprod uctive,id-less,subclass of,health care,Q31207,1
+681,reproductive health issues,Q36535199,facet of,sex,Q10525,1
+682,science and technology e ducation,id-less,has part,science and technology e ducation's,id-less,1
+683,secto rs,id-less,part of,public,Q294440,1
+684,sect,Q19097,subclass of,strategies,Q185451,1
+685,secondary sector,Q55639,opposite of,primary sector economy,id-less,1
+686,secondary sector,Q55639,followed by,tertiary sector,Q55638,1
+687,secondary import substitution phase,id-less,follows,primary phase,Q7243083,1
+688,se ctor,id-less,instance of,strategies,Q185451,1
+689,science and technology policy,Q81130851,subclass of,post-graduate work,Q84891682,1
+690,science and technology e ducation's,id-less,part of,science and technology e ducation,id-less,1
+691,science,Q336,has part,technology,Q11016,1
+692,sector committee,id-less,part of,NDS process,id-less,1
+693,scienc e,id-less,subclass of,technology,Q11016,1
+694,schemes,Q717197,subclass of,facilities,Q15761653,1
+695,scale,Q188488,subclass of,enterprises,Q5380419,1
+696,satis,Q4409015,instance of,fied,Q107188663,1
+697,sanitation,Q949149,subclass of,hygiene,Q162297,1
+698,sanitation,Q949149,subclass of,facilities,Q15761653,1
+699,sanitation,Q949149,facet of,health,Q12147,1
+700,safety standards,Q64525409,facet of,safety,Q10566551,1
+701,sector,Q3958441,has part,str ategies,id-less,1
+702,sectoral,Q110279343,part of,macro,Q629579,1
+703,required,Q774228,part of,research,Q42240,1
+704,services,Q114080183,different from,goods,Q2424752,1
+705,si ze,Q45701899,part of,family,Q8436,1
+706,short,Q24862,opposite of,medium-term,Q22294920,1
+707,sexual harassment,Q751722,has cause,inappropriate language,Q104671588,1
+708,sex,Q10525,facet of,citizens,Q50602,1
+709,settlement,Q486972,studied by,macro-economy,id-less,1
+710,settlement,Q486972,followed by,resettlements,id-less,1
+711,services,Q114080183,subclass of,performance,Q35140,1
+712,services,Q114080183,part of,industry,Q8148,1
+713,series of constraints,id-less,facet of,globalization,Q7181,1
+714,sectoral strategies,id-less,has part,macro strategic areas,id-less,1
+715,ser vices,id-less,part of,postal,Q700905,1
+716,self-sufficiency,Q1341794,subclass of,financial,Q22687,1
+717,self-respect,Q19357317,instance of,values,Q7912786,1
+718,self-employment,Q1005490,subclass of,productive,Q1433881,1
+719,self-employment,Q1005490,subclass of,process,Q10843872,1
+720,self-employment,Q1005490,facet of,educational system,Q446760,1
+721,selection,Q1385610,part of,recruitment,Q899277,1
+722,security,Q2526135,has part,risks,Q104493,1
+723,safety,Q10566551,facet of,road transport,Q516739,1
+724,safe shelter,Q109662392,subclass of,shelter,Q7493941,1
+725,rural sector,id-less,product or material produced,la nd,id-less,1
+726,resources,Q1554231,use,sustainable use,Q64816625,1
+727,road network,Q358078,facet of,safety,Q10566551,1
+728,road m aintenance,id-less,instance of,fund-raising,Q1161355,1
+729,road construction,Q2349677,practiced by,participati on of nationals,id-less,1
+730,road,Q34442,opposite of,rail,Q26623,1
+731,river basi ns,id-less,part of,river,Q4022,1
+732,river,Q4022,has part,river basi ns,id-less,1
+733,risks,Q104493,part of,security,Q2526135,1
+734,revenue collection,Q58345596,product or material produced,revenue,Q850210,1
+735,resource management,Q14431238,has part,utilization,Q69406938,1
+736,rural health,Q3473027,has part,health motivators,id-less,1
+737,resourc es,id-less,instance of,financial,Q22687,1
+738,resour,Q54872,subclass of,ces,Q291796,1
+739,resilience,Q219416,subclass of,risk,Q104493,1
+740,resettlements,id-less,has cause,effici ent manner,id-less,1
+741,research into the situation,id-less,has part,conduc t,id-less,1
+742,research,Q42240,has part,required,Q774228,1
+743,research,Q42240,has part,funding,Q6055890,1
+744,res ettled,id-less,subclass of,communities,Q177634,1
+745,road passenger,id-less,opposite of,road freight,Q29585624,1
+746,road proj ects,id-less,has part,environmental assessment,Q80899157,1
+747,road safety,Q1147899,studies,road traffic,Q4323994,1
+748,road traffic,Q4323994,studied by,road safety,Q1147899,1
+749,rural development,Q3045473,subclass of,development,Q1074523,1
+750,rural develop ment,id-less,subclass of,strategies,Q185451,1
+751,rural areas,Q175185,subclass of,social services,Q11588306,1
+752,rural areas,Q175185,subclass of,business,Q4830453,1
+753,rural areas,Q175185,part of,social economic,Q1643441,1
+754,rural areas,Q175185,opposite of,urban bias,Q7900100,1
+755,rural,Q7380465,opposite of,urban sector,Q3477348,1
+756,rural,Q7380465,opposite of,urban la nd use,id-less,1
+757,rural,Q7380465,opposite of,urban,Q159313,1
+758,rural,Q7380465,has part,urban areas,Q58259934,1
+759,rural,Q7380465,has part,towns,Q22108005,1
+760,rural,Q7380465,has part,developmen,Q213713,1
+761,rur al sector,id-less,subclass of,tourism,Q49389,1
+762,road transportation legislation,id-less,facet of,road traffic,Q4323994,1
+763,road transportation,Q45121324,item operated,vehicles,Q7918612,1
+764,road transport,Q516739,studied by,data collecti,Q4929239,1
+765,road transport,Q516739,has part,support fund,id-less,1
+766,health pers onnel,id-less,facet of,health institutions,Q60846935,1
+767,generat e efficiency gains,id-less,part of,regional cooperation,Q113623117,1
+768,health infrastructure,Q38449241,has part,syst em,id-less,1
+769,health education,Q60894,facet of,Health for All,Q17041748,1
+770,SMI Small and Medium Industry viEXECUTIVE SUMMARY,id-less,country,Cameroon,Q1009,1
+771,SECTORAL STRATEGIES,id-less,has part,STRATEGIES,Q185451,1
+772,SADC,Q816706,part of,Common Monetary Area,Q1116201,1
+773,S outhern,id-less,continent,Africa,Q15,1
+774,Roads,Q913035,subclass of,Road,Q34442,1
+775,Roads,Q913035,part of,PHYSICAL INFRASTRUCTURE,Q103030622,1
+776,Retention,Q1939410,part of,Training and Retention,Q36331115,1
+777,Research and Development,Q276099,subclass of,Development,Q1074523,1
+778,Relations Act,id-less,instance of,Act,Q3258,1
+779,Regional Cooperation,Q113623117,subclass of,Cooperation,Q380962,1
+780,Reducing poverty to minimal levels,id-less,has part,II.3.1 Reducing poverty to minimal levels,id-less,1
+781,Rationale of the vision,id-less,main subject,vision,Q162668,1
+782,Rational Land Use,id-less,has part,Tenure,Q7700938,1
+783,RURAL DEVELOPMENT,Q3045473,part of,AGRICULTURE,Q11451,1
+784,Public/Private partnerships 43,id-less,number of participants,43,Q282113,1
+785,Public/Civil society partnerships,id-less,has part,5,Q203,1
+786,Public/Civil society partnerships,id-less,has part,3,Q201,1
+787,Public Services,Q15817798,part of,General Public,Q2388316,1
+788,Public Sector Management Programme,id-less,has part,ESRA,Q639748,1
+789,SN,Q1041,owner of,L,Q11582,1
+790,SNL,Q13979,instance of,sector,Q3958441,1
+791,SOCIAL,Q345367,part of,SOCIOLOGICAL,Q63511556,1
+792,Space control 10,id-less,point in time,10,Q23806,1
+793,Swaziland Environment Authority,Q7654123,country,Swaziland,Q1050,1
+794,Swaziland Environment Action Plan,id-less,country,Swaziland,Q1050,1
+795,Swazila nd Environment Authority,id-less,applies to jurisdiction,Swazila,Q1050,1
+796,Swazi l aw,id-less,instance of,custom,Q367293,1
+797,Swazi economy,id-less,instance of,free-enterprise,Q5499812,1
+798,Swazi Nation Land,Q16919712,instance of,land dispute,Q111704895,1
+799,Swazi Bank,id-less,instance of,solvent,Q146505,1
+800,Swa zi,id-less,instance of,nation,Q6266,1
+801,Southern African Power Pool,Q7569582,instance of,Power Pool,Q7236594,1
+802,SOCIOLOGICAL,Q63511556,has part,SOCIAL,Q345367,1
+803,Social development,Q15765794,has part,41,Q12564,1
+804,Social Welfare,Q12002092,part of,"Population, Health and Social Welfare",id-less,1
+805,Service Act of 1996,id-less,point in time,1996,Q2070,1
+806,Selected variables and indicators 58,id-less,has part,Annexe 1,Q100578427,1
+807,Sectoral Strategies,id-less,instance of,Strategies,Q185451,1
+808,Science,Q336,has part,Technology,Q11016,1
+809,Savings and credit societies,id-less,part of,financial sector,Q57774188,1
+810,STRATEGIES,Q185451,part of,SECTORAL STRATEGIES,id-less,1
+811,Public Sector Management,Q107471270,subclass of,Management,Q2920921,1
+812,Public Enterpr ise Act,id-less,has part,Enterpr ise Act,id-less,1
+813,Promulgate,id-less,applies to jurisdiction,S NL,id-less,1
+814,New Economic Partnership for Africa’s Development,id-less,field of work,Poverty Reduction,Q1824165,1
+815,PHYSICAL INFRASTRUCTURE,Q103030622,has part,Roads,Q913035,1
+816,PARTNERSHIP,Q728646,part of,ECONOMY,Q159810,1
+817,PART ONE,Q2054215,has part,ONE,Q199,1
+818,PART FOUR,Q66474026,part of,FOUR,Q202,1
+819,PART FIVE,Q7140109,part of,FIVE,Q203,1
+820,ONE,Q199,part of,PART ONE,Q2054215,1
+821,OBSTACLES 52,id-less,part of,"THREATS, RISK FACTORS AND OBSTACLES 52",id-less,1
+822,OBJECTIVES 17,id-less,point in time,17,Q40118,1
+823,National integration,Q100373677,facet of,democratic process,Q97571552,1
+824,POTENTIAL RESOURCES 48,id-less,part of,IV,Q202,1
+825,National Water Master Plan,id-less,facet of,negotiations for shared waters,id-less,1
+826,National Development Strategy,id-less,instance of,Development Strategy,Q55983282,1
+827,National Development Strategy,id-less,author,Ministry of Economic Planning,Q16942384,1
+828,National Agricultural Research Systems,id-less,subsidiary,NARS,Q18029858,1
+829,National,Q53247,authority,Government,Q7188,1
+830,Natio n Land,id-less,country,Swazi,Q34014,1
+831,NGOs,Q11788357,part of,public sector,Q294217,1
+832,NGOs,Q11788357,field of work,social welfare,Q12002092,1
+833,POPULATION,Q33829,facet of,HEALTH,Q12147,1
+834,PRSP,Q7250831,country,Cameroon,Q1009,1
+835,Promotional Initiatives,id-less,part of,Education,Q8434,1
+836,Political participation 11,id-less,point in time,11,Q37136,1
+837,Productivity,Q2111958,part of,Efficiency,Q1034411,1
+838,Preparation process 2,id-less,number of steps,2,Q200,1
+839,Poverty alleviation,Q1824165,facet of,poverty,Q10294,1
+840,"Population, Health and Social Welfare",id-less,has part,Social Welfare,Q12002092,1
+841,Population explosion,Q47510469,country,Cameroon,Q1009,1
+842,Population and Development Act,id-less,part of,nati onal population policy framework,id-less,1
+843,Population Statistics,Q7229821,subclass of,Information,Q11028,1
+844,Population Growth,Q386191,facet of,Population,Q33829,1
+845,Political and administrative considerations 7,id-less,has part,administrative considerations 7,id-less,1
+846,PSMP,Q18060920,part of,civil service,Q11771944,1
+847,Policy,Q1156854,has part,Empowerment,Q868575,1
+848,Planning,Q309100,part of,Management,Q2920921,1
+849,Planning,Q309100,has part,Co-ordination,Q3550809,1
+850,Physical Infrastructure,Q103030622,subclass of,Infrastructure,Q121359,1
+851,Participation and Co-ordination,id-less,has part,Co-ordination,Q3550809,1
+852,Participation,Q1773152,part of,Education,Q8434,1
+853,Paris Declaration,Q2052298,instance of,guideline,Q1151067,1
+854,PUBLIC SECTOR MANAGEMENT,Q107471270,instance of,MANAGEMENT,Q2920921,1
+855,Swaziland National Provident,id-less,instance of,contributory schemes su ch,id-less,1
+856,Swaziland Stock Market,id-less,instance of,fun ction,id-less,1
+857,Swaziland's good soils,id-less,country,Swaziland,Q1050,1
+858,afforestation,Q2384419,said to be the same as,reforestation,Q815818,1
+859,agricultural enterprises,id-less,subclass of,profitability,Q26911,1
+860,agricultural development,Q65554733,instance of,areas of strategic thrust,id-less,1
+861,agricultural,Q5356428,uses,u se,Q68490281,1
+862,agricultural,Q5356428,subclass of,industrial development,Q107526382,1
+863,agricultural,Q5356428,subclass of,accessibl e,id-less,1
+864,agricultural,Q5356428,practiced by,producer,Q3282637,1
+865,agricultural,Q5356428,instance of,sector,Q3958441,1
+866,agricultur,Q11451,subclass of,commodity tax,Q113353895,1
+867,affordable prices,id-less,subclass of,prices,Q100397828,1
+868,agricultural policies,Q37452028,subclass of,policies,Q47011897,1
+869,adolescent Health policy,Q78615485,subclass of,policy,Q1156854,1
+870,administrative considerations 7,id-less,part of,Political and administrative considerations 7,id-less,1
+871,adeq uate,id-less,facet of,tenure,Q7700938,1
+872,adapting,Q84520440,part of,technology transfer,Q1061910,1
+873,ad herence,id-less,subclass of,rules,Q1151067,1
+874,acute respiratory infections,Q37242300,subclass of,disease,Q12136,1
+875,act ivities,id-less,facet of,poverty alleviation,Q1824165,1
+876,accounting,Q4116214,part of,especiall y,id-less,1
+877,agricultural insurance,Q9429806,subclass of,risk,Q104493,1
+878,agricultural product,Q11827455,has part,ion,Q36496,1
+879,accountabilit y,id-less,facet of,transparency,Q3026325,1
+880,agro-pastoral,Q59103667,subclass of,forest,Q4421,1
+881,alcohol,Q153,different from,drugs,Q8386,1
+882,alco hol,Q11073904,subclass of,drug abuse,Q3184856,1
+883,al leviation,id-less,facet of,poverty,Q10294,1
+884,airport,Q1248784,has part,ai rport,id-less,1
+885,airline,Q46970,has part,st atus,id-less,1
+886,ai rport,id-less,part of,airport,Q1248784,1
+887,agro-tourism,id-less,subclass of,eco-tourism,Q5333148,1
+888,agro-processing,Q58105891,subclass of,value added,Q1434924,1
+889,agro-based,Q58101421,subclass of,agricultural,Q5356428,1
+890,agricultural production,Q56299222,has part,agro-,Q397350,1
+891,agro-based,Q58101421,subclass of,agr,Q829903,1
+892,agro-,Q397350,part of,agricultural production,Q56299222,1
+893,agro,Q29715311,subclass of,products,Q542929,1
+894,agriculture,Q11451,instance of,industry,Q8148,1
+895,agriculture,Q11451,has effect,employment,Q656365,1
+896,agricultural water-works,id-less,subclass of,ma jor,id-less,1
+897,agricultural revolution,Q6499967,location,rural sector,id-less,1
+898,agricultural research,Q56237415,has part,extension,Q184148,1
+899,accountability,Q2798912,subclass of,performance measures,Q112447334,1
+900,account ability,Q44596686,facet of,productivity,Q2111958,1
+901,"THREATS, RISK FACTORS AND OBSTACLES 52",id-less,has part,OBSTACLES 52,id-less,1
+902,Tinkhundla,Q2280192,instance of,centres,Q68773434,1
+903,Transparency,Q3026325,facet of,culture of transparency,id-less,1
+904,Training and Retention,Q36331115,has part,Retention,Q1939410,1
+905,Training,Q216033,part of,Planning,Q309100,1
+906,Training,Q216033,part of,Education and Training,Q15765924,1
+907,Training,Q216033,part of,Education,Q8434,1
+908,Trading Licences Order,id-less,publication date,1975,Q2479,1
+909,Tourist Attractions,Q16711290,facet of,Tourist,Q5633897,1
+910,Tisuka,id-less,sibling,Tibiyo,Q7800466,1
+911,Tinkhundla,Q2280192,instance of,cen tres,id-less,1
+912,Tunisia,Q948,instance of,emerging country,Q33927642,1
+913,Tibiyo,Q7800466,sibling,Tisuka,id-less,1
+914,The Ministry of Education,Q6517829,parent organization,Ministry of Education,Q697093,1
+915,Tertiary education,Q136822,has part,market driven,Q6770673,1
+916,Tenure,Q7700938,part of,Rational Land Use,id-less,1
+917,Tenure,Q7700938,part of,Land Use,Q1165944,1
+918,Technology,Q11016,part of,Science,Q336,1
+919,Technical subjects,id-less,part of,education,Q8434,1
+920,TRAINING,Q216033,part of,EDUCATION,Q8434,1
+921,Transparency,Q3026325,subclass of,Information Disclosure,Q67123584,1
+922,Urban,Q159313,has part,regional development,Q482379,1
+923,accessible,Q2775009,subclass of,hea lth services,id-less,1
+924,abandoned,Q63065035,subclass of,abus ed,id-less,1
+925,accessible,Q2775009,subclass of,disseminated,Q8277,1
+926,access of public transport,id-less,facet of,disabilities,Q5281167,1
+927,acce ss,id-less,has cause,visual impairment,Q737460,1
+928,ac tion plan,id-less,part of,national biodiversity strategy and ac tion plan,id-less,1
+929,abuse of children,Q70035814,subclass of,hu man rights,id-less,1
+930,abuse and discrimination,Q30384660,subclass of,legislation,Q820655,1
+931,abroad,Q106856325,part of,cultural activities,Q1341006,1
+932,abortion,Q8452,has cause,pregnancy,Q11995,1
+933,Yaounde,Q3808,twinned administrative body,Douala,Q132830,1
+934,Use,Q1724915,part of,Access and Use,Q34021166,1
+935,Water Conservation,Q1462136,facet of,Water,Q283,1
+936,Water,Q283,part of,water sector,Q96733217,1
+937,Vocational and Industrial Training Board,Q111032709,parent organization,Directorate of Industrial,id-less,1
+938,Vocational Training,Q16861871,facet of,opera te,Q111997757,1
+939,Vision for the next 25-30 years,id-less,country,Cameroon,Q1009,1
+940,Vision,Q162668,has part,Mission Statement,Q942830,1
+941,V.2,Q9367761,has part,At the social level 55,id-less,1
+942,V.1,Q580994,part of,INSTITUTIONAL AND POLITICAL LEVEL 53,id-less,1
+943,NGOs,Q11788357,field of work,operations,Q3884033,1
+944,NGOs,Q11788357,different from,parastatals,Q98082153,1
+945,NGO,Q79913,subclass of,policy framework,Q107437541,1
+946,Consolidating democracy,id-less,has part,national unity,Q2199044,1
+947,Development Strategy,Q55983282,subclass of,Strategy,Q185451,1
+948,Development Context 5,id-less,point in time,5,Q203,1
+949,Defence and Security,Q58089573,part of,Law and Order,Q321423,1
+950,DISADVANTAGED,Q106394435,facet of,GENDER,Q48277,1
+951,DEVELOPMENT STAKES 10,id-less,number of participants,10,Q23806,1
+952,DECLARATION,Q46337,author,GOVERNMENT’S,Q161837,1
+953,Currency issue 56,id-less,point in time,56,Q522994,1
+954,Cultural Practices,Q65134253,has part,Family Relations,Q5433232,1
+955,Community Participation and Empowerment,Q39907831,has part,Empowerment,Q868575,1
+956,Director of Public Prosecution,Q19226277,part of,police department,Q10636123,1
+957,Commiss ion exercise,id-less,part of,Economic Review,Q27715723,1
+958,Co-ordination,Q3550809,part of,Planning,Q309100,1
+959,Co-ordination,Q3550809,part of,Participation and Co-ordination,id-less,1
+960,Climate change,Q125928,has effect,related environmental threats,id-less,1
+961,Civil Service Boar d,id-less,instance of,autonomous body,Q108911586,1
+962,Children should,Q2963591,is a list of,Children,Q7569,1
+963,Child Care Services,Q1542572,field of work,Child Care,Q1455871,1
+964,Central government,Q2767140,has part,local authorities,Q46022688,1
+965,Direct Welfare Assistance,id-less,subclass of,Welfare Assistance,Q59927482,1
+966,Directorate of Industrial,id-less,subsidiary,Vocational and Industrial Training Board,Q111032709,1
+967,Central African region,Q5060272,has part,Cameroon,Q1009,1
+968,Economic Review,Q27715723,has part,Commiss ion exercise,id-less,1
+969,Education,Q8434,subclass of,Information,Q11028,1
+970,Education,Q8434,has part,Training,Q216033,1
+971,Education,Q8434,has part,Promotional Initiatives,id-less,1
+972,Education,Q8434,has part,Participation,Q1773152,1
+973,Economic growth and employment challenge,id-less,number of participants,8,Q23355,1
+974,Economic and social considerations 6,id-less,has part,social considerations 6,id-less,1
+975,Economic Services,id-less,subclass of,Services,Q114080183,1
+976,Economic Review Commission,id-less,founded by,His Majesty,Q43274,1
+977,Economic Growth,Q189833,has part,Growth,Q1342838,1
+978,Disadvantaged Groups,Q77189624,part of,Gender and Disadvantaged Groups,id-less,1
+979,ESRA I,Q90256620,followed by,ESRA II,id-less,1
+980,ESRA,Q639748,part of,Public Sector Management Programme,id-less,1
+981,ECONOMY,Q159810,has part,PARTNERSHIP,Q728646,1
+982,ECONOMIC LEVEL 56,id-less,part of,V.3,Q20885711,1
+983,Dynamism,Q3502310,subclass of,Cultural Awareness,Q96200433,1
+984,Draft Public,Q66295787,instance of,review,Q265158,1
+985,Douala,Q132830,twinned administrative body,Yaounde,Q3808,1
+986,Disease Control and Prevention,Q42133220,instance of,Prevention,Q1717246,1
+987,Central Bank,Q66344,parent organization,itself,Q254474,1
+988,Cameroon's long-term development strategy,id-less,country,Cameroon,Q1009,1
+989,Efficiency,Q1034411,has part,Productivity,Q2111958,1
+990,3.1 Promotion of the manufacturing sector,id-less,number of participants,37,Q12556,1
+991,A large portion of the population's livelihood,id-less,has part,A large portion of the population will be still deriving A large portion of the population's livelihood,id-less,1
+992,8.2.4 Elderly,id-less,instance of,4,Q202,1
+993,5,Q203,part of,Public/Civil society partnerships,id-less,1
+994,41,Q12564,part of,Social development,Q15765794,1
+995,4.,Q202,point in time,4,Q202,1
+996,4 REGIONAL AND INTERNATIONAL INTEGRATION STRATEGY,id-less,number of participants,41,Q12564,1
+997,4,Q202,follows,2,Q200,1
+998,3.1 The issue of overall resource utilization,id-less,point in time,3.1,Q51189208,1
+999,3 Alternative scenarios,id-less,has part,II.1.3 Alternative scenarios,id-less,1
+1000,AU,Q408,parent organization,African Union,Q7159,1
+1001,3,Q201,part of,Public/Civil society partnerships,id-less,1
+1002,3,Q201,follows,2,Q200,1
+1003,2,Q200,follows,1,Q199,1
+1004,2,Q200,followed by,4,Q202,1
+1005,2,Q200,followed by,3,Q201,1
+1006,1996 Industrial,id-less,point in time,1996,Q2070,1
+1007,10,Q23806,instance of,Wealth distribution,Q15852698,1
+1008,1.3 Labour Relations,id-less,facet of,Labour Relations,Q608190,1
+1009,AGRICULTURE,Q11451,has part,RURAL DEVELOPMENT,Q3045473,1
+1010,Access,Q80689,part of,Access and Use,Q34021166,1
+1011,Cameroon's development,id-less,country,Cameroon,Q1009,1
+1012,Becoming a newly industrialized country 17,id-less,point in time,17,Q40118,1
+1013,Cameroon,Q1009,part of,Reference scenario,Q7307148,1
+1014,Cameroon,Q1009,part of,Central African region,Q5060272,1
+1015,Cameroon,Q1009,office held by head of government,Head of State,Q48352,1
+1016,Cameroon,Q1009,instance of,emergingcountry,id-less,1
+1017,Cameroon,Q1009,ethnic group,population of Cameroon,id-less,1
+1018,Cameroon,Q1009,ethnic group,ethnic,Q205049,1
+1019,CFA franc,Q191511,end time,1994,Q2067,1
+1020,CAMEROON VISION 2035,id-less,point in time,2035,Q12127,1
+1021,BOO a nd BOOT,id-less,instance of,BOT,Q11012,1
+1022,Access and Use,Q34021166,has part,Access,Q80689,1
+1023,Awareness,Q4338318,has cause,Integration,Q80091,1
+1024,At the social level 55,id-less,part of,V.2,Q9367761,1
+1025,Annexe 2,Q88485515,main subject,Trends of some indcators in emerging countries,id-less,1
+1026,Anglophone,Q652308,has part,francophone,Q857880,1
+1027,Agenda 21,Q208571,main subject,sustainable development,Q131201,1
+1028,African Union,Q7159,subsidiary,AU,Q408,1
+1029,Accessibility,Q555097,facet of,Special Education,Q212105,1
+1030,Access and Use,Q34021166,has part,Use,Q1724915,1
+1031,Education and Training,Q15765924,has part,Training,Q216033,1
+1032,Efficiency,Q1034411,subclass of,Productivity,Q2111958,1
+1033,NGO,Q79913,subclass of,donor agencies,Q39228546,1
+1034,L,Q11582,owned by,SN,Q1041,1
+1035,Linkages,Q112949139,subclass of,Linkage,Q930933,1
+1036,Legislative,Q820655,subclass of,Policy,Q1156854,1
+1037,Legislative,Q820655,has part,Environmental Issues,Q2144359,1
+1038,Law and Order,Q321423,has part,Defence and Security,Q58089573,1
+1039,Land and Rural Development,id-less,part of,Agriculture,Q11451,1
+1040,Land Use,Q1165944,has part,Tenure,Q7700938,1
+1041,Land Speculation Control Act,id-less,point in time,1972,Q2476,1
+1042,Labour Relations,Q608190,facet of,Labour,Q9630,1
+1043,Kingdom of Swaziland,Q1050,instance of,medium human,id-less,1
+1044,Lowveld,Q64007193,shares border with,Lower Middleveld,id-less,1
+1045,Investment Climate,Q105113660,subclass of,Climate,Q7937,1
+1046,International integration strategy 42,id-less,point in time,42,Q812996,1
+1047,Integration,Q80091,has effect,Awareness,Q4338318,1
+1048,Institutions dedicated to,id-less,is a list of,Institutions,Q27711101,1
+1049,Institutional Support,Q6041224,part of,Financial,Q22687,1
+1050,Institutional Reform,Q108564090,subclass of,Reform,Q900406,1
+1051,Infrastructure Development,Q28225444,product or material produced,Infrastructure,Q121359,1
+1052,Indonesia,Q252,instance of,emerging country,Q33927642,1
+1053,Lower Middleveld,id-less,shares border with,Lowveld,Q64007193,1
+1054,Lubombo,Q856657,located in the administrative territorial entity,Maputo,Q3889,1
+1055,Implementation strategies,Q93931278,facet of,implementation strategies,Q93931278,1
+1056,Ministry of Economic Planning and Development,id-less,instance of,Population Unit,id-less,1
+1057,NDS document,id-less,author,stakeholders group,id-less,1
+1058,NDS,Q1197,subclass of,planning system,Q39426886,1
+1059,NARS,Q18029858,parent organization,National Agricultural Research Systems,id-less,1
+1060,Ms wati III,id-less,position held,King,Q116,1
+1061,Morocco,Q1028,instance of,emerging country,Q33927642,1
+1062,Mission Statement,Q942830,part of,Vision,Q162668,1
+1063,Ministry of H ousing and Urban Development,id-less,subsidiary,Human Settlement Authority,id-less,1
+1064,Ministry of Education,Q697093,subsidiary,The Ministry of Education,Q6517829,1
+1065,Ministry,Q192350,subclass of,designated,Q1749269,1
+1066,MACRO,Q629579,subclass of,MACRO STRATEGIC,id-less,1
+1067,Millennium Development Goals,Q81737,has part,fight against climatechange effects,id-less,1
+1068,Millennium Development Goals,Q81737,creator,MDG,Q81737,1
+1069,Middl eveld,id-less,shares border with,Highveld,Q260225,1
+1070,Meat Marketing Commission,id-less,industry,long-term,Q247145,1
+1071,Maputo,Q3889,contains administrative territorial entity,Lubombo,Q856657,1
+1072,Malaysia,Q833,instance of,emerging country,Q33927642,1
+1073,Macroeconomic Management,Q63768837,studies,Macroeconomic,Q39680,1
+1074,MACRO-ECONOMIC MANAGEMENT,Q105901060,instance of,MANAGEMENT,Q2920921,1
+1075,Incentives,Q36783931,subclass of,Incentive,Q1414816,1
+1076,IV.2 RESOURCE MOBILIZATION,id-less,number of participants,48,Q712764,1
+1077,Electricity Supply Industry,Q5357809,country,Swaziland,Q1050,1
+1078,FIVE,Q203,has part,PART FIVE,Q7140109,1
+1079,Gender and Disadvantaged Groups,id-less,has part,Disadvantaged Groups,Q77189624,1
+1080,Formulation of the vision 12,id-less,point in time,12,Q36977,1
+1081,Foreign Direct Investments,Q5468377,part of,international,Q1072012,1
+1082,Food Security,Q1229911,subclass of,Security,Q2526135,1
+1083,Financial,Q22687,has part,Institutional Support,Q6041224,1
+1084,Family Relations,Q5433232,part of,Cultural Practices,Q65134253,1
+1085,FRAMEWORKS FOR THE USE OF RESOURCES,id-less,number of participants,50,Q712519,1
+1086,FOUR,Q202,has part,PART FOUR,Q66474026,1
+1087,FINANCING THE VISION 47,id-less,number of episodes,47,Q712687,1
+1088,Government,Q7188,applies to jurisdiction,National,Q53247,1
+1089,Extension Services,Q4693964,field of work,Extension,Q184148,1
+1090,Environmental management,Q929380,facet of,devel opment path,id-less,1
+1091,Environmental Issues,Q2144359,part of,Legislative,Q820655,1
+1092,Environmental Fund,id-less,instance of,Establish,Q837142,1
+1093,Enterpr ise Act,id-less,part of,Public Enterpr ise Act,id-less,1
+1094,Empowerment,Q868575,part of,Policy,Q1156854,1
+1095,Empowerment,Q868575,part of,Community Participation and Empowerment,Q39907831,1
+1096,Empirical phases of an industrial development process,id-less,part of,Annexe 3,Q88485516,1
+1097,General Orders,Q5532380,author,government's,Q161837,1
+1098,Government,Q7188,country,Swaziland,Q1050,1
+1099,IV,Q202,has part,POTENTIAL RESOURCES 48,id-less,1
+1100,Human capital formation 10,id-less,point in time,10,Q23806,1
+1101,INTRODUCTION,Q305178,part of,1,Q199,1
+1102,INSTITUTIONAL AND POLITICAL LEVEL 53,id-less,has part,V.1,Q580994,1
+1103,IMPLEMENTATION STRATEGIES 33,id-less,point in time,33,Q712661,1
+1104,III.1 strategy for national integration and consolidation of democracy,id-less,number of participants,34,Q712639,1
+1105,II.3.1 Reducing poverty to minimal levels,id-less,part of,Reducing poverty to minimal levels,id-less,1
+1106,II.2 THE VISION,id-less,number of episodes,15,Q38701,1
+1107,II.1.3 Alternative scenarios,id-less,part of,3 Alternative scenarios,id-less,1
+1108,I.3.3,id-less,point in time,3,Q201,1
+1109,Human and cultural considerations 6,id-less,has part,cultural considerations 6,id-less,1
+1110,Government,Q7188,head of government,Majesty's,Q16950159,1
+1111,Human Settlement Authority,id-less,parent organization,Ministry of H ousing and Urban Development,id-less,1
+1112,Home Affairs,Q111145457,parent organization,ministry of Home Affairs,Q6589202,1
+1113,Highveld,Q260225,shares border with,Middl eveld,id-less,1
+1114,Heavily Indebted Poor Country Initiative,id-less,point in time,2006,Q2021,1
+1115,Health Campaigns,Q62609878,subclass of,Campaigns,Q18812548,1
+1116,Head of State,Q48352,country,Cameroon,Q1009,1
+1117,H R forecasting,id-less,facet of,H R,Q237196,1
+1118,Government’s role in the economy,id-less,number of participants,42,Q812996,1
+1119,amusement park,Q194195,subclass of,entertainm ent,id-less,1
+1120,animal product,Q629103,subclass of,crops,Q235352,1
+1121,aodoption,id-less,part of,Validation and aodoption process 3,id-less,1
+1122,empha size skills,id-less,subclass of,educational system,Q446760,1
+1123,energy,Q11379,has part,fuel,Q42501,1
+1124,enabling environ ment,id-less,has effect,economic expansion,Q1384234,1
+1125,en vironmental laws,id-less,subclass of,regulations,Q106947327,1
+1126,employment,Q656365,has effect,Economic growth,Q189833,1
+1127,employment,Q656365,has cause,production,Q739302,1
+1128,employment,Q656365,has cause,agriculture,Q11451,1
+1129,employment,Q656365,facet of,poverty,Q10294,1
+1130,employee share holding,id-less,facet of,work establishments,id-less,1
+1131,emerging country,Q33927642,subclass of,country’s,Q12076836,1
+1132,engage,Q5377426,part of,industry,Q8148,1
+1133,elements,Q172891,part of,professional,Q702269,1
+1134,electricity,Q12725,subclass of,social services,Q11588306,1
+1135,elderly,Q1358789,said to be the same as,of the elderly,id-less,1
+1136,elation,Q1044050,part of,gender,Q48277,1
+1137,efficiency,Q1034411,subclass of,productivity,Q2111958,1
+1138,effici ent manner,id-less,has effect,resettlements,id-less,1
+1139,effi ciency,id-less,facet of,farming,Q1402889,1
+1140,effecti vely participate in the development,id-less,part of,communities,Q177634,1
+1141,energy crisis,Q1341376,has effect,inhibits growth,Q64074635,1
+1142,entrepreneurship,Q3908516,facet of,roa d transport,id-less,1
+1143,education system,Q446760,has part,redirecte d,id-less,1
+1144,epreneurial skills,id-less,subclass of,investment,Q4290,1
+1145,estates,Q657326,part of,communities,Q177634,1
+1146,erosion,Q80026,location,soil,Q36133,1
+1147,eradicating poverty,id-less,facet of,poverty,Q10294,1
+1148,equity,Q827451,subclass of,efficiency,Q1034411,1
+1149,equity,Q827451,subclass of,credit programmes,id-less,1
+1150,equitable distribution,Q84380972,facet of,water,Q283,1
+1151,equitable distribution,Q84380972,facet of,growth,Q1342838,1
+1152,equipment,Q10273457,part of,procurement,Q829492,1
+1153,environmental profile,Q33775564,subclass of,economic policy,Q582577,1
+1154,environment,Q2249676,has part,macro-economic,Q108131916,1
+1155,environmental priorities,Q81185040,facet of,national environmental mechanism,id-less,1
+1156,environmental policy,Q919526,has part,legislation,Q820655,1
+1157,environmental management,Q929380,part of,public,Q294440,1
+1158,environmental management,Q929380,country,Swaziland,Q1050,1
+1159,environmental laws,Q13856646,subclass of,Enforce,Q16246285,1
+1160,environmental assessment,Q80899157,part of,road proj ects,id-less,1
+1161,environmental,Q10485087,practiced by,decision-ma king,id-less,1
+1162,environment,Q2249676,studied by,management,Q2920921,1
+1163,educational needs,Q64607540,facet of,educational,Q7922,1
+1164,education system,Q446760,has part,private sector,Q591763,1
+1165,ethnic,Q205049,country,Cameroon,Q1009,1
+1166,economic,Q8134,part of,social,Q345367,1
+1167,economic empowerment,Q63829080,has part,participation,Q1773152,1
+1168,economic empowerment,Q63829080,has part,ownership,Q6498684,1
+1169,economic empowerment,Q63829080,has part,management,Q2920921,1
+1170,economic empowerme nt,id-less,has part,nationals,Q825838,1
+1171,economic development,Q4530482,has part,social,Q345367,1
+1172,economic criteria,Q113434725,facet of,investment decisions,Q6060850,1
+1173,economic crisis broke out in 1985,id-less,point in time,1985,Q2431,1
+1174,economic a nd social activities,id-less,has cause,persons with disabilities,Q74535604,1
+1175,econom ic,id-less,facet of,land use,Q1165944,1
+1176,economic expansion,Q1384234,has cause,enabling environ ment,id-less,1
+1177,econ omic empowerment,id-less,facet of,econ,Q8134,1
+1178,eco-tourism,Q5333148,subclass of,tourism,Q49389,1
+1179,ec onomy,id-less,different from,economy,Q159810,1
+1180,early warning system's out put,id-less,facet of,early warning system,Q1427940,1
+1181,early warning,Q114479747,subclass of,syst ems,id-less,1
+1182,early marriage,Q57939805,subclass of,legislation,Q820655,1
+1183,e ducation costs,id-less,part of,education,Q8434,1
+1184,dynamism,Q3502310,facet of,cultural practices,Q65134253,1
+1185,economic empowerment,Q63829080,instance of,social objectives,Q36687480,1
+1186,economic performances since independence,id-less,has part,chall enges,id-less,1
+1187,education research,Q861399,subclass of,research,Q42240,1
+1188,economy,Q159810,has part,t he need to develop the local economy,id-less,1
+1189,education programs,Q66664338,has part,stre et.,id-less,1
+1190,education,Q8434,subclass of,social services,Q11588306,1
+1191,education,Q8434,instance of,quality,Q1207505,1
+1192,education,Q8434,has part,family planning programmes,Q69700075,1
+1193,education,Q8434,has part,e ducation costs,id-less,1
+1194,education,Q8434,has part,curriculum,Q207137,1
+1195,education,Q8434,has part,classroom,Q621114,1
+1196,education,Q8434,has part,Technical subjects,id-less,1
+1197,economy,Q159810,has part,social development,Q15765794,1
+1198,economic relat ions,id-less,country,Swazi,Q34014,1
+1199,economy,Q159810,has part,operations,Q3884033,1
+1200,economy,Q159810,has part,manufacturing,Q187939,1
+1201,economy,Q159810,has part,industry,Q8148,1
+1202,economy,Q159810,different from,ec onomy,id-less,1
+1203,economy,Q159810,country,Cameroon,Q1009,1
+1204,economicaction,id-less,country,Cameroon,Q1009,1
+1205,economic sense,id-less,said to be the same as,makes good economic sense,id-less,1
+1206,economic revival process launched ten years ago,id-less,follows,ten years ago,Q77476739,1
+1207,ethical standards,Q107638224,facet of,journalism,Q11030,1
+1208,ev,Q13629441,part of,community,Q486972,1
+1209,duties,Q3714732,subclass of,func tions,id-less,1
+1210,gender issues,Q15753025,facet of,rural,Q7380465,1
+1211,global economy,Q473750,has part,trade,Q601401,1
+1212,global economy,Q473750,has part,finance,Q43015,1
+1213,global economy,Q473750,country,Cameroon,Q1009,1
+1214,girls,Q6581072,subclass of,women,Q467,1
+1215,generating opportunities,id-less,subclass of,opportunities,Q84501571,1
+1216,generatin g,id-less,subclass of,informal income,Q56095483,1
+1217,1.1.3,id-less,point in time,1,Q199,1
+1218,gender rol es,id-less,part of,social construction,Q63770825,1
+1219,gender issues,Q15753025,facet of,gender,Q48277,1
+1220,good governance strategy,id-less,part of,industrialization,Q202398,1
+1221,gender equity,Q7252,part of,social,Q345367,1
+1222,gender disaggregated data,id-less,subclass of,disaggregated data,Q30867384,1
+1223,gender dimension,Q56613447,facet of,environmental manageme nt.,id-less,1
+1224,gender,Q48277,has part,elation,Q1044050,1
+1225,future generations,Q954025,opposite of,present,Q192613,1
+1226,funding,Q6055890,part of,research,Q42240,1
+1227,ful l,Q33454,subclass of,parental responsibility,Q4375005,1
+1228,fuelwood,Q57957461,subclass of,sustainable,Q66095801,1
+1229,globalization,Q7181,has effect,series of constraints,id-less,1
+1230,goods,Q2424752,different from,services,Q114080183,1
+1231,fuel deficit areas,id-less,has part,degraded landscap,id-less,1
+1232,grazing,Q3239189,subclass of,crop,Q235352,1
+1233,health care,Q31207,has part,institutions,Q27711101,1
+1234,health car e,id-less,subclass of,mission-owned,id-less,1
+1235,health,Q12147,subclass of,basic services,Q74832136,1
+1236,health,Q12147,has part,education,Q8434,1
+1237,harmony,Q184421,said to be the same as,prosperity,Q1760011,1
+1238,harmonisation,Q5659376,facet of,monetary policies,Q113443596,1
+1239,growth recovery,Q54436410,has cause,devaluation,Q220788,1
+1240,growth engine,Q39087187,subclass of,investments,Q114500150,1
+1241,grassroots,Q929651,subclass of,communities,Q177634,1
+1242,gove rnment,id-less,has part,expenditure,Q760120,1
+1243,gra duates,id-less,use,curriculum design,Q35824738,1
+1244,government structure,Q19944802,subclass of,structure,Q811979,1
+1245,government pension,Q1196231,subclass of,Fund,Q2620430,1
+1246,government,Q7188,product or material produced,information,Q11028,1
+1247,government,Q7188,has part,supervisory,Q759969,1
+1248,governm ent,id-less,part of,political will,Q107259730,1
+1249,governance,Q1553864,subclass of,challenge,Q16511806,1
+1250,governance,Q1553864,facet of,business climate,id-less,1
+1251,fuel-relate d accidents,id-less,has effect,education campaigns,Q40300489,1
+1252,fuel,Q42501,part of,energy,Q11379,1
+1253,exc hange,id-less,has part,information unit,id-less,1
+1254,facil itate,id-less,facet of,transparency,Q3026325,1
+1255,farmers,Q131512,subclass of,producers,Q315732,1
+1256,family unit,Q66837962,has part,extended family,Q721790,1
+1257,family unit,Q66837962,facet of,traditional systems,Q35905687,1
+1258,family tracing service,id-less,field of work,deter mine,id-less,1
+1259,family system,Q870449,has part,extended family,Q721790,1
+1260,family planning programmes,Q69700075,part of,education,Q8434,1
+1261,family planning programmes,Q69700075,has part,male partners,Q38685748,1
+1262,family,Q8436,has part,si ze,Q45701899,1
+1263,f ree,id-less,part of,customs union,Q218819,1
+1264,fast-tra ck,id-less,part of,urban development programme,id-less,1
+1265,f ollowing,id-less,subclass of,promotion,Q39809,1
+1266,externalfinancial package,id-less,subclass of,public investment,Q59095065,1
+1267,extension,Q184148,part of,agricultural research,Q56237415,1
+1268,extens ion services,id-less,use,agricultural,Q5356428,1
+1269,extended family,Q721790,part of,family system,Q870449,1
+1270,exploration permit,id-less,subclass of,licences,Q284742,1
+1271,exploitation,Q600571,subclass of,natural resources,Q105575840,1
+1272,expenditure,Q760120,part of,gove rnment,id-less,1
+1273,farming technologies,id-less,use,farming,Q1402889,1
+1274,fees,Q37464281,part of,registration,Q2399307,1
+1275,fu ll disclosure of information,id-less,subclass of,communication,Q11024,1
+1276,fiscal prudence,id-less,subclass of,policies,Q47011897,1
+1277,freight forwarders,Q840850,industry,logistics,Q177777,1
+1278,freedom,Q2979,has part,equality,Q842346,1
+1279,foster families,Q35990653,subclass of,adoptive,Q20746742,1
+1280,forward linkages,id-less,opposite of,backward,Q16938807,1
+1281,forest,Q4421,subclass of,grazing,Q3239189,1
+1282,food security progra mmes's,id-less,part of,food security progra mmes,id-less,1
+1283,food security progra mmes,id-less,has part,food security progra mmes's,id-less,1
+1284,five-year national development plan,id-less,followed by,three-year rolling,id-less,1
+1285,fiscal,Q1419659,subclass of,appropriate,Q113903632,1
+1286,female-headed households,Q98831851,subclass of,households,Q64873892,1
+1287,financial services,Q5449654,has part,o ffshore,id-less,1
+1288,financial sector,Q57774188,has part,Savings and credit societies,id-less,1
+1289,financial partners,id-less,part of,technical,Q569612,1
+1290,financial ins titutions,id-less,has part,housing developers,id-less,1
+1291,finance,Q43015,part of,global economy,Q473750,1
+1292,fina ncial services,id-less,instance of,sector,Q3958441,1
+1293,fight against climatechange effects,id-less,part of,Millennium Development Goals,Q81737,1
+1294,females,Q111905566,opposite of,males,Q6743117,1
+1295,dynamic activities in the informal sector,id-less,part of,informal sector,Q944235,1
+1296,drugs,Q8386,different from,alcohol,Q153,1
+1297,app ropriate,id-less,part of,census methodology,id-less,1
+1298,cold dressed,id-less,subclass of,carcasses,Q114491546,1
+1299,community participation,Q65807646,facet of,natural resource management,Q3743137,1
+1300,community part icipation,id-less,part of,community,Q486972,1
+1301,community authorities,id-less,applies to jurisdiction,local,Q11851202,1
+1302,community,Q486972,has part,ev,Q13629441,1
+1303,communities,Q177634,has part,households,Q64873892,1
+1304,communities,Q177634,has part,estates,Q657326,1
+1305,communities,Q177634,has part,effecti vely participate in the development,id-less,1
+1306,common legal,Q59672653,different from,customary,Q5196583,1
+1307,codes,Q105700118,facet of,investment policies,Q105915842,1
+1308,community-based policing,id-less,subclass of,policing,Q100348214,1
+1309,co nservation,id-less,part of,water policy,Q15761055,1
+1310,climatic conditions,Q29013396,subclass of,agricultural research,Q56237415,1
+1311,climatic conditions,Q29013396,facet of,climatic,Q125928,1
+1312,classroom,Q621114,part of,education,Q8434,1
+1313,civil society,Q181865,part of,political level,id-less,1
+1314,civil,Q8676,subclass of,law,Q7748,1
+1315,city,Q515,different from,town,Q3957,1
+1316,cities,Q515,different from,towns,Q22108005,1
+1317,community-based administrative structure,id-less,subclass of,systematic interventions,Q113173635,1
+1318,comp anies,id-less,subclass of,monopolies,Q55084922,1
+1319,child care,Q1455871,subclass of,services,Q114080183,1
+1320,consistency,Q1319773,subclass of,uniformity,Q208650,1
+1321,consumer,Q22855,subclass of,stakeholders,Q108798676,1
+1322,consultation process,Q83952239,has part,nomination of stakeholder representat,id-less,1
+1323,consultati ve,id-less,subclass of,participatory approach,Q24707458,1
+1324,construction,Q385378,practiced by,companies,Q257303,1
+1325,constr uction,id-less,product or material produced,road,Q34442,1
+1326,constitution,Q7755,main subject,equality,Q842346,1
+1327,constitution,Q7755,has part,tenets,Q5575554,1
+1328,constant growth,Q33727320,country,Cameroon,Q1009,1
+1329,consistency,Q1319773,subclass of,applicability,Q1074648,1
+1330,companies,Q257303,field of this occupation,construction,Q385378,1
+1331,conservation legislation,Q56756545,subclass of,legislation,Q820655,1
+1332,conservation,Q832237,subclass of,environmental protection,Q832237,1
+1333,conservation,Q832237,facet of,environmental,Q10485087,1
+1334,conse nsus,id-less,applies to jurisdiction,national,Q53247,1
+1335,conduc t,id-less,part of,research into the situation,id-less,1
+1336,conditions of employment,Q25204034,part of,labour laws,Q78830905,1
+1337,competitiv e,id-less,subclass of,business costs,id-less,1
+1338,competition,Q476300,facet of,industry,Q8148,1
+1339,child protection laws,id-less,subclass of,policies,Q47011897,1
+1340,child abuse,Q167191,subclass of,personnel who handle child abuse,id-less,1
+1341,controlled,Q46622,facet of,illegal trade,Q57262007,1
+1342,aximisation,id-less,facet of,productive employment,Q98659387,1
+1343,blind,Q10874,subclass of,disabled people,Q15978181,1
+1344,better roads,Q96328275,facet of,roads,Q913035,1
+1345,benefits of development,Q43207979,facet of,equitable access,Q16837086,1
+1346,benefits,Q6593860,part of,treatment,Q179661,1
+1347,behaviours,Q106314935,studied by,thesociological,id-less,1
+1348,basic education,Q3309206,subclass of,curriculum,Q207137,1
+1349,basic education,Q3309206,facet of,children,Q7569,1
+1350,backward,Q16938807,opposite of,forward linkages,id-less,1
+1351,awards,Q2988681,facet of,awards's,Q4504495,1
+1352,born out of wedlock,Q73490071,different from,wedlock,Q8445,1
+1353,autonomous road authority,id-less,subclass of,road authority,id-less,1
+1354,assumptio n,id-less,facet of,free-market,Q46607,1
+1355,association,Q186290,has part,professional council,id-less,1
+1356,associa tions,id-less,part of,co-operative movement,Q1502514,1
+1357,assessment capability,id-less,subclass of,assessment,Q1379672,1
+1358,assembly market,id-less,subclass of,rural market,Q3555589,1
+1359,aspirations,Q737568,part of,needs,Q37208103,1
+1360,appropr iate,id-less,facet of,renewable energy,Q12705,1
+1361,board members,Q66169646,field of this occupation,oversee operations,id-less,1
+1362,botanic garden,Q167346,field of work,Establish,Q837142,1
+1363,chiefs,Q247731,part of,local councils,Q12192339,1
+1364,cases,Q36870299,part of,court,Q41487,1
+1365,chiefs,Q247731,part of,councils,Q55557858,1
+1366,chiefs,Q247731,applies to jurisdiction,local authorities,Q46022688,1
+1367,chall enges,id-less,part of,economic performances since independence,id-less,1
+1368,central government,Q2767140,instance of,government,Q7188,1
+1369,central government,Q2767140,has part,local authorities,Q46022688,1
+1370,central,Q57525,instance of,government,Q7188,1
+1371,census methodology,id-less,has part,app ropriate,id-less,1
+1372,catchment,Q166620,subclass of,water,Q283,1
+1373,career,Q282049,practiced by,health personnel,Q59283400,1
+1374,botanic garden,Q167346,instance of,Establish,Q837142,1
+1375,care services for th e elderly,id-less,subclass of,sub-contract,Q16942433,1
+1376,care for the elderly,Q437458,subclass of,encoura ge,id-less,1
+1377,capacity,Q1347367,part of,infrastructure,Q121359,1
+1378,capabilit y,id-less,facet of,Economic empowerment,Q63829080,1
+1379,business,Q4830453,has part,labour,Q9630,1
+1380,business,Q4830453,different from,tertiary training institutions,id-less,1
+1381,bursari es,id-less,subclass of,scholarships,Q96814625,1
+1382,building standards,Q96329090,subclass of,regulations,Q106947327,1
+1383,consumption,Q12204,has part,production,Q739302,1
+1384,conventions,Q92986448,has part,policy requirements,Q47318256,1
+1385,drug abuse,Q3184856,subclass of,perti nent,id-less,1
+1386,departments,Q643589,has part,parastatals,Q98082153,1
+1387,development partners,id-less,has part,private sector,Q591763,1
+1388,developmen,Q213713,part of,rural,Q7380465,1
+1389,develo pment,id-less,part of,environmental management,Q929380,1
+1390,devaluation,Q220788,has effect,growth recovery,Q54436410,1
+1391,destroying,Q17781833,facet of,environment,Q2249676,1
+1392,destitute,Q3332083,subclass of,elderly people,Q2191986,1
+1393,deserve,Q106696247,said to be the same as,merit,Q1527264,1
+1394,departments,Q643589,part of,exp,Q23173789,1
+1395,department,Q6465,has part,qualitat,Q839486,1
+1396,development policy,Q61706319,country,country,Q6256,1
+1397,democratization,Q1064441,has effect,social cohesion,Q553270,1
+1398,democracy,Q7174,has part,national unity,Q2199044,1
+1399,demand-driven research,id-less,subclass of,research,Q42240,1
+1400,demand,Q1665268,opposite of,supply,Q166656,1
+1401,degraded landscap,id-less,part of,fuel deficit areas,id-less,1
+1402,decision-making process,Q54023377,part of,institutional arrangements,Q81231664,1
+1403,decision-making,Q1331926,has part,positions,Q100351980,1
+1404,decision-ma king,id-less,field of this occupation,environmental,Q10485087,1
+1405,development plan,Q5266783,facet of,equita ble allocation of resources,id-less,1
+1406,development strategy,Q55983282,facet of,country,Q6256,1
+1407,decisi ons,id-less,subclass of,communication,Q11024,1
+1408,discharg es,id-less,part of,waste disposal,Q180388,1
+1409,drinking water,Q7892,said to be the same as,pre sent status,id-less,1
+1410,donor,Q1968442,part of,public resourc es,id-less,1
+1411,dividends,Q110719882,facet of,share capital,Q330601,1
+1412,diversification of agricultural productio n,id-less,subclass of,production,Q739302,1
+1413,distribution of the wealth,id-less,facet of,wealth,Q200535,1
+1414,dishes,Q77973362,part of,cultural,Q11042,1
+1415,diseases,Q12136,subclass of,health problems,Q93912954,1
+1416,discrimination,Q169207,subclass of,legislative reform,Q110254697,1
+1417,disabled,Q29819488,subclass of,physically,Q28732711,1
+1418,development studies,Q651571,subclass of,curriculum,Q207137,1
+1419,disabilities,Q5281167,subclass of,persons,Q5,1
+1420,disabilities,Q5281167,has part,prevent the various forms,id-less,1
+1421,disabilities,Q5281167,facet of,society,Q8425,1
+1422,disabiliti es,id-less,subclass of,disadvantaged,Q106394435,1
+1423,diffe rent,id-less,subclass of,agro-ecological zones,id-less,1
+1424,dia logue,Q11231943,subclass of,continuous,Q2195,1
+1425,di scouragement,id-less,part of,culture,Q11042,1
+1426,developments in the country,id-less,facet of,country,Q6256,1
+1427,decision making,Q1331926,uses,ingredient,Q10675206,1
+1428,decentralisation,Q188961,subclass of,decision making,Q1331926,1
+1429,core business,Q1473480,opposite of,non-core b usiness,id-less,1
+1430,crime investigation,Q16952708,subclass of,investigation,Q21004260,1
+1431,cultural activities,Q1341006,has part,abroad,Q106856325,1
+1432,cu lture,id-less,subclass of,generating relevant information,Q100526996,1
+1433,crops,Q235352,subclass of,Arable land,Q843920,1
+1434,crop,Q235352,instance of,land use,Q1165944,1
+1435,critical dimensions,Q70731146,subclass of,critical,Q21604267,1
+1436,criminal offenses,Q57448923,subclass of,legislation,Q820655,1
+1437,crime prevention,Q855848,subclass of,prevention,Q1717246,1
+1438,crime prevention,Q855848,subclass of,crime reduction,Q105537368,1
+1439,credit availability,Q59157084,facet of,credit,Q182076,1
+1440,cultural activities,Q1341006,has part,st ructures,id-less,1
+1441,court,Q41487,has part,cases,Q36870299,1
+1442,country’sdevelopment engine,id-less,has part,industrial sector,Q55639,1
+1443,counselling,Q4390239,part of,psychological,Q6667429,1
+1444,councils,Q55557858,has part,chiefs,Q247731,1
+1445,cost-reflective pricing,id-less,subclass of,policies,Q47011897,1
+1446,cost-recovery programme,id-less,facet of,public services,Q15817798,1
+1447,cost-benefit analysis,Q942582,studies,implemen tation,id-less,1
+1448,cost recovery,Q112846555,facet of,budget,Q41263,1
+1449,cultural activities,Q1341006,has part,loca lly,id-less,1
+1450,cultural awareness,Q96200433,facet of,raisin,Q13186,1
+1451,day care centre,Q12307014,subclass of,drop-in centres,id-less,1
+1452,custom er,id-less,has part,postal services,Q57616250,1
+1453,data collecti,Q4929239,studies,road transport,Q516739,1
+1454,dan gers,Q4473347,subclass of,fly-by-night,Q204364,1
+1455,dam,Q12323,use,irrigation,Q11453,1
+1456,dam,Q12323,use,irriga tion,id-less,1
+1457,dam,Q12323,subclass of,source of water,id-less,1
+1458,dam,Q12323,part of,watershed,Q166620,1
+1459,customs union,Q218819,has part,f ree,id-less,1
+1460,customary,Q5196583,subclass of,law,Q7748,1
+1461,curriculum,Q207137,part of,education,Q8434,1
+1462,cultural considerations 6,id-less,part of,Human and cultural considerations 6,id-less,1
+1463,curricula,Q6510200,part of,school,Q3914,1
+1464,cultures,Q11042,part of,society,Q8425,1
+1465,culture,Q11042,has part,di scouragement,id-less,1
+1466,culturally,Q1338878,part of,historically,Q1620945,1
+1467,cultural values,Q112887553,country,Swazi,Q34014,1
+1468,cultural tourism,Q1415049,subclass of,tourism,Q49389,1
+1469,cultural practices,Q65134253,studied by,re view of cultural practices,id-less,1
+1470,cultural norms,Q50872855,part of,socio-ec onomic,id-less,1
+1471,zones,Q4572,facet of,ecological,Q37813,1
