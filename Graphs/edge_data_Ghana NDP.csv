@@ -1,0 +1,929 @@
+head_text,head_wiki_id,relation,tail_text,tail_wiki_id,count,ent_rel_pair,head_name,tail_name
+2017,Q25290,followed by,2018 Budget,id-less,49,2017 followed by 2018 Budget,2017_Q25290,2018 Budget_id-less
+360,Q48263,has part,375,Q34902,49,360 has part 375,360_Q48263,375_Q34902
+375,Q34902,has part,360,Q48263,49,375 has part 360,375_Q34902,360_Q48263
+Central Region,Q846323,instance of,MMDAs,id-less,49,Central Region instance of MMDAs,Central Region_Q846323,MMDAs_id-less
+360,Q48263,has part,letters issued 275 280 360 360 375 375,id-less,49,360 has part letters issued 275 280 360 360 375 375,360_Q48263,letters issued 275 280 360 360 375 375_id-less
+Greater Accra Region,Q431729,instance of,MMDAs,id-less,49,Greater Accra Region instance of MMDAs,Greater Accra Region_Q431729,MMDAs_id-less
+Institutions Number of Management letters,id-less,subclass of,letters,Q1277575,49,Institutions Number of Management letters subclass of letters,Institutions Number of Management letters_id-less,letters_Q1277575
+375,Q34902,has part,letters issued 275 280,id-less,49,375 has part letters issued 275 280,375_Q34902,letters issued 275 280_id-less
+200,Q713744,subclass of,letters,Q1277575,49,200 subclass of letters,200_Q713744,letters_Q1277575
+275 280,id-less,has part,375,Q34902,49,275 280 has part 375,275 280_id-less,375_Q34902
+275 280,id-less,has part,360,Q48263,49,275 280 has part 360,275 280_id-less,360_Q48263
+265,Q32189,subclass of,letters,Q1277575,49,265 subclass of letters,265_Q32189,letters_Q1277575
+260,Q30311,subclass of,letters,Q1277575,49,260 subclass of letters,260_Q30311,letters_Q1277575
+2018 Budget,id-less,follows,2017,Q25290,49,2018 Budget follows 2017,2018 Budget_id-less,2017_Q25290
+2019 BUDGET ESTIMATES,id-less,point in time,2019,Q25274,45,2019 BUDGET ESTIMATES point in time 2019,2019 BUDGET ESTIMATES_id-less,2019_Q25274
+Institutions Number of Management letters issued,id-less,located in the administrative territorial entity,Western Region,Q1052867,16,Institutions Number of Management letters issued located in the administrative territorial entity Western Region,Institutions Number of Management letters issued_id-less,Western Region_Q1052867
+Western Region,Q1052867,instance of,Institutions Number of Management letters,id-less,11,Western Region instance of Institutions Number of Management letters,Western Region_Q1052867,Institutions Number of Management letters_id-less
+Budget by Chart of Account,id-less,facet of,Chart of Account,Q1406649,9,Budget by Chart of Account facet of Chart of Account,Budget by Chart of Account_id-less,Chart of Account_Q1406649
+GH Cedi,id-less,instance of,Currency,Q8142,8,GH Cedi instance of Currency,GH Cedi_id-less,Currency_Q8142
+National Development Planning Commission,Q104880767,instance of,Entity,Q56061,8,National Development Planning Commission instance of Entity,National Development Planning Commission_Q104880767,Entity_Q56061
+2021,Q49628,follows,2020,Q25337,7,2021 follows 2020,2021_Q49628,2020_Q25337
+2020,Q25337,followed by,2021,Q49628,7,2020 followed by 2021,2020_Q25337,2021_Q49628
+2019 BUDGET,id-less,point in time,2019,Q25274,7,2019 BUDGET point in time 2019,2019 BUDGET_id-less,2019_Q25274
+All Source of Funding,id-less,instance of,Funding,Q6055890,6,All Source of Funding instance of Funding,All Source of Funding_id-less,Funding_Q6055890
+GH Cedi,id-less,start time,2019,Q25274,6,GH Cedi start time 2019,GH Cedi_id-less,2019_Q25274
+Management,Q2920921,part of,Administration,Q5283295,6,Management part of Administration,Management_Q2920921,Administration_Q5283295
+Version 1,Q22031885,point in time,1,Q199,6,Version 1 point in time 1,Version 1_Q22031885,1_Q199
+National Development Planning Commission,Q104880767,inception,2019,Q25274,6,National Development Planning Commission inception 2019,National Development Planning Commission_Q104880767,2019_Q25274
+Sub-Programme,id-less,part of,Programme,Q170584,6,Sub-Programme part of Programme,Sub-Programme_id-less,Programme_Q170584
+2022,Q49625,follows,2021,Q49628,6,2022 follows 2021,2022_Q49625,2021_Q49628
+2021,Q49628,followed by,2022,Q49625,6,2021 followed by 2022,2021_Q49628,2022_Q49625
+Sub-Programme,id-less,has part,Natural Account,id-less,6,Sub-Programme has part Natural Account,Sub-Programme_id-less,Natural Account_id-less
+Natural Account,id-less,part of,Sub-Programme,id-less,6,Natural Account part of Sub-Programme,Natural Account_id-less,Sub-Programme_id-less
+Administration,Q5283295,has part,Management,Q2920921,6,Administration has part Management,Administration_Q5283295,Management_Q2920921
+Programme,Q170584,has part,Sub-Programme,id-less,6,Programme has part Sub-Programme,Programme_Q170584,Sub-Programme_id-less
+MMDAs,id-less,subclass of,MDAs,Q6878879,5,MMDAs subclass of MDAs,MMDAs_id-less,MDAs_Q6878879
+2022 Target Actual,id-less,point in time,2022,Q49625,5,2022 Target Actual point in time 2022,2022 Target Actual_id-less,2022_Q49625
+National Plan Preparation,id-less,number of participants,"184,000",id-less,4,"National Plan Preparation number of participants 184,000",National Plan Preparation_id-less,"184,000_id-less"
+National Monitoring and Evaluation,Q96823894,number of participants,"324,000",id-less,4,"National Monitoring and Evaluation number of participants 324,000",National Monitoring and Evaluation_Q96823894,"324,000_id-less"
+indicators,Q21170064,part of,sub-programme,id-less,4,indicators part of sub-programme,indicators_Q21170064,sub-programme_id-less
+"4,198,490",id-less,instance of,GFS,Q1537683,4,"4,198,490 instance of GFS","4,198,490_id-less",GFS_Q1537683
+"4,198,490",id-less,point in time,"4,198",id-less,4,"4,198,490 point in time 4,198","4,198,490_id-less","4,198_id-less"
+"7,312,555",id-less,number of episodes,7,Q23350,4,"7,312,555 number of episodes 7","7,312,555_id-less",7_Q23350
+"4,307,201",id-less,instance of,GFS,Q1537683,4,"4,307,201 instance of GFS","4,307,201_id-less",GFS_Q1537683
+projections,Q7249458,part of,sub-programme,id-less,4,projections part of sub-programme,projections_Q7249458,sub-programme_id-less
+Budget Sub-Programme Description,id-less,subclass of,Sub-Programme Description,id-less,3,Budget Sub-Programme Description subclass of Sub-Programme Description,Budget Sub-Programme Description_id-less,Sub-Programme Description_id-less
+Operations,Q3884033,has part,Projects,Q93241073,3,Operations has part Projects,Operations_Q3884033,Projects_Q93241073
+past data,id-less,opposite of,future performance,Q40110714,3,past data opposite of future performance,past data_id-less,future performance_Q40110714
+2017 2018 Budget,id-less,point in time,2017,Q25290,3,2017 2018 Budget point in time 2017,2017 2018 Budget_id-less,2017_Q25290
+Use of goods and services,id-less,number of participants,"184,000",id-less,3,"Use of goods and services number of participants 184,000",Use of goods and services_id-less,"184,000_id-less"
+Use of goods and services,id-less,number of participants,"324,000",id-less,3,"Use of goods and services number of participants 324,000",Use of goods and services_id-less,"324,000_id-less"
+Projects,Q93241073,part of,Operations,Q3884033,3,Projects part of Operations,Projects_Q93241073,Operations_Q3884033
+1992 Constitution,id-less,point in time,1992,Q2060,3,1992 Constitution point in time 1992,1992 Constitution_id-less,1992_Q2060
+"2,829,065",id-less,point in time,"2,829",id-less,3,"2,829,065 point in time 2,829","2,829,065_id-less","2,829_id-less"
+"2,030,261",id-less,point in time,"2,030",id-less,3,"2,030,261 point in time 2,030","2,030,261_id-less","2,030_id-less"
+future performance,Q40110714,opposite of,past data,id-less,3,future performance opposite of past data,future performance_Q40110714,past data_id-less
+Budget Sub-Programme Results Statement,id-less,facet of,Budget Sub-Programme,id-less,3,Budget Sub-Programme Results Statement facet of Budget Sub-Programme,Budget Sub-Programme Results Statement_id-less,Budget Sub-Programme_id-less
+Objective,Q4503831,subclass of,Budget Sub-Programme,id-less,2,Objective subclass of Budget Sub-Programme,Objective_Q4503831,Budget Sub-Programme_id-less
+ABFA,Q23514810,parent organization,Capex Total,id-less,2,ABFA parent organization Capex Total,ABFA_Q23514810,Capex Total_id-less
+National Values,Q58457241,instance of,Values,Q7912786,2,National Values instance of Values,National Values_Q58457241,Values_Q7912786
+"783,803",id-less,part of,Use of goods and services,id-less,2,"783,803 part of Use of goods and services","783,803_id-less",Use of goods and services_id-less
+ADMINISTRATION,Q5283295,part of,MANAGEMENT,Q2920921,2,ADMINISTRATION part of MANAGEMENT,ADMINISTRATION_Q5283295,MANAGEMENT_Q2920921
+"783,803",id-less,instance of,GFS,Q1537683,2,"783,803 instance of GFS","783,803_id-less",GFS_Q1537683
+programmes,Q39071357,subclass of,policies,Q47011897,2,programmes subclass of policies,programmes_Q39071357,policies_Q47011897
+Non financial assets,id-less,subclass of,financial assets,Q50552590,2,Non financial assets subclass of financial assets,Non financial assets_id-less,financial assets_Q50552590
+Statistical Assessment Report,id-less,instance of,Report,Q10870555,2,Statistical Assessment Report instance of Report,Statistical Assessment Report_id-less,Report_Q10870555
+Non financial assets,id-less,instance of,GFS,Q1537683,2,Non financial assets instance of GFS,Non financial assets_id-less,GFS_Q1537683
+Use of goods and services,id-less,has part,"783,803",id-less,2,"Use of goods and services has part 783,803",Use of goods and services_id-less,"783,803_id-less"
+BOG,Q1681353,instance of,MOF,Q909212,2,BOG instance of MOF,BOG_Q1681353,MOF_Q909212
+Judiciary,Q105985,part of,The Judiciary,Q113087320,2,Judiciary part of The Judiciary,Judiciary_Q105985,The Judiciary_Q113087320
+The Judiciary,Q113087320,has part,Judiciary,Q105985,2,The Judiciary has part Judiciary,The Judiciary_Q113087320,Judiciary_Q105985
+national development plan,Q846059,legislated by,Parliament,Q11010,2,national development plan legislated by Parliament,national development plan_Q846059,Parliament_Q11010
+Compensation of employees,Q627293,part of,Management and Administration,Q42122275,2,Compensation of employees part of Management and Administration,Compensation of employees_Q627293,Management and Administration_Q42122275
+MMDAs,id-less,subclass of,MMDA,Q259278,2,MMDAs subclass of MMDA,MMDAs_id-less,MMDA_Q259278
+Main Outputs,id-less,instance of,Output Indicator,id-less,2,Main Outputs instance of Output Indicator,Main Outputs_id-less,Output Indicator_id-less
+MMDAs,id-less,has parts of the class,MDAs,Q6878879,2,MMDAs has parts of the class MDAs,MMDAs_id-less,MDAs_Q6878879
+Management and Administration,Q42122275,has part,Compensation of employees,Q627293,2,Management and Administration has part Compensation of employees,Management and Administration_Q42122275,Compensation of employees_Q627293
+Capex Total,id-less,subsidiary,ABFA,Q23514810,2,Capex Total subsidiary ABFA,Capex Total_id-less,ABFA_Q23514810
+"1,522,261",id-less,instance of,National Policy Formulation,id-less,2,"1,522,261 instance of National Policy Formulation","1,522,261_id-less",National Policy Formulation_id-less
+Use of goods and services,id-less,instance of,"1,522,261",id-less,2,"Use of goods and services instance of 1,522,261",Use of goods and services_id-less,"1,522,261_id-less"
+office space,Q1044523,use,logistics,Q177777,2,office space use logistics,office space_Q1044523,logistics_Q177777
+districts,Q5283500,country,Ghana,Q117,2,districts country Ghana,districts_Q5283500,Ghana_Q117
+Budget Module,id-less,part of,GIFMIS,id-less,2,Budget Module part of GIFMIS,Budget Module_id-less,GIFMIS_id-less
+MDA,Q217,subclass of,MDAs,Q6878879,2,MDA subclass of MDAs,MDA_Q217,MDAs_Q6878879
+MANAGEMENT,Q2920921,has part,ADMINISTRATION,Q5283295,2,MANAGEMENT has part ADMINISTRATION,MANAGEMENT_Q2920921,ADMINISTRATION_Q5283295
+Appropriation Bill,Q1591172,instance of,Bill,Q686822,2,Appropriation Bill instance of Bill,Appropriation Bill_Q1591172,Bill_Q686822
+Operations,Q3884033,facet of,Projects,Q93241073,2,Operations facet of Projects,Operations_Q3884033,Projects_Q93241073
+MOF,Q909212,has part,BOG,Q1681353,2,MOF has part BOG,MOF_Q909212,BOG_Q1681353
+Operations,Q3884033,part of,Projects,Q93241073,2,Operations part of Projects,Operations_Q3884033,Projects_Q93241073
+decentralised planning,id-less,subclass of,policy formulation,Q40261861,2,decentralised planning subclass of policy formulation,decentralised planning_id-less,policy formulation_Q40261861
+GOAL,Q4503831,sports league level,2,Q200,2,GOAL sports league level 2,GOAL_Q4503831,2_Q200
+financial assets,Q50552590,has part,Non financial assets,id-less,2,financial assets has part Non financial assets,financial assets_Q50552590,Non financial assets_id-less
+GIFMIS,id-less,has part,Budget Module,id-less,2,GIFMIS has part Budget Module,GIFMIS_id-less,Budget Module_id-less
+2016,Q25245,followed by,2017,Q25290,2,2016 followed by 2017,2016_Q25245,2017_Q25290
+GHANA,Q117,instance of,REPUBLIC,Q7270,2,GHANA instance of REPUBLIC,GHANA_Q117,REPUBLIC_Q7270
+development planning,Q108059815,subclass of,planning,Q309100,2,development planning subclass of planning,development planning_Q108059815,planning_Q309100
+IGF,Q12791246,conferred by,GoG,Q1486288,2,IGF conferred by GoG,IGF_Q12791246,GoG_Q1486288
+"1,522,261",id-less,point in time,"1,522",id-less,2,"1,522,261 point in time 1,522","1,522,261_id-less","1,522_id-less"
+Output Indicator Past Years Projections,id-less,instance of,Projections,Q7249458,2,Output Indicator Past Years Projections instance of Projections,Output Indicator Past Years Projections_id-less,Projections_Q7249458
+sustainability,Q219416,facet of,fiscal performance,id-less,2,sustainability facet of fiscal performance,sustainability_Q219416,fiscal performance_id-less
+"2,030,261",id-less,main subject,"National Development Policy, Planning",id-less,2,"2,030,261 main subject National Development Policy, Planning","2,030,261_id-less","National Development Policy, Planning_id-less"
+Will the Plan Replace the Manifestos of Political Parties?,id-less,facet of,Manifestos of Political Parties,id-less,1,Will the Plan Replace the Manifestos of Political Parties? facet of Manifestos of Political Parties,Will the Plan Replace the Manifestos of Political Parties?_id-less,Manifestos of Political Parties_id-less
+development agenda,Q112923516,subclass of,agenda,Q4692030,1,development agenda subclass of agenda,development agenda_Q112923516,agenda_Q4692030
+Women’s Participation and Representation,id-less,has part,Representation,Q853614,1,Women’s Participation and Representation has part Representation,Women’s Participation and Representation_id-less,Representation_Q853614
+direction,Q2151613,opposite of,consistency,Q1319773,1,direction opposite of consistency,direction_Q2151613,consistency_Q1319773
+Western Region,Q1052867,number of participants,16,Q40254,1,Western Region number of participants 16,Western Region_Q1052867,16_Q40254
+development policies,Q113438552,part of,government’s,Q161837,1,development policies part of government’s,development policies_Q113438552,government’s_Q161837
+development plans,Q75763325,part of,district,Q123705,1,development plans part of district,development plans_Q75763325,district_Q123705
+Western Region,Q1052867,population,1,Q199,1,Western Region population 1,Western Region_Q1052867,1_Q199
+Western Region,Q1052867,number of participants,28,Q587465,1,Western Region number of participants 28,Western Region_Q1052867,28_Q587465
+Western Region,Q1052867,number of participants,23,Q48240,1,Western Region number of participants 23,Western Region_Q1052867,23_Q48240
+development plan,Q5266783,has part,targets,Q852162,1,development plan has part targets,development plan_Q5266783,targets_Q852162
+What will happen over 40 Years?,id-less,facet of,40 Years,Q12299943,1,What will happen over 40 Years? facet of 40 Years,What will happen over 40 Years?_id-less,40 Years_Q12299943
+Western Region,Q1052867,number of participants,24,Q56194,1,Western Region number of participants 24,Western Region_Q1052867,24_Q56194
+development cooperation,Q12359517,part of,trade,Q601401,1,development cooperation part of trade,development cooperation_Q12359517,trade_Q601401
+Western Region,Q1052867,number of participants,26,Q83264,1,Western Region number of participants 26,Western Region_Q1052867,26_Q83264
+Western Region,Q1052867,number of participants,27,Q433353,1,Western Region number of participants 27,Western Region_Q1052867,27_Q433353
+Western Region,Q1052867,number of participants,21,Q712477,1,Western Region number of participants 21,Western Region_Q1052867,21_Q712477
+distri ct,id-less,subclass of,plan,Q4006,1,distri ct subclass of plan,distri ct_id-less,plan_Q4006
+Western Region,Q1052867,number of participants,14,Q38582,1,Western Region number of participants 14,Western Region_Q1052867,14_Q38582
+discipline,Q11862829,subclass of,productivity,Q2111958,1,discipline subclass of productivity,discipline_Q11862829,productivity_Q2111958
+district plan,Q5283354,part of,national development plan,Q846059,1,district plan part of national development plan,district plan_Q5283354,national development plan_Q846059
+district plan,Q5283354,facet of,district,Q123705,1,district plan facet of district,district plan_Q5283354,district_Q123705
+district core indicators,id-less,facet of,MMDAs,id-less,1,district core indicators facet of MMDAs,district core indicators_id-less,MMDAs_id-less
+district,Q123705,subclass of,region,Q82794,1,district subclass of region,district_Q123705,region_Q82794
+West Africa,Q4412,shares border with,the rest,Q3795550,1,West Africa shares border with the rest,West Africa_Q4412,the rest_Q3795550
+Western Region,Q1052867,area,3,Q201,1,Western Region area 3,Western Region_Q1052867,3_Q201
+district,Q123705,part of,sector,Q3958441,1,district part of sector,district_Q123705,sector_Q3958441
+district,Q123705,part of,national plan preparation sub-programme,id-less,1,district part of national plan preparation sub-programme,district_Q123705,national plan preparation sub-programme_id-less
+Western Region,Q1052867,instance of,Institutions,Q27711101,1,Western Region instance of Institutions,Western Region_Q1052867,Institutions_Q27711101
+district,Q123705,located in the administrative territorial entity,sectoral,Q110279343,1,district located in the administrative territorial entity sectoral,district_Q123705,sectoral_Q110279343
+Western Region,Q1052867,instance of,Institutions Number of Management letters issued,id-less,1,Western Region instance of Institutions Number of Management letters issued,Western Region_Q1052867,Institutions Number of Management letters issued_id-less
+Western Region,Q1052867,number of participants,12,Q36977,1,Western Region number of participants 12,Western Region_Q1052867,12_Q36977
+Western Region,Q1052867,number of participants,13,Q37141,1,Western Region number of participants 13,Western Region_Q1052867,13_Q37141
+district,Q123705,has part,development plans,Q75763325,1,district has part development plans,district_Q123705,development plans_Q75763325
+district,Q123705,different from,sector,Q3958441,1,district different from sector,district_Q123705,sector_Q3958441
+distribution,Q200726,facet of,Electricity,Q12725,1,distribution facet of Electricity,distribution_Q200726,Electricity_Q12725
+Work in Ghana,id-less,country,Ghana,Q117,1,Work in Ghana country Ghana,Work in Ghana_id-less,Ghana_Q117
+Work,Q6958747,has cause,Technological Upheaval,id-less,1,Work has cause Technological Upheaval,Work_Q6958747,Technological Upheaval_id-less
+affiliations,Q46815761,part of,political,Q82955,1,affiliations part of political,affiliations_Q46815761,political_Q82955
+Year Total 2019,id-less,point in time,2019,Q25274,1,Year Total 2019 point in time 2019,Year Total 2019_id-less,2019_Q25274
+comprehensive,Q207062,is a list of,period,Q12171,1,comprehensive is a list of period,comprehensive_Q207062,period_Q12171
+current one,id-less,instance of,plan,Q4006,1,current one instance of plan,current one_id-less,plan_Q4006
+Weaknesses,Q980400,opposite of,Strengths,Q100138017,1,Weaknesses opposite of Strengths,Weaknesses_Q980400,Strengths_Q100138017
+culture,Q11042,has part,national values,Q58457241,1,culture has part national values,culture_Q11042,national values_Q58457241
+civic rights,id-less,subclass of,responsibilities,Q19096746,1,civic rights subclass of responsibilities,civic rights_id-less,responsibilities_Q19096746
+civil society organisation,Q60793921,part of,partners in good,id-less,1,civil society organisation part of partners in good,civil society organisation_Q60793921,partners in good_id-less
+cross-sectoral planning groups,id-less,part of,"policy, planning, monitoring and evaluation divisions",id-less,1,"cross-sectoral planning groups part of policy, planning, monitoring and evaluation divisions",cross-sectoral planning groups_id-less,"policy, planning, monitoring and evaluation divisions_id-less"
+commitment,Q2648051,part of,Plan,Q4006,1,commitment part of Plan,commitment_Q2648051,Plan_Q4006
+compensation,Q1742093,has part,welfare packages,id-less,1,compensation has part welfare packages,compensation_Q1742093,welfare packages_id-less
+consistency,Q1319773,opposite of,direction,Q2151613,1,consistency opposite of direction,consistency_Q1319773,direction_Q2151613
+decentralised planning,id-less,subclass of,planning,Q309100,1,decentralised planning subclass of planning,decentralised planning_id-less,planning_Q309100
+continuity,Q559618,opposite of,change,Q1150070,1,continuity opposite of change,continuity_Q559618,change_Q1150070
+contractors,Q37047305,field of this occupation,project type,Q61044807,1,contractors field of this occupation project type,contractors_Q37047305,project type_Q61044807
+core national indicators,id-less,country,national,Q53247,1,core national indicators country national,core national indicators_id-less,national_Q53247
+critical issues,Q71886795,subclass of,issues,Q27711315,1,critical issues subclass of issues,critical issues_Q71886795,issues_Q27711315
+country w ill proceed,id-less,different from,middle -incom e income status,id-less,1,country w ill proceed different from middle -incom e income status,country w ill proceed_id-less,middle -incom e income status_id-less
+corresponding,Q2625729,has part,Indicator Description,id-less,1,corresponding has part Indicator Description,corresponding_Q2625729,Indicator Description_id-less
+corruption,Q366,has effect,waste,Q45701,1,corruption has effect waste,corruption_Q366,waste_Q45701
+count ry,id-less,has parts of the class,stools,Q79941614,1,count ry has parts of the class stools,count ry_id-less,stools_Q79941614
+decent work,Q827081,facet of,employment,Q656365,1,decent work facet of employment,decent work_Q827081,employment_Q656365
+change,Q1150070,opposite of,continuity,Q559618,1,change opposite of continuity,change_Q1150070,continuity_Q559618
+Youth Development,Q30292683,subclass of,Development,Q1074523,1,Youth Development subclass of Development,Youth Development_Q30292683,Development_Q1074523
+billboards,Q79174381,subclass of,advertisement,Q37038,1,billboards subclass of advertisement,billboards_Q79174381,advertisement_Q37038
+acquisition,Q22340494,subclass of,procurement,Q829492,1,acquisition subclass of procurement,acquisition_Q22340494,procurement_Q829492
+cost,Q240673,part of,infrastructure,Q121359,1,cost part of infrastructure,cost_Q240673,infrastructure_Q121359
+develop,Q844746,has part,retain human resource,id-less,1,develop has part retain human resource,develop_Q844746,retain human resource_id-less
+air,Q7391292,different from,land,Q11081619,1,air different from land,air_Q7391292,land_Q11081619
+around,Q5727902,different from,not,Q150225,1,around different from not,around_Q5727902,not_Q150225
+basic necessities,Q111953991,part of,life,Q864928,1,basic necessities part of life,basic necessities_Q111953991,life_Q864928
+benefit,Q678774,facet of,public,Q294440,1,benefit facet of public,benefit_Q678774,public_Q294440
+bilateral organisation,id-less,has part,international development agencies,id-less,1,bilateral organisation has part international development agencies,bilateral organisation_id-less,international development agencies_id-less
+briefs,Q49223,subclass of,documents,Q9344,1,briefs subclass of documents,briefs_Q49223,documents_Q9344
+cedi,Q73269488,country,Ghana,Q117,1,cedi country Ghana,cedi_Q73269488,Ghana_Q117
+budget,Q41263,part of,sectors,Q2739810,1,budget part of sectors,budget_Q41263,sectors_Q2739810
+develop,Q844746,has part,Recruit,Q1141116,1,develop has part Recruit,develop_Q844746,Recruit_Q1141116
+demographic imperative,Q73972857,instance of,imperative,Q22716,1,demographic imperative instance of imperative,demographic imperative_Q73972857,imperative_Q22716
+bulletins,Q51431137,subclass of,documents,Q9344,1,bulletins subclass of documents,bulletins_Q51431137,documents_Q9344
+demographic,Q30103,studies,population,Q33829,1,demographic studies population,demographic_Q30103,population_Q33829
+cast in stone,Q962617,said to be the same as,Nothing is cast in stone,Q77732592,1,cast in stone said to be the same as Nothing is cast in stone,cast in stone_Q962617,Nothing is cast in stone_Q77732592
+waste,Q45701,has cause,corruption,Q366,1,waste has cause corruption,waste_Q45701,corruption_Q366
+walkway,Q13634881,part of,street,Q34442,1,walkway part of street,walkway_Q13634881,street_Q34442
+changes in circums tances,id-less,facet of,circums tances,id-less,1,changes in circums tances facet of circums tances,changes in circums tances_id-less,circums tances_id-less
+targets,Q852162,part of,development plan,Q5266783,1,targets part of development plan,targets_Q852162,development plan_Q5266783
+Water and Water,Q96733187,subclass of,Infrastructure,Q121359,1,Water and Water subclass of Infrastructure,Water and Water_Q96733187,Infrastructure_Q121359
+Sanitation,Q949149,subclass of,Housing,Q188507,1,Sanitation subclass of Housing,Sanitation_Q949149,Housing_Q188507
+SDGs,Q7649586,part of,sustainable development goals,Q7649586,1,SDGs part of sustainable development goals,SDGs_Q7649586,sustainable development goals_Q7649586
+SDGs,Q7649586,point in time,2063,Q1044976,1,SDGs point in time 2063,SDGs_Q7649586,2063_Q1044976
+SDGs Indicator Baseline Report,id-less,main subject,SDGs,Q7649586,1,SDGs Indicator Baseline Report main subject SDGs,SDGs Indicator Baseline Report_id-less,SDGs_Q7649586
+SDGs Report,id-less,instance of,Report,Q10870555,1,SDGs Report instance of Report,SDGs Report_id-less,Report_Q10870555
+SDGs Report,id-less,main subject,SDGs,Q7649586,1,SDGs Report main subject SDGs,SDGs Report_id-less,SDGs_Q7649586
+SDGs in,id-less,part of,SDGs,Q7649586,1,SDGs in part of SDGs,SDGs in_id-less,SDGs_Q7649586
+SDGs targets,id-less,part of,SDGs,Q7649586,1,SDGs targets part of SDGs,SDGs targets_id-less,SDGs_Q7649586
+SOCIETY,Q8425,has part,HEALTHY,Q24238419,1,SOCIETY has part HEALTHY,SOCIETY_Q8425,HEALTHY_Q24238419
+SUN Movement,id-less,country,Ghana,Q117,1,SUN Movement country Ghana,SUN Movement_id-less,Ghana_Q117
+Sample policies,Q86852670,subclass of,policies,Q47011897,1,Sample policies subclass of policies,Sample policies_Q86852670,policies_Q47011897
+Saudi Vision 2030,Q23906335,country,Saudi Arabia,Q851,1,Saudi Vision 2030 country Saudi Arabia,Saudi Vision 2030_Q23906335,Saudi Arabia_Q851
+SDGs,Q7649586,has part,successful incorporation,Q33213657,1,SDGs has part successful incorporation,SDGs_Q7649586,successful incorporation_Q33213657
+Scaling Up Nutrition,Q84207160,main subject,Nutrition,Q2138622,1,Scaling Up Nutrition main subject Nutrition,Scaling Up Nutrition_Q84207160,Nutrition_Q2138622
+Sectoral Issues in Social Development,id-less,subclass of,Social Development,Q15765794,1,Sectoral Issues in Social Development subclass of Social Development,Sectoral Issues in Social Development_id-less,Social Development_Q15765794
+Sendai Framework,Q22907841,use,technical backstopping,id-less,1,Sendai Framework use technical backstopping,Sendai Framework_Q22907841,technical backstopping_id-less
+Seven -Year Plan for National Reconstruction,id-less,country,F irst Republic,id-less,1,Seven -Year Plan for National Reconstruction country F irst Republic,Seven -Year Plan for National Reconstruction_id-less,F irst Republic_id-less
+Social,Q345367,has part,Civic,Q4421073,1,Social has part Civic,Social_Q345367,Civic_Q4421073
+Social,Q345367,has part,Commercial Infrastructure,id-less,1,Social has part Commercial Infrastructure,Social_Q345367,Commercial Infrastructure_id-less
+Social Development Policies in Ghana,id-less,country,Ghana,Q117,1,Social Development Policies in Ghana country Ghana,Social Development Policies in Ghana_id-less,Ghana_Q117
+Social Policies,Q110159614,subclass of,Policies,Q47011897,1,Social Policies subclass of Policies,Social Policies_Q110159614,Policies_Q47011897
+Spatial Planning,Q149013,studies,Human Settlements,Q486972,1,Spatial Planning studies Human Settlements,Spatial Planning_Q149013,Human Settlements_Q486972
+Special Dev elopment Area,id-less,subclass of,elopment,Q100314526,1,Special Dev elopment Area subclass of elopment,Special Dev elopment Area_id-less,elopment_Q100314526
+SDGs,Q7649586,part of,Agenda 2063,Q56296197,1,SDGs part of Agenda 2063,SDGs_Q7649586,Agenda 2063_Q56296197
+SDGs,Q7649586,has part,SDGs’ coordination meetings,id-less,1,SDGs has part SDGs’ coordination meetings,SDGs_Q7649586,SDGs’ coordination meetings_id-less
+Water Supply,Q1061108,facet of,Supply,Q166656,1,Water Supply facet of Supply,Water Supply_Q1061108,Supply_Q166656
+Regional Economic Profiles,id-less,subclass of,Economic Profiles,id-less,1,Regional Economic Profiles subclass of Economic Profiles,Regional Economic Profiles_id-less,Economic Profiles_id-less
+Progress Report National,id-less,country,National,Q53247,1,Progress Report National country National,Progress Report National_id-less,National_Q53247
+Projects,Q93241073,has part,Operations,Q3884033,1,Projects has part Operations,Projects_Q93241073,Operations_Q3884033
+Projects,Q93241073,part of,Budget Programme,id-less,1,Projects part of Budget Programme,Projects_Q93241073,Budget Programme_id-less
+Promoting and Deepening Good Corporate Governance,id-less,facet of,Corporate Governance,Q380767,1,Promoting and Deepening Good Corporate Governance facet of Corporate Governance,Promoting and Deepening Good Corporate Governance_id-less,Corporate Governance_Q380767
+Public Safety,Q294240,subclass of,Human Security,Q302285,1,Public Safety subclass of Human Security,Public Safety_Q294240,Human Security_Q302285
+QUESTIONS AND ANSWERS ABOUT THE LONG -TERM PLAN,id-less,has part,ANSWERS ABOUT THE LONG -TERM PLAN,id-less,1,QUESTIONS AND ANSWERS ABOUT THE LONG -TERM PLAN has part ANSWERS ABOUT THE LONG -TERM PLAN,QUESTIONS AND ANSWERS ABOUT THE LONG -TERM PLAN_id-less,ANSWERS ABOUT THE LONG -TERM PLAN_id-less
+QUESTIONS AND ANSWERS ABOUT THE LONG -TERM PLAN,id-less,has part,QUESTIONS AND ANSWERS ABOUT THE LONG -,id-less,1,QUESTIONS AND ANSWERS ABOUT THE LONG -TERM PLAN has part QUESTIONS AND ANSWERS ABOUT THE LONG -,QUESTIONS AND ANSWERS ABOUT THE LONG -TERM PLAN_id-less,QUESTIONS AND ANSWERS ABOUT THE LONG -_id-less
+Re-Thinking Private Sector Development,id-less,facet of,Private Sector Development,Q7246245,1,Re-Thinking Private Sector Development facet of Private Sector Development,Re-Thinking Private Sector Development_id-less,Private Sector Development_Q7246245
+Recent Economic Performance,id-less,instance of,Economic Performance,Q51423253,1,Recent Economic Performance instance of Economic Performance,Recent Economic Performance_id-less,Economic Performance_Q51423253
+Recruit,Q1141116,part of,develop,Q844746,1,Recruit part of develop,Recruit_Q1141116,develop_Q844746
+Report 1.6,id-less,instance of,Appropriation Bill,Q1591172,1,Report 1.6 instance of Appropriation Bill,Report 1.6_id-less,Appropriation Bill_Q1591172
+SDGs,Q7649586,has part,SDGs in,id-less,1,SDGs has part SDGs in,SDGs_Q7649586,SDGs in_id-less
+Representation,Q853614,part of,Women’s Participation and Representation,id-less,1,Representation part of Women’s Participation and Representation,Representation_Q853614,Women’s Participation and Representation_id-less
+Representation of Other Marginalised Groups,id-less,part of,Participation and Representation of Other Marginalised Groups,id-less,1,Representation of Other Marginalised Groups part of Participation and Representation of Other Marginalised Groups,Representation of Other Marginalised Groups_id-less,Participation and Representation of Other Marginalised Groups_id-less
+Republic of Ghana,Q117,country,Ghana,Q117,1,Republic of Ghana country Ghana,Republic of Ghana_Q117,Ghana_Q117
+Republic of Ghana,Q117,office held by head of government,President,Q30461,1,Republic of Ghana office held by head of government President,Republic of Ghana_Q117,President_Q30461
+Restructuring,Q1376796,part of,Ministerial Realignment and Restructuring,id-less,1,Restructuring part of Ministerial Realignment and Restructuring,Restructuring_Q1376796,Ministerial Realignment and Restructuring_id-less
+Results framework,id-less,instance of,framework,Q6671777,1,Results framework instance of framework,Results framework_id-less,framework_Q6671777
+Roads,Q913035,part of,Transport Infrastructure,Q376799,1,Roads part of Transport Infrastructure,Roads_Q913035,Transport Infrastructure_Q376799
+Role of the Middle Class in National Development,id-less,facet of,National Development,Q107018047,1,Role of the Middle Class in National Development facet of National Development,Role of the Middle Class in National Development_id-less,National Development_Q107018047
+Rural Development,Q3045473,subclass of,Development,Q1074523,1,Rural Development subclass of Development,Rural Development_Q3045473,Development_Q1074523
+SDG indicators,id-less,part of,Unit of,Q8142,1,SDG indicators part of Unit of,SDG indicators_id-less,Unit of_Q8142
+Sports and Recreation,Q29585974,subclass of,Recreation,Q184872,1,Sports and Recreation subclass of Recreation,Sports and Recreation_Q29585974,Recreation_Q184872
+Stanford University,Q41506,field of work,Artificial Intelligence,Q11660,1,Stanford University field of work Artificial Intelligence,Stanford University_Q41506,Artificial Intelligence_Q11660
+State Agency Mandates,id-less,subclass of,Duplication,Q746284,1,State Agency Mandates subclass of Duplication,State Agency Mandates_id-less,Duplication_Q746284
+Urban Development,Q69883,ranking,1,Q199,1,Urban Development ranking 1,Urban Development_Q69883,1_Q199
+The answer is ‘no’,id-less,different from,‘no’,Q67365338,1,The answer is ‘no’ different from ‘no’,The answer is ‘no’_id-less,‘no’_Q67365338
+The future,Q552254,number of episodes,7,Q23350,1,The future number of episodes 7,The future_Q552254,7_Q23350
+The surest,Q7767514,instance of,surest,Q27149116,1,The surest instance of surest,The surest_Q7767514,surest_Q27149116
+Transitioning to a Green Economy,id-less,main subject,Green Economy,Q598188,1,Transitioning to a Green Economy main subject Green Economy,Transitioning to a Green Economy_id-less,Green Economy_Q598188
+Transport Infrastructure,Q376799,has part,Roads,Q913035,1,Transport Infrastructure has part Roads,Transport Infrastructure_Q376799,Roads_Q913035
+Transport Infrastructure,Q376799,has part,railways,Q22667,1,Transport Infrastructure has part railways,Transport Infrastructure_Q376799,railways_Q22667
+US economy in 2016,id-less,point in time,2016,Q25245,1,US economy in 2016 point in time 2016,US economy in 2016_id-less,2016_Q25245
+Unit of,Q8142,has part,SDG indicators,id-less,1,Unit of has part SDG indicators,Unit of_Q8142,SDG indicators_id-less
+United Nations Development Programme,Q161718,field of work,SDGs,Q7649586,1,United Nations Development Programme field of work SDGs,United Nations Development Programme_Q161718,SDGs_Q7649586
+United States,Q30,instance of,world GDP,id-less,1,United States instance of world GDP,United States_Q30,world GDP_id-less
+Values Policy,id-less,instance of,Policy,Q1156854,1,Values Policy instance of Policy,Values Policy_id-less,Policy_Q1156854
+‘no’,Q67365338,different from,The answer is ‘no’,id-less,1,‘no’ different from The answer is ‘no’,‘no’_Q67365338,The answer is ‘no’_id-less
+web,Q466,instance of,system,Q1,1,web instance of system,web_Q466,system_Q1
+Vision 2020,Q7936129,inception,1994,Q2067,1,Vision 2020 inception 1994,Vision 2020_Q7936129,1994_Q2067
+Vision 2020,Q7936129,point in time,2020,Q25337,1,Vision 2020 point in time 2020,Vision 2020_Q7936129,2020_Q25337
+Vision 2030,Q23906335,country,Kenya,Q114,1,Vision 2030 country Kenya,Vision 2030_Q23906335,Kenya_Q114
+web,Q466,has part,policies,Q47011897,1,web has part policies,web_Q466,policies_Q47011897
+Vision 2030,Q23906335,country,Qatar,Q846,1,Vision 2030 country Qatar,Vision 2030_Q23906335,Qatar_Q846
+Vision 2040,Q49100122,country,South Korea,Q884,1,Vision 2040 country South Korea,Vision 2040_Q49100122,South Korea_Q884
+Vision 2040,Q49100122,country,Uganda,Q1036,1,Vision 2040 country Uganda,Vision 2040_Q49100122,Uganda_Q1036
+Vision to Action,Q48774369,follows,From Vision to Action,Q112910956,1,Vision to Action follows From Vision to Action,Vision to Action_Q48774369,From Vision to Action_Q112910956
+Water Resources Management,Q15763474,subclass of,Management,Q2920921,1,Water Resources Management subclass of Management,Water Resources Management_Q15763474,Management_Q2920921
+The Strategy for,Q60349280,main subject,Growth,Q1342838,1,The Strategy for main subject Growth,The Strategy for_Q60349280,Growth_Q1342838
+The State of Corporate Governance in Ghana,id-less,country,Ghana,Q117,1,The State of Corporate Governance in Ghana country Ghana,The State of Corporate Governance in Ghana_id-less,Ghana_Q117
+The Rise of Cocoa,id-less,number of episodes,7,Q23350,1,The Rise of Cocoa number of episodes 7,The Rise of Cocoa_id-less,7_Q23350
+The First Step,Q114503408,publication date,2000,Q1985,1,The First Step publication date 2000,The First Step_Q114503408,2000_Q1985
+Strategic Exports and International Trade,id-less,facet of,International Trade,Q178803,1,Strategic Exports and International Trade facet of International Trade,Strategic Exports and International Trade_id-less,International Trade_Q178803
+Strategic Growth Areas,id-less,subclass of,Growth Areas,Q40763478,1,Strategic Growth Areas subclass of Growth Areas,Strategic Growth Areas_id-less,Growth Areas_Q40763478
+Street hawking in 1874,id-less,point in time,1874,Q7761,1,Street hawking in 1874 point in time 1874,Street hawking in 1874_id-less,1874_Q7761
+Street hawking in 2017,id-less,point in time,2017,Q25290,1,Street hawking in 2017 point in time 2017,Street hawking in 2017_id-less,2017_Q25290
+Strengthening Governance in the Civic Sector,id-less,facet of,Civic Sector,Q1063076,1,Strengthening Governance in the Civic Sector facet of Civic Sector,Strengthening Governance in the Civic Sector_id-less,Civic Sector_Q1063076
+Strengthening the Capacity of the Public Sector to Deliver Development,id-less,facet of,Public Sector,Q294217,1,Strengthening the Capacity of the Public Sector to Deliver Development facet of Public Sector,Strengthening the Capacity of the Public Sector to Deliver Development_id-less,Public Sector_Q294217
+Strengths,Q100138017,opposite of,Weaknesses,Q980400,1,Strengths opposite of Weaknesses,Strengths_Q100138017,Weaknesses_Q980400
+Structure of the Economy,id-less,opposite of,Change without Transformation,Q90576362,1,Structure of the Economy opposite of Change without Transformation,Structure of the Economy_id-less,Change without Transformation_Q90576362
+Sub-Programme,id-less,has part,Economic Item,id-less,1,Sub-Programme has part Economic Item,Sub-Programme_id-less,Economic Item_id-less
+‘Income -doubling plan’,id-less,country,Japan,Q17,1,‘Income -doubling plan’ country Japan,‘Income -doubling plan’_id-less,Japan_Q17
+Sub-Programme,id-less,number of participants,14,Q38582,1,Sub-Programme number of participants 14,Sub-Programme_id-less,14_Q38582
+world of the future is likely to look,id-less,facet of,world of the future,id-less,1,world of the future is likely to look facet of world of the future,world of the future is likely to look_id-less,world of the future_id-less
+Support for the Aged,id-less,main subject,Aged,Q332154,1,Support for the Aged main subject Aged,Support for the Aged_id-less,Aged_Q332154
+Sustainable Development Goals,Q7649586,creator,UN,Q1065,1,Sustainable Development Goals creator UN,Sustainable Development Goals_Q7649586,UN_Q1065
+TOR,Q1404150,located in the administrative territorial entity,Evalua,Q1379672,1,TOR located in the administrative territorial entity Evalua,TOR_Q1404150,Evalua_Q1379672
+wooden trays,id-less,subclass of,trays,Q3538255,1,wooden trays subclass of trays,wooden trays_id-less,trays_Q3538255
+welfare packages,id-less,part of,compensation,Q1742093,1,welfare packages part of compensation,welfare packages_id-less,compensation_Q1742093
+Target,Q1046951,has part,Target Actual,id-less,1,Target has part Target Actual,Target_Q1046951,Target Actual_id-less
+Target Actual,id-less,part of,Target,Q1046951,1,Target Actual part of Target,Target Actual_id-less,Target_Q1046951
+Technological Upheaval,id-less,has effect,Work,Q6958747,1,Technological Upheaval has effect Work,Technological Upheaval_id-less,Work_Q6958747
+The Challenge of Development,Q28072970,main subject,Independence,Q24603,1,The Challenge of Development main subject Independence,The Challenge of Development_Q28072970,Independence_Q24603
+district planning coordinating unit,id-less,part of,regional coordinating councils,id-less,1,district planning coordinating unit part of regional coordinating councils,district planning coordinating unit_id-less,regional coordinating councils_id-less
+effective,Q5347238,subclass of,policies,Q47011897,1,effective subclass of policies,effective_Q5347238,policies_Q47011897
+districts,Q5283500,part of,districts level,id-less,1,districts part of districts level,districts_Q5283500,districts level_id-less
+population,Q33829,studied by,demographic,Q30103,1,population studied by demographic,population_Q33829,demographic_Q30103
+policies,Q47011897,part of,plans,Q1371819,1,policies part of plans,policies_Q47011897,plans_Q1371819
+policies,Q47011897,part of,web,Q466,1,policies part of web,policies_Q47011897,web_Q466
+policy almanac,id-less,subclass of,almanac,Q171341,1,policy almanac subclass of almanac,policy almanac_id-less,almanac_Q171341
+policy framework,Q107437541,subclass of,framework,Q6671777,1,policy framework subclass of framework,policy framework_Q107437541,framework_Q6671777
+policy guidelines,Q106988120,subclass of,policy briefs,Q73271947,1,policy guidelines subclass of policy briefs,policy guidelines_Q106988120,policy briefs_Q73271947
+"policy, planning, monitoring and evaluation divisions",id-less,has part,cross-sectoral planning groups,id-less,1,"policy, planning, monitoring and evaluation divisions has part cross-sectoral planning groups","policy, planning, monitoring and evaluation divisions_id-less",cross-sectoral planning groups_id-less
+political,Q82955,has part,affiliations,Q46815761,1,political has part affiliations,political_Q82955,affiliations_Q46815761
+political,Q82955,part of,economic,Q8134,1,political part of economic,political_Q82955,economic_Q8134
+political parties,Q7278,has part,political parties's manifestos,id-less,1,political parties has part political parties's manifestos,political parties_Q7278,political parties's manifestos_id-less
+political parties's manifestos,id-less,part of,political parties,Q7278,1,political parties's manifestos part of political parties,political parties's manifestos_id-less,political parties_Q7278
+population,Q33829,country,Ghana,Q117,1,population country Ghana,population_Q33829,Ghana_Q117
+present,Q192613,followed by,subsequent ones,id-less,1,present followed by subsequent ones,present_Q192613,subsequent ones_id-less
+districts level,id-less,has part,districts,Q5283500,1,districts level has part districts,districts level_id-less,districts_Q5283500
+present,Q192613,opposite of,future generations,Q954025,1,present opposite of future generations,present_Q192613,future generations_Q954025
+principal street,id-less,located in the administrative territorial entity,Accra,Q3761,1,principal street located in the administrative territorial entity Accra,principal street_id-less,Accra_Q3761
+procurement/stores,id-less,part of,finance/accounts,id-less,1,procurement/stores part of finance/accounts,procurement/stores_id-less,finance/accounts_id-less
+programmes,Q39071357,part of,policies,Q47011897,1,programmes part of policies,programmes_Q39071357,policies_Q47011897
+projections,Q7249458,opposite of,past data,id-less,1,projections opposite of past data,projections_Q7249458,past data_id-less
+prosperous,Q2528850,has cause,health,Q12147,1,prosperous has cause health,prosperous_Q2528850,health_Q12147
+public investment expenditures,id-less,subclass of,Budget Funding Amount,id-less,1,public investment expenditures subclass of Budget Funding Amount,public investment expenditures_id-less,Budget Funding Amount_id-less
+purposefully,Q114305922,facet of,nation,Q6266,1,purposefully facet of nation,purposefully_Q114305922,nation_Q6266
+railways,Q22667,part of,Transport Infrastructure,Q376799,1,railways part of Transport Infrastructure,railways_Q22667,Transport Infrastructure_Q376799
+rapidly changing technology,id-less,subclass of,challenges,Q50815379,1,rapidly changing technology subclass of challenges,rapidly changing technology_id-less,challenges_Q50815379
+rationalisation,Q948144,part of,reforms,Q900406,1,rationalisation part of reforms,rationalisation_Q948144,reforms_Q900406
+policies,Q47011897,has part,programmes,Q39071357,1,policies has part programmes,policies_Q47011897,programmes_Q39071357
+policies,Q47011897,different from,plan,Q4006,1,policies different from plan,policies_Q47011897,plan_Q4006
+policies,Q47011897,applies to jurisdiction,state,Q7275,1,policies applies to jurisdiction state,policies_Q47011897,state_Q7275
+plans,Q1371819,applies to jurisdiction,state,Q7275,1,plans applies to jurisdiction state,plans_Q1371819,state_Q7275
+non-recurrent administrative,id-less,opposite of,recurrent,Q28314507,1,non-recurrent administrative opposite of recurrent,non-recurrent administrative_id-less,recurrent_Q28314507
+not,Q150225,different from,around,Q5727902,1,not different from around,not_Q150225,around_Q5727902
+office consumables,id-less,subclass of,materials,Q214609,1,office consumables subclass of materials,office consumables_id-less,materials_Q214609
+oil,Q22656,subclass of,energy,Q11379,1,oil subclass of energy,oil_Q22656,energy_Q11379
+p eriod,id-less,has part,p,Q674,1,p eriod has part p,p eriod_id-less,p_Q674
+partners in good,id-less,has part,civil society organisation,Q60793921,1,partners in good has part civil society organisation,partners in good_id-less,civil society organisation_Q60793921
+past data,id-less,opposite of,projections,Q7249458,1,past data opposite of projections,past data_id-less,projections_Q7249458
+payment of salary,id-less,part of,Validation of staff,id-less,1,payment of salary part of Validation of staff,payment of salary_id-less,Validation of staff_id-less
+payment system,Q986008,has part,48 hours after receiving access to payment system,id-less,1,payment system has part 48 hours after receiving access to payment system,payment system_Q986008,48 hours after receiving access to payment system_id-less
+payment system,Q986008,has part,Middle of the month,id-less,1,payment system has part Middle of the month,payment system_Q986008,Middle of the month_id-less
+payment system,Q986008,has part,month,Q5151,1,payment system has part month,payment system_Q986008,month_Q5151
+payment system every month,id-less,part of,month,Q5151,1,payment system every month part of month,payment system every month_id-less,month_Q5151
+people's fullest development potential,id-less,facet of,people,Q5,1,people's fullest development potential facet of people,people's fullest development potential_id-less,people_Q5
+percen tage,id-less,part of,Benchmark Revenue,id-less,1,percen tage part of Benchmark Revenue,percen tage_id-less,Benchmark Revenue_id-less
+vision document,Q7936186,said to be the same as,framework,Q6671777,1,vision document said to be the same as framework,vision document_Q7936186,framework_Q6671777
+physical environment,Q107447748,part of,natural,Q747691,1,physical environment part of natural,physical environment_Q107447748,natural_Q747691
+pla n,Q755179,part of,economy,Q159810,1,pla n part of economy,pla n_Q755179,economy_Q159810
+plan,Q4006,different from,policies,Q47011897,1,plan different from policies,plan_Q4006,policies_Q47011897
+plan,Q4006,has part,goals,Q4503831,1,plan has part goals,plan_Q4006,goals_Q4503831
+plan,Q4006,subclass of,policy,Q1156854,1,plan subclass of policy,plan_Q4006,policy_Q1156854
+vision,Q162668,subclass of,plan,Q4006,1,vision subclass of plan,vision_Q162668,plan_Q4006
+plan preparation,id-less,facet of,MDAs,Q6878879,1,plan preparation facet of MDAs,plan preparation_id-less,MDAs_Q6878879
+planning manuals,id-less,use,development planning,Q108059815,1,planning manuals use development planning,planning manuals_id-less,development planning_Q108059815
+recurrent,Q28314507,opposite of,non-recurrent administrative,id-less,1,recurrent opposite of non-recurrent administrative,recurrent_Q28314507,non-recurrent administrative_id-less
+recurrent,Q28314507,subclass of,non-recurrent administrative services,id-less,1,recurrent subclass of non-recurrent administrative services,recurrent_Q28314507,non-recurrent administrative services_id-less
+reforms,Q900406,has part,rationalisation,Q948144,1,reforms has part rationalisation,reforms_Q900406,rationalisation_Q948144
+short -term plans,id-less,opposite of,medium,Q2249676,1,short -term plans opposite of medium,short -term plans_id-less,medium_Q2249676
+skills development,Q7535242,part of,Infrastructure Plan,Q96709247,1,skills development part of Infrastructure Plan,skills development_Q7535242,Infrastructure Plan_Q96709247
+social,Q345367,part of,economic,Q8134,1,social part of economic,social_Q345367,economic_Q8134
+thi s,Q24771846,part of,economic policies,Q582577,1,thi s part of economic policies,thi s_Q24771846,economic policies_Q582577
+the rest,Q3795550,shares border with,West Africa,Q4412,1,the rest shares border with West Africa,the rest_Q3795550,West Africa_Q4412
+social policy,Q828395,subclass of,policy,Q1156854,1,social policy subclass of policy,social policy_Q828395,policy_Q1156854
+societies,Q8425,has part,economies,Q50807212,1,societies has part economies,societies_Q8425,economies_Q50807212
+technical review meeting,id-less,facet of,draft documents,id-less,1,technical review meeting facet of draft documents,technical review meeting_id-less,draft documents_id-less
+solid waste,Q96333750,part of,Integrated Waste Management,Q112884474,1,solid waste part of Integrated Waste Management,solid waste_Q96333750,Integrated Waste Management_Q112884474
+st atus,id-less,country,Ghana,Q117,1,st atus country Ghana,st atus_id-less,Ghana_Q117
+stage of development,Q56094582,part of,history,Q309,1,stage of development part of history,stage of development_Q56094582,history_Q309
+technical propos,Q4456859,subclass of,propos,Q108163,1,technical propos subclass of propos,technical propos_Q4456859,propos_Q108163
+standards,Q591990,applies to jurisdiction,state,Q7275,1,standards applies to jurisdiction state,standards_Q591990,state_Q7275
+standards and conditions of service,id-less,has part,training,Q216033,1,standards and conditions of service has part training,standards and conditions of service_id-less,training_Q216033
+state support,Q113006031,part of,Infrastructure Plan,Q96709247,1,state support part of Infrastructure Plan,state support_Q113006031,Infrastructure Plan_Q96709247
+stools,Q79941614,part of,count ry,id-less,1,stools part of count ry,stools_Q79941614,count ry_id-less
+targets,Q852162,part of,strategies,Q185451,1,targets part of strategies,targets_Q852162,strategies_Q185451
+strategies,Q185451,has part,targets,Q852162,1,strategies has part targets,strategies_Q185451,targets_Q852162
+structure,Q811979,part of,economy,Q159810,1,structure part of economy,structure_Q811979,economy_Q159810
+sub-national development planning,id-less,facet of,national and international development issues,id-less,1,sub-national development planning facet of national and international development issues,sub-national development planning_id-less,national and international development issues_id-less
+subsequent ones,id-less,follows,present,Q192613,1,subsequent ones follows present,subsequent ones_id-less,present_Q192613
+successful incorporation,Q33213657,part of,SDGs,Q7649586,1,successful incorporation part of SDGs,successful incorporation_Q33213657,SDGs_Q7649586
+sustainable development,Q131201,subclass of,development policy,Q61706319,1,sustainable development subclass of development policy,sustainable development_Q131201,development policy_Q61706319
+sustainable development goals,Q7649586,has part,SDGs,Q7649586,1,sustainable development goals has part SDGs,sustainable development goals_Q7649586,SDGs_Q7649586
+trade,Q601401,has part,development cooperation,Q12359517,1,trade has part development cooperation,trade_Q601401,development cooperation_Q12359517
+short -term,id-less,opposite of,medium,Q2249676,1,short -term opposite of medium,short -term_id-less,medium_Q2249676
+regional coordinating councils,id-less,has part,district planning coordinating unit,id-less,1,regional coordinating councils has part district planning coordinating unit,regional coordinating councils_id-less,district planning coordinating unit_id-less
+short,Q24862,part of,Growth Area,Q40763478,1,short part of Growth Area,short_Q24862,Growth Area_Q40763478
+regional coordinating councils,id-less,has part,regional planning coordinating unit,id-less,1,regional coordinating councils has part regional planning coordinating unit,regional coordinating councils_id-less,regional planning coordinating unit_id-less
+regional planning coordinating unit,id-less,part of,regional coordinating councils,id-less,1,regional planning coordinating unit part of regional coordinating councils,regional planning coordinating unit_id-less,regional coordinating councils_id-less
+research papers,Q15760313,facet of,research,Q42240,1,research papers facet of research,research papers_Q15760313,research_Q42240
+retain human resource,id-less,part of,develop,Q844746,1,retain human resource part of develop,retain human resource_id-less,develop_Q844746
+sector,Q3958441,different from,district,Q123705,1,sector different from district,sector_Q3958441,district_Q123705
+vision,Q162668,said to be the same as,“vision”,Q35773162,1,vision said to be the same as “vision”,vision_Q162668,“vision”_Q35773162
+vigour,Q50384179,part of,Plan,Q4006,1,vigour part of Plan,vigour_Q50384179,Plan_Q4006
+ts,Q191779,part of,Aspec,Q183061,1,ts part of Aspec,ts_Q191779,Aspec_Q183061
+transmission,Q525512,facet of,Electricity,Q12725,1,transmission facet of Electricity,transmission_Q525512,Electricity_Q12725
+sector,Q3958441,has part,district,Q123705,1,sector has part district,sector_Q3958441,district_Q123705
+sector,Q3958441,part of,Economy,Q159810,1,sector part of Economy,sector_Q3958441,Economy_Q159810
+transforma tion,id-less,facet of,economic system,Q159810,1,transforma tion facet of economic system,transforma tion_id-less,economic system_Q159810
+training,Q216033,part of,standards and conditions of service,id-less,1,training part of standards and conditions of service,training_Q216033,standards and conditions of service_id-less
+traditional authorities,id-less,field of work,national development,Q107018047,1,traditional authorities field of work national development,traditional authorities_id-less,national development_Q107018047
+traders,Q1574206,field of this occupation,trade,Q601401,1,traders field of this occupation trade,traders_Q1574206,trade_Q601401
+sector,Q3958441,part of,national plan preparation sub-programme,id-less,1,sector part of national plan preparation sub-programme,sector_Q3958441,national plan preparation sub-programme_id-less
+sector,Q3958441,subclass of,plan,Q4006,1,sector subclass of plan,sector_Q3958441,plan_Q4006
+trade,Q601401,practiced by,traders,Q1574206,1,trade practiced by traders,trade_Q601401,traders_Q1574206
+sector development plans,id-less,facet of,development plans,Q75763325,1,sector development plans facet of development plans,sector development plans_id-less,development plans_Q75763325
+sectoral,Q110279343,contains administrative territorial entity,district,Q123705,1,sectoral contains administrative territorial entity district,sectoral_Q110279343,district_Q123705
+sectors,Q2739810,has part,budget,Q41263,1,sectors has part budget,sectors_Q2739810,budget_Q41263
+trade,Q601401,part of,world economy,Q473750,1,trade part of world economy,trade_Q601401,world economy_Q473750
+trade,Q601401,has part,investment,Q4290,1,trade has part investment,trade_Q601401,investment_Q4290
+natural light,Q105440984,instance of,natural resources,Q105575840,1,natural light instance of natural resources,natural light_Q105440984,natural resources_Q105575840
+vision document,Q7936186,subclass of,frameworks,Q22080812,1,vision document subclass of frameworks,vision document_Q7936186,frameworks_Q22080812
+natural environment,Q43619,subclass of,environment,Q2249676,1,natural environment subclass of environment,natural environment_Q43619,environment_Q2249676
+five goals,Q67609175,country,Ghana,Q117,1,five goals country Ghana,five goals_Q67609175,Ghana_Q117
+walkwa,Q13634881,different from,hawkers,Q27918492,1,walkwa different from hawkers,walkwa_Q13634881,hawkers_Q27918492
+Programme Description,id-less,part of,Budget,Q41263,1,Programme Description part of Budget,Programme Description_id-less,Budget_Q41263
+flyers,Q192083,subclass of,documents,Q9344,1,flyers subclass of documents,flyers_Q192083,documents_Q9344
+framework,Q6671777,said to be the same as,vision document,Q7936186,1,framework said to be the same as vision document,framework_Q6671777,vision document_Q7936186
+framework for ending global poverty,id-less,creator,UN,Q1065,1,framework for ending global poverty creator UN,framework for ending global poverty_id-less,UN_Q1065
+future,Q344,studied by,visionary,Q2330647,1,future studied by visionary,future_Q344,visionary_Q2330647
+future generations,Q954025,opposite of,present,Q192613,1,future generations opposite of present,future generations_Q954025,present_Q192613
+generation,Q11398090,product or material produced,Electricity,Q12725,1,generation product or material produced Electricity,generation_Q11398090,Electricity_Q12725
+generations,Q723679,part of,national development,Q107018047,1,generations part of national development,generations_Q723679,national development_Q107018047
+global growth prospects,id-less,is a list of,growth prospects,Q106161045,1,global growth prospects is a list of growth prospects,global growth prospects_id-less,growth prospects_Q106161045
+global imperative,Q49520145,instance of,imperative,Q22716,1,global imperative instance of imperative,global imperative_Q49520145,imperative_Q22716
+goals,Q4503831,part of,SDGs,Q7649586,1,goals part of SDGs,goals_Q4503831,SDGs_Q7649586
+goals,Q4503831,part of,plan,Q4006,1,goals part of plan,goals_Q4503831,plan_Q4006
+goods,Q2424752,subclass of,article,Q191067,1,goods subclass of article,goods_Q2424752,article_Q191067
+hawkers,Q27918492,different from,walkwa,Q13634881,1,hawkers different from walkwa,hawkers_Q27918492,walkwa_Q13634881
+health,Q12147,has effect,prosperous,Q2528850,1,health has effect prosperous,health_Q12147,prosperous_Q2528850
+highest standards,id-less,subclass of,attaining,Q64641458,1,highest standards subclass of attaining,highest standards_id-less,attaining_Q64641458
+implementat,Q6007191,facet of,implement,Q39546,1,implementat facet of implement,implementat_Q6007191,implement_Q39546
+implementation,Q245962,facet of,gestati,Q11995,1,implementation facet of gestati,implementation_Q245962,gestati_Q11995
+inclusive,Q75365274,part of,industrialised,Q10535301,1,inclusive part of industrialised,inclusive_Q75365274,industrialised_Q10535301
+industrialised,Q10535301,has part,inclusive,Q75365274,1,industrialised has part inclusive,industrialised_Q10535301,inclusive_Q75365274
+infrastructure,Q121359,has part,cost,Q240673,1,infrastructure has part cost,infrastructure_Q121359,cost_Q240673
+infrastructure,Q121359,has part,health facilities,Q4260475,1,infrastructure has part health facilities,infrastructure_Q121359,health facilities_Q4260475
+fixed for their own,id-less,subclass of,fixed,Q20742557,1,fixed for their own subclass of fixed,fixed for their own_id-less,fixed_Q20742557
+fiscal performance,id-less,facet of,sustainability,Q219416,1,fiscal performance facet of sustainability,fiscal performance_id-less,sustainability_Q219416
+international development agencies,id-less,part of,bilateral organisation,id-less,1,international development agencies part of bilateral organisation,international development agencies_id-less,bilateral organisation_id-less
+financial,Q22687,studied by,managerial,Q2990807,1,financial studied by managerial,financial_Q22687,managerial_Q2990807
+dynamic,Q1268978,part of,Goal 4,Q53581209,1,dynamic part of Goal 4,dynamic_Q1268978,Goal 4_Q53581209
+e,Q684,part of,tabl,Q3930,1,e part of tabl,e_Q684,tabl_Q3930
+economic,Q8134,country,Ghana,Q117,1,economic country Ghana,economic_Q8134,Ghana_Q117
+economic,Q8134,has part,political,Q82955,1,economic has part political,economic_Q8134,political_Q82955
+economic,Q8134,has part,social,Q345367,1,economic has part social,economic_Q8134,social_Q345367
+economic,Q8134,part of,social,Q345367,1,economic part of social,economic_Q8134,social_Q345367
+economic development,Q4530482,facet of,country's,Q12076836,1,economic development facet of country's,economic development_Q4530482,country's_Q12076836
+economic policies,Q582577,has part,thi s,Q24771846,1,economic policies has part thi s,economic policies_Q582577,thi s_Q24771846
+economic policy,Q582577,country,Ghana,Q117,1,economic policy country Ghana,economic policy_Q582577,Ghana_Q117
+economy,Q159810,has part,pla n,Q755179,1,economy has part pla n,economy_Q159810,pla n_Q755179
+economy,Q159810,has part,structure,Q811979,1,economy has part structure,economy_Q159810,structure_Q811979
+economy,Q159810,location,country,Q6256,1,economy location country,economy_Q159810,country_Q6256
+economy,Q159810,part of,society,Q8425,1,economy part of society,economy_Q159810,society_Q8425
+effective,Q5347238,part of,Goal 4,Q53581209,1,effective part of Goal 4,effective_Q5347238,Goal 4_Q53581209
+targets,Q852162,part of,SDGs,Q7649586,1,targets part of SDGs,targets_Q852162,SDGs_Q7649586
+efficient,Q1034411,part of,Goal 4,Q53581209,1,efficient part of Goal 4,efficient_Q1034411,Goal 4_Q53581209
+election of that year,id-less,office contested,presidential,Q114473288,1,election of that year office contested presidential,election of that year_id-less,presidential_Q114473288
+elections,Q40231,participant,government,Q7188,1,elections participant government,elections_Q40231,government_Q7188
+enabling environment,Q46646629,facet of,corporate governance,Q380767,1,enabling environment facet of corporate governance,enabling environment_Q46646629,corporate governance_Q380767
+equipment capacit y,id-less,use,construction,Q385378,1,equipment capacit y use construction,equipment capacit y_id-less,construction_Q385378
+expenditure,Q760120,part of,GH¢,id-less,1,expenditure part of GH¢,expenditure_Q760120,GH¢_id-less
+expose,Q1384772,subclass of,sale,Q194189,1,expose subclass of sale,expose_Q1384772,sale_Q194189
+faces,Q1136388,country,nation,Q6266,1,faces country nation,faces_Q1136388,nation_Q6266
+infrastructure,Q121359,subclass of,matters,Q36866307,1,infrastructure subclass of matters,infrastructure_Q121359,matters_Q36866307
+key milestones,Q85912852,subclass of,milestones,Q1754368,1,key milestones subclass of milestones,key milestones_Q85912852,milestones_Q1754368
+natural,Q747691,has part,physical environment,Q107447748,1,natural has part physical environment,natural_Q747691,physical environment_Q107447748
+middle -income trap,id-less,instance of,situation,Q2141565,1,middle -income trap instance of situation,middle -income trap_id-less,situation_Q2141565
+migration issues,Q77141777,studies,Migration,Q177626,1,migration issues studies Migration,migration issues_Q77141777,Migration_Q177626
+minimising,Q70467303,subclass of,eliminating,Q6784806,1,minimising subclass of eliminating,minimising_Q70467303,eliminating_Q6784806
+model,Q4610556,said to be the same as,70%,Q4642934,1,model said to be the same as 70%,model_Q4610556,70%_Q4642934
+monitoring,Q2143522,number of participants,15,Q38701,1,monitoring number of participants 15,monitoring_Q2143522,15_Q38701
+month,Q5151,part of,payment system,Q986008,1,month part of payment system,month_Q5151,payment system_Q986008
+most secure democracy,id-less,facet of,democracy,Q7174,1,most secure democracy facet of democracy,most secure democracy_id-less,democracy_Q7174
+moving.,Q77525576,subclass of,moving,Q2918584,1,moving. subclass of moving,moving._Q77525576,moving_Q2918584
+national,Q53247,instance of,medium,Q2249676,1,national instance of medium,national_Q53247,medium_Q2249676
+national development,Q107018047,has part,generations,Q723679,1,national development has part generations,national development_Q107018047,generations_Q723679
+national development,Q107018047,subclass of,mobilise resources,id-less,1,national development subclass of mobilise resources,national development_Q107018047,mobilise resources_id-less
+national development agenda,id-less,instance of,development agenda,Q112923516,1,national development agenda instance of development agenda,national development agenda_id-less,development agenda_Q112923516
+national development aspirations,id-less,country,Ghana,Q117,1,national development aspirations country Ghana,national development aspirations_id-less,Ghana_Q117
+national development plan,Q846059,country,Ghana,Q117,1,national development plan country Ghana,national development plan_Q846059,Ghana_Q117
+national development plan,Q846059,has part,district plan,Q5283354,1,national development plan has part district plan,national development plan_Q846059,district plan_Q5283354
+national development planning,Q104880767,subclass of,strategies,Q185451,1,national development planning subclass of strategies,national development planning_Q104880767,strategies_Q185451
+national medium,id-less,instance of,medium,Q2249676,1,national medium instance of medium,national medium_id-less,medium_Q2249676
+national plan preparation sub-programme,id-less,has part,district,Q123705,1,national plan preparation sub-programme has part district,national plan preparation sub-programme_id-less,district_Q123705
+national plan preparation sub-programme,id-less,has part,sector,Q3958441,1,national plan preparation sub-programme has part sector,national plan preparation sub-programme_id-less,sector_Q3958441
+national plan preparation sub-programme,id-less,subclass of,development planning,Q108059815,1,national plan preparation sub-programme subclass of development planning,national plan preparation sub-programme_id-less,development planning_Q108059815
+national plan preparation sub-programme,id-less,subclass of,national development plan,Q846059,1,national plan preparation sub-programme subclass of national development plan,national plan preparation sub-programme_id-less,national development plan_Q846059
+visionary,Q2330647,studies,future,Q344,1,visionary studies future,visionary_Q2330647,future_Q344
+national preference,Q43603746,subclass of,choice of name,id-less,1,national preference subclass of choice of name,national preference_Q43603746,choice of name_id-less
+national values,Q58457241,part of,culture,Q11042,1,national values part of culture,national values_Q58457241,culture_Q11042
+migration data,Q77088744,studied by,Migration,Q177626,1,migration data studied by Migration,migration data_Q77088744,Migration_Q177626
+middle -incom e income status,id-less,different from,country w ill proceed,id-less,1,middle -incom e income status different from country w ill proceed,middle -incom e income status_id-less,country w ill proceed_id-less
+land,Q11081619,different from,air,Q7391292,1,land different from air,land_Q11081619,air_Q7391292
+member states,Q160016,number of participants,50,Q712519,1,member states number of participants 50,member states_Q160016,50_Q712519
+largest by 2050,id-less,said to be the same as,China,Q148,1,largest by 2050 said to be the same as China,largest by 2050_id-less,China_Q148
+latent potential,id-less,part of,private sector,Q591763,1,latent potential part of private sector,latent potential_id-less,private sector_Q591763
+law and order,Q321423,part of,Good Society,Q105350342,1,law and order part of Good Society,law and order_Q321423,Good Society_Q105350342
+laws,Q22096098,applies to jurisdiction,state,Q7275,1,laws applies to jurisdiction state,laws_Q22096098,state_Q7275
+left to chance,id-less,subclass of,chance,Q12470060,1,left to chance subclass of chance,left to chance_id-less,chance_Q12470060
+locations,Q63101604,country,country,Q6256,1,locations country country,locations_Q63101604,country_Q6256
+long -term national development plan,id-less,facet of,economy,Q159810,1,long -term national development plan facet of economy,long -term national development plan_id-less,economy_Q159810
+long -term planning,id-less,opposite of,medium -term planning,id-less,1,long -term planning opposite of medium -term planning,long -term planning_id-less,medium -term planning_id-less
+long term,Q247145,part of,Growth Area,Q40763478,1,long term part of Growth Area,long term_Q247145,Growth Area_Q40763478
+long term,Q247145,subclass of,plan,Q4006,1,long term subclass of plan,long term_Q247145,plan_Q4006
+macro,Q629579,part of,economic,Q8134,1,macro part of economic,macro_Q629579,economic_Q8134
+macroeconomic,Q39680,part of,socio -economic issues,id-less,1,macroeconomic part of socio -economic issues,macroeconomic_Q39680,socio -economic issues_id-less
+macroeconomic management,Q63768837,subclass of,prudent,Q60589645,1,macroeconomic management subclass of prudent,macroeconomic management_Q63768837,prudent_Q60589645
+macroeconomic policy,Q11821836,subclass of,development policy,Q61706319,1,macroeconomic policy subclass of development policy,macroeconomic policy_Q11821836,development policy_Q61706319
+managerial,Q2990807,studies,financial,Q22687,1,managerial studies financial,managerial_Q2990807,financial_Q22687
+measurable,Q516776,subclass of,frameworks,Q22080812,1,measurable subclass of frameworks,measurable_Q516776,frameworks_Q22080812
+medium,Q2249676,opposite of,short -term,id-less,1,medium opposite of short -term,medium_Q2249676,short -term_id-less
+medium,Q2249676,opposite of,short -term plans,id-less,1,medium opposite of short -term plans,medium_Q2249676,short -term plans_id-less
+medium,Q2249676,part of,Growth Area,Q40763478,1,medium part of Growth Area,medium_Q2249676,Growth Area_Q40763478
+medium -term planning,id-less,opposite of,long -term planning,id-less,1,medium -term planning opposite of long -term planning,medium -term planning_id-less,long -term planning_id-less
+medium term,Q22294920,part of,Growth Area,Q40763478,1,medium term part of Growth Area,medium term_Q22294920,Growth Area_Q40763478
+medium-term development plan,id-less,has part,medium-term expenditure framework,id-less,1,medium-term development plan has part medium-term expenditure framework,medium-term development plan_id-less,medium-term expenditure framework_id-less
+medium-term expenditure framework,id-less,part of,medium-term development plan,id-less,1,medium-term expenditure framework part of medium-term development plan,medium-term expenditure framework_id-less,medium-term development plan_id-less
+03901,id-less,headquarters location,Headquarters,Q7540126,1,03901 headquarters location Headquarters,03901_id-less,Headquarters_Q7540126
+Outputs,Q54919667,part of,Main Outputs,id-less,1,Outputs part of Main Outputs,Outputs_Q54919667,Main Outputs_id-less
+Programme,Q170584,has part,Budget,Q41263,1,Programme has part Budget,Programme_Q170584,Budget_Q41263
+Child and Family Welfare,id-less,subclass of,Welfare,Q12002092,1,Child and Family Welfare subclass of Welfare,Child and Family Welfare_id-less,Welfare_Q12002092
+China’s,Q19188,has part,14.8 percent,id-less,1,China’s has part 14.8 percent,China’s_Q19188,14.8 percent_id-less
+Citifmonline.com,id-less,inception,"April 22, 2017",Q33122533,1,"Citifmonline.com inception April 22, 2017",Citifmonline.com_id-less,"April 22, 2017_Q33122533"
+Civic,Q4421073,part of,Social,Q345367,1,Civic part of Social,Civic_Q4421073,Social_Q345367
+"Climate Variability, Change and Management",id-less,facet of,Change,Q1150070,1,"Climate Variability, Change and Management facet of Change","Climate Variability, Change and Management_id-less",Change_Q1150070
+Commercial Infrastructure,id-less,part of,Social,Q345367,1,Commercial Infrastructure part of Social,Commercial Infrastructure_id-less,Social_Q345367
+Commission,Q55657615,parent organization,Parliament,Q11010,1,Commission parent organization Parliament,Commission_Q55657615,Parliament_Q11010
+Communication Number,id-less,subclass of,Number,Q11563,1,Communication Number subclass of Number,Communication Number_id-less,Number_Q11563
+Constitution,Q7755,part of,Constitutions,Q3875285,1,Constitution part of Constitutions,Constitution_Q7755,Constitutions_Q3875285
+Constitution Review Commission,id-less,main subject,Popular mandate,id-less,1,Constitution Review Commission main subject Popular mandate,Constitution Review Commission_id-less,Popular mandate_id-less
+Constitution Review Commission Report,id-less,main subject,Popular mandate,id-less,1,Constitution Review Commission Report main subject Popular mandate,Constitution Review Commission Report_id-less,Popular mandate_id-less
+Constitutions,Q3875285,has part,Constitution,Q7755,1,Constitutions has part Constitution,Constitutions_Q3875285,Constitution_Q7755
+Construction Industry Development,id-less,subclass of,Development,Q1074523,1,Construction Industry Development subclass of Development,Construction Industry Development_id-less,Development_Q1074523
+Coordinated,Q1536,has part,Number of,Q4319,1,Coordinated has part Number of,Coordinated_Q1536,Number of_Q4319
+Coordinated Programme,id-less,instance of,Programme,Q170584,1,Coordinated Programme instance of Programme,Coordinated Programme_id-less,Programme_Q170584
+Coordination Programme of Economic and Social Development Policies,id-less,instance of,national development policy framework,id-less,1,Coordination Programme of Economic and Social Development Policies instance of national development policy framework,Coordination Programme of Economic and Social Development Policies_id-less,national development policy framework_id-less
+Coordination of Environmental Policies,id-less,field of work,Environmental Policies,Q36730612,1,Coordination of Environmental Policies field of work Environmental Policies,Coordination of Environmental Policies_id-less,Environmental Policies_Q36730612
+Cost Center,Q5174761,has part,Economic Item,id-less,1,Cost Center has part Economic Item,Cost Center_Q5174761,Economic Item_id-less
+Culture,Q11042,has part,Development,Q1074523,1,Culture has part Development,Culture_Q11042,Development_Q1074523
+DPs,Q1061846,parent organization,GoG,Q1486288,1,DPs parent organization GoG,DPs_Q1061846,GoG_Q1486288
+DPs,Q1061846,parent organization,Government of Ghana,Q16733607,1,DPs parent organization Government of Ghana,DPs_Q1061846,Government of Ghana_Q16733607
+Decentralised Planning,id-less,subclass of,Planning,Q309100,1,Decentralised Planning subclass of Planning,Decentralised Planning_id-less,Planning_Q309100
+Deepening Democratic Governance in Ghana,id-less,country,Ghana,Q117,1,Deepening Democratic Governance in Ghana country Ghana,Deepening Democratic Governance in Ghana_id-less,Ghana_Q117
+Development,Q1074523,has cause,Population,Q33829,1,Development has cause Population,Development_Q1074523,Population_Q33829
+China,Q148,said to be the same as,largest by 2050,id-less,1,China said to be the same as largest by 2050,China_Q148,largest by 2050_id-less
+Change without Transformation,Q90576362,opposite of,Structure of the Economy,id-less,1,Change without Transformation opposite of Structure of the Economy,Change without Transformation_Q90576362,Structure of the Economy_id-less
+Professional evaluation,id-less,part of,Audit,Q181487,1,Professional evaluation part of Audit,Professional evaluation_id-less,Audit_Q181487
+Challenges and Areas for Redress,id-less,has part,Areas for Redress,id-less,1,Challenges and Areas for Redress has part Areas for Redress,Challenges and Areas for Redress_id-less,Areas for Redress_id-less
+Agenda 2063,Q56296197,has part,SDGs,Q7649586,1,Agenda 2063 has part SDGs,Agenda 2063_Q56296197,SDGs_Q7649586
+Agenda 2063,Q56296197,publication date,2013,Q1998,1,Agenda 2063 publication date 2013,Agenda 2063_Q56296197,2013_Q1998
+Annual Progress Report,Q27725076,instance of,Progress Report,Q18170293,1,Annual Progress Report instance of Progress Report,Annual Progress Report_Q27725076,Progress Report_Q18170293
+Annual Progress Reports,Q66259542,publisher,NDPC,Q6953302,1,Annual Progress Reports publisher NDPC,Annual Progress Reports_Q66259542,NDPC_Q6953302
+Application for administrative funds,id-less,part of,Monthly Monthly Monthly,id-less,1,Application for administrative funds part of Monthly Monthly Monthly,Application for administrative funds_id-less,Monthly Monthly Monthly_id-less
+Areas for Redress,id-less,part of,Challenges and Areas for Redress,id-less,1,Areas for Redress part of Challenges and Areas for Redress,Areas for Redress_id-less,Challenges and Areas for Redress_id-less
+Aspec,Q183061,has part,ts,Q191779,1,Aspec has part ts,Aspec_Q183061,ts_Q191779
+Audit,Q181487,has part,Professional evaluation,id-less,1,Audit has part Professional evaluation,Audit_Q181487,Professional evaluation_id-less
+BUDGET,Q41263,has part,PROGRAMME,Q170584,1,BUDGET has part PROGRAMME,BUDGET_Q41263,PROGRAMME_Q170584
+Benchmark Revenue,id-less,has part,percen tage,id-less,1,Benchmark Revenue has part percen tage,Benchmark Revenue_id-less,percen tage_id-less
+Black Star Stadium,id-less,area,2,Q200,1,Black Star Stadium area 2,Black Star Stadium_id-less,2_Q200
+Budget,Q41263,part of,Programme,Q170584,1,Budget part of Programme,Budget_Q41263,Programme_Q170584
+Budget Programme,id-less,has part,Budget Programme Results Statement,id-less,1,Budget Programme has part Budget Programme Results Statement,Budget Programme_id-less,Budget Programme Results Statement_id-less
+Budget Programme,id-less,has part,Objective,Q4503831,1,Budget Programme has part Objective,Budget Programme_id-less,Objective_Q4503831
+Budget Programme,id-less,has part,Projects,Q93241073,1,Budget Programme has part Projects,Budget Programme_id-less,Projects_Q93241073
+Budget Programme Objective,id-less,point in time,1,Q199,1,Budget Programme Objective point in time 1,Budget Programme Objective_id-less,1_Q199
+Budget Programme Results Statement,id-less,part of,Budget Programme,id-less,1,Budget Programme Results Statement part of Budget Programme,Budget Programme Results Statement_id-less,Budget Programme_id-less
+Budget Sub-Programme Objective,id-less,subclass of,Objective,Q4503831,1,Budget Sub-Programme Objective subclass of Objective,Budget Sub-Programme Objective_id-less,Objective_Q4503831
+Budget Year 2019,id-less,point in time,2019,Q25274,1,Budget Year 2019 point in time 2019,Budget Year 2019_id-less,2019_Q25274
+CHALLENGES OF PLAN,id-less,part of,OPPORTUNITIES AND CHALLENGES OF PLAN,id-less,1,CHALLENGES OF PLAN part of OPPORTUNITIES AND CHALLENGES OF PLAN,CHALLENGES OF PLAN_id-less,OPPORTUNITIES AND CHALLENGES OF PLAN_id-less
+CSPG,Q5104536,has part,technical review,Q96334216,1,CSPG has part technical review,CSPG_Q5104536,technical review_Q96334216
+Cabinet,Q640506,part of,Parliament,Q11010,1,Cabinet part of Parliament,Cabinet_Q640506,Parliament_Q11010
+Central Business District,Q738570,located in the administrative territorial entity,Central,Q57525,1,Central Business District located in the administrative territorial entity Central,Central Business District_Q738570,Central_Q57525
+Development,Q1074523,part of,Culture,Q11042,1,Development part of Culture,Development_Q1074523,Culture_Q11042
+Development Agenda,Q112923516,point in time,2014,Q1999,1,Development Agenda point in time 2014,Development Agenda_Q112923516,2014_Q1999
+Development Number,id-less,has part,Number of,Q4319,1,Development Number has part Number of,Development Number_id-less,Number of_Q4319
+Development Planning Commission,id-less,instance of,Planning Commission,Q2641081,1,Development Planning Commission instance of Planning Commission,Development Planning Commission_id-less,Planning Commission_Q2641081
+Emergence of the Colonial Economy,id-less,main subject,Colonial Economy,id-less,1,Emergence of the Colonial Economy main subject Colonial Economy,Emergence of the Colonial Economy_id-less,Colonial Economy_id-less
+Employee Compensation,Q5374280,subclass of,payment,Q1148747,1,Employee Compensation subclass of payment,Employee Compensation_Q5374280,payment_Q1148747
+Environmental,Q10485087,subclass of,Environment,Q2249676,1,Environmental subclass of Environment,Environmental_Q10485087,Environment_Q2249676
+Environmentally sustainable,Q112877775,subclass of,requirements,Q1761598,1,Environmentally sustainable subclass of requirements,Environmentally sustainable_Q112877775,requirements_Q1761598
+Escaping the Middle -Income Trap,id-less,narrative location,Middle,Q23595,1,Escaping the Middle -Income Trap narrative location Middle,Escaping the Middle -Income Trap_id-less,Middle_Q23595
+Establishment of Autonomous Public Services,id-less,facet of,Autonomous Public Services,id-less,1,Establishment of Autonomous Public Services facet of Autonomous Public Services,Establishment of Autonomous Public Services_id-less,Autonomous Public Services_id-less
+Evolution of British Colonialism,id-less,main subject,British Colonialism,Q56004082,1,Evolution of British Colonialism main subject British Colonialism,Evolution of British Colonialism_id-less,British Colonialism_Q56004082
+Existence of,Q1699404,subclass of,Policy,Q1156854,1,Existence of subclass of Policy,Existence of_Q1699404,Policy_Q1156854
+Field Monitoring Reports on Sectors and District,id-less,subclass of,Monitoring Reports on Sectors and District,id-less,1,Field Monitoring Reports on Sectors and District subclass of Monitoring Reports on Sectors and District,Field Monitoring Reports on Sectors and District_id-less,Monitoring Reports on Sectors and District_id-less
+Financing Infrastructure,Q108564518,facet of,Infrastructure,Q121359,1,Financing Infrastructure facet of Infrastructure,Financing Infrastructure_Q108564518,Infrastructure_Q121359
+Fiscal Decentralisation,Q60033127,facet of,Decentralisation,Q188961,1,Fiscal Decentralisation facet of Decentralisation,Fiscal Decentralisation_Q60033127,Decentralisation_Q188961
+Five Strategic Goals of the Plan,id-less,part of,Plan,Q4006,1,Five Strategic Goals of the Plan part of Plan,Five Strategic Goals of the Plan_id-less,Plan_Q4006
+Flood Control,Q1187968,subclass of,Drainage,Q7481320,1,Flood Control subclass of Drainage,Flood Control_Q1187968,Drainage_Q7481320
+Food and Nutrition Security,Q77135871,subclass of,Security,Q2526135,1,Food and Nutrition Security subclass of Security,Food and Nutrition Security_Q77135871,Security_Q2526135
+Forest Management,Q372561,subclass of,Management,Q2920921,1,Forest Management subclass of Management,Forest Management_Q372561,Management_Q2920921
+From Vision to Action,Q112910956,followed by,Vision to Action,Q48774369,1,From Vision to Action followed by Vision to Action,From Vision to Action_Q112910956,Vision to Action_Q48774369
+Future of Work,Q105468213,has part,Preparing for the Future of Work,id-less,1,Future of Work has part Preparing for the Future of Work,Future of Work_Q105468213,Preparing for the Future of Work_id-less
+Future of Work,Q105468213,part of,the Plan,Q1986472,1,Future of Work part of the Plan,Future of Work_Q105468213,the Plan_Q1986472
+GHANA,Q117,member of,GOAL FIVE,id-less,1,GHANA member of GOAL FIVE,GHANA_Q117,GOAL FIVE_id-less
+GH¢,id-less,has part,expenditure,Q760120,1,GH¢ has part expenditure,GH¢_id-less,expenditure_Q760120
+GIP,Q41429,has part,GIP Completed,id-less,1,GIP has part GIP Completed,GIP_Q41429,GIP Completed_id-less
+GIP Completed,id-less,part of,GIP,Q41429,1,GIP Completed part of GIP,GIP Completed_id-less,GIP_Q41429
+GOAL FIVE,id-less,has part,GHANA,Q117,1,GOAL FIVE has part GHANA,GOAL FIVE_id-less,GHANA_Q117
+Electricity,Q12725,has part,transmission,Q525512,1,Electricity has part transmission,Electricity_Q12725,transmission_Q525512
+Electricity,Q12725,has part,generation,Q11398090,1,Electricity has part generation,Electricity_Q12725,generation_Q11398090
+Electricity,Q12725,has part,distribution,Q200726,1,Electricity has part distribution,Electricity_Q12725,distribution_Q200726
+Drivers of Economic Growth,id-less,main subject,Economic Growth,Q189833,1,Drivers of Economic Growth main subject Economic Growth,Drivers of Economic Growth_id-less,Economic Growth_Q189833
+Developmental Constitutio n,id-less,publication date,2011,Q1994,1,Developmental Constitutio n publication date 2011,Developmental Constitutio n_id-less,2011_Q1994
+Developments in the International Environment,id-less,facet of,International Environment,Q15762355,1,Developments in the International Environment facet of International Environment,Developments in the International Environment_id-less,International Environment_Q15762355
+Director-General,Q1501800,part of,Governing Board,Q96597574,1,Director-General part of Governing Board,Director-General_Q1501800,Governing Board_Q96597574
+Disaster Risk,Q63645802,instance of,Risk,Q104493,1,Disaster Risk instance of Risk,Disaster Risk_Q63645802,Risk_Q104493
+Disaster Risk Management,Q96334982,subclass of,Risk Management,Q189447,1,Disaster Risk Management subclass of Risk Management,Disaster Risk Management_Q96334982,Risk Management_Q189447
+Dispu tes,id-less,instance of,Chieftaincy,Q65044209,1,Dispu tes instance of Chieftaincy,Dispu tes_id-less,Chieftaincy_Q65044209
+District,Q123705,part of,Sector,Q3958441,1,District part of Sector,District_Q123705,Sector_Q3958441
+District Performance Number,id-less,subclass of,Field Monitoring Reports,id-less,1,District Performance Number subclass of Field Monitoring Reports,District Performance Number_id-less,Field Monitoring Reports_id-less
+Dividend,Q181201,has part,Number of,Q4319,1,Dividend has part Number of,Dividend_Q181201,Number of_Q4319
+Does the name of a plan matter?,id-less,instance of,Q,Q321285,1,Does the name of a plan matter? instance of Q,Does the name of a plan matter?_id-less,Q_Q321285
+ECOWAS,Q193272,continent,Africa,Q15,1,ECOWAS continent Africa,ECOWAS_Q193272,Africa_Q15
+Efficiency,Q1034411,subclass of,effectiveness,Q1296024,1,Efficiency subclass of effectiveness,Efficiency_Q1034411,effectiveness_Q1296024
+EVALUATION,Q1379672,part of,MONITORING,Q2143522,1,EVALUATION part of MONITORING,EVALUATION_Q1379672,MONITORING_Q2143522
+EVALUATION,Q1379672,part of,PLANNING,Q309100,1,EVALUATION part of PLANNING,EVALUATION_Q1379672,PLANNING_Q309100
+Early Contact,Q54637244,subclass of,Contact,Q23797,1,Early Contact subclass of Contact,Early Contact_Q54637244,Contact_Q23797
+Economic Decentralisation,id-less,facet of,Decentralisation,Q188961,1,Economic Decentralisation facet of Decentralisation,Economic Decentralisation_id-less,Decentralisation_Q188961
+Economic Item,id-less,part of,Cost Center,Q5174761,1,Economic Item part of Cost Center,Economic Item_id-less,Cost Center_Q5174761
+Economic Item,id-less,part of,Sub-Programme,id-less,1,Economic Item part of Sub-Programme,Economic Item_id-less,Sub-Programme_id-less
+Economic Modelling,Q15716398,subclass of,Modelling,Q1116876,1,Economic Modelling subclass of Modelling,Economic Modelling_Q15716398,Modelling_Q1116876
+Economic and Political Road Map to High -Income Status,id-less,instance of,Road Map,Q2298569,1,Economic and Political Road Map to High -Income Status instance of Road Map,Economic and Political Road Map to High -Income Status_id-less,Road Map_Q2298569
+Economist Magazine,id-less,publisher,Economist Intelligence Unit,Q1063288,1,Economist Magazine publisher Economist Intelligence Unit,Economist Magazine_id-less,Economist Intelligence Unit_Q1063288
+Education,Q8434,has part,1,Q199,1,Education has part 1,Education_Q8434,1_Q199
+Africa,Q15,instance of,continent,Q5107,1,Africa instance of continent,Africa_Q15,continent_Q5107
+Advent of Foreign Religions,id-less,number of episodes,3,Q201,1,Advent of Foreign Religions number of episodes 3,Advent of Foreign Religions_id-less,3_Q201
+Administrative Decentralisation,id-less,subclass of,Decentralisation,Q188961,1,Administrative Decentralisation subclass of Decentralisation,Administrative Decentralisation_id-less,Decentralisation_Q188961
+2019 Indicative Year,id-less,followed by,2020 Indicative Year,id-less,1,2019 Indicative Year followed by 2020 Indicative Year,2019 Indicative Year_id-less,2020 Indicative Year_id-less
+14,Q38582,follows,9,Q19108,1,14 follows 9,14_Q38582,9_Q19108
+14.,Q38582,point in time,14,Q38582,1,14. point in time 14,14._Q38582,14_Q38582
+14.8 percent,id-less,part of,China’s,Q19188,1,14.8 percent part of China’s,14.8 percent_id-less,China’s_Q19188
+16,Q40254,followed by,17,Q40118,1,16 followed by 17,16_Q40254,17_Q40118
+16,Q40254,instance of,Goals,Q4503831,1,16 instance of Goals,16_Q40254,Goals_Q4503831
+17,Q40118,follows,16,Q40254,1,17 follows 16,17_Q40118,16_Q40254
+17,Q40118,instance of,Goals,Q4503831,1,17 instance of Goals,17_Q40118,Goals_Q4503831
+18,Q38712,instance of,Goals,Q4503831,1,18 instance of Goals,18_Q38712,Goals_Q4503831
+"184,000",id-less,part of,National Plan Preparation,id-less,1,"184,000 part of National Plan Preparation","184,000_id-less",National Plan Preparation_id-less
+1963/64,Q65063308,point in time,1963,Q2755,1,1963/64 point in time 1963,1963/64_Q65063308,1963_Q2755
+1969 -70,id-less,point in time,1969,Q2485,1,1969 -70 point in time 1969,1969 -70_id-less,1969_Q2485
+2,Q200,instance of,Goals,Q4503831,1,2 instance of Goals,2_Q200,Goals_Q4503831
+"2,030,261",id-less,publication date,"Nov 22, 2018",id-less,1,"2,030,261 publication date Nov 22, 2018","2,030,261_id-less","Nov 22, 2018_id-less"
+20,Q40292,followed by,30,Q42817,1,20 followed by 30,20_Q40292,30_Q42817
+20 50,Q50462502,said to be the same as,50 50 75 36,id-less,1,20 50 said to be the same as 50 50 75 36,20 50_Q50462502,50 50 75 36_id-less
+2013,Q1998,followed by,2014,Q1999,1,2013 followed by 2014,2013_Q1998,2014_Q1999
+2014,Q1999,followed by,2015,Q2002,1,2014 followed by 2015,2014_Q1999,2015_Q2002
+2015,Q2002,followed by,2016,Q25245,1,2015 followed by 2016,2015_Q2002,2016_Q25245
+2017,Q25290,followed by,2018,Q25291,1,2017 followed by 2018,2017_Q25290,2018_Q25291
+2017 APR report,id-less,point in time,2017,Q25290,1,2017 APR report point in time 2017,2017 APR report_id-less,2017_Q25290
+2017 Annual Progress Report on the Implementation of GSGDA II,id-less,point in time,2017,Q25290,1,2017 Annual Progress Report on the Implementation of GSGDA II point in time 2017,2017 Annual Progress Report on the Implementation of GSGDA II_id-less,2017_Q25290
+2018,Q25291,followed by,2057,Q49932,1,2018 followed by 2057,2018_Q25291,2057_Q49932
+2018 Target Year Value,id-less,point in time,2018,Q25291,1,2018 Target Year Value point in time 2018,2018 Target Year Value_id-less,2018_Q25291
+14,Q38582,follows,12,Q36977,1,14 follows 12,14_Q38582,12_Q36977
+13,Q37141,followed by,14,Q38582,1,13 followed by 14,13_Q37141,14_Q38582
+120,Q23688,part of,100,Q37413,1,120 part of 100,120_Q23688,100_Q37413
+1.5,Q20970431,point in time,1,Q199,1,1.5 point in time 1,1.5_Q20970431,1_Q199
+0390101001,id-less,population,"7,312,555",id-less,1,"0390101001 population 7,312,555",0390101001_id-less,"7,312,555_id-less"
+03902,id-less,facet of,"National Development Policy, Planning, Monitoring and Evaluation",id-less,1,"03902 facet of National Development Policy, Planning, Monitoring and Evaluation",03902_id-less,"National Development Policy, Planning, Monitoring and Evaluation_id-less"
+03902003,id-less,point in time,2003,Q1986,1,03902003 point in time 2003,03902003_id-less,2003_Q1986
+1,Q199,followed by,16,Q40254,1,1 followed by 16,1_Q199,16_Q40254
+1,Q199,followed by,6,Q23488,1,1 followed by 6,1_Q199,6_Q23488
+1 - 1 2 2 2,id-less,instance of,published,Q1361758,1,1 - 1 2 2 2 instance of published,1 - 1 2 2 2_id-less,published_Q1361758
+"1,522,261",id-less,facet of,Use of goods and services,id-less,1,"1,522,261 facet of Use of goods and services","1,522,261_id-less",Use of goods and services_id-less
+"1,522,261",id-less,part of,National Policy Formulation,id-less,1,"1,522,261 part of National Policy Formulation","1,522,261_id-less",National Policy Formulation_id-less
+"1,522,261",id-less,part of,"National Policy Formulation 1,522,261",id-less,1,"1,522,261 part of National Policy Formulation 1,522,261","1,522,261_id-less","National Policy Formulation 1,522,261_id-less"
+"1,522,2611,522,2611,522,2611,522,261",id-less,part of,National Policy Formulation,id-less,1,"1,522,2611,522,2611,522,2611,522,261 part of National Policy Formulation","1,522,2611,522,2611,522,2611,522,261_id-less",National Policy Formulation_id-less
+1.6,Q106636603,point in time,1,Q199,1,1.6 point in time 1,1.6_Q106636603,1_Q199
+12,Q36977,followed by,14,Q38582,1,12 followed by 14,12_Q36977,14_Q38582
+10,Q23806,instance of,Goals,Q4503831,1,10 instance of Goals,10_Q23806,Goals_Q4503831
+10,Q23806,is a list of,Goals,Q4503831,1,10 is a list of Goals,10_Q23806,Goals_Q4503831
+10 32 24 24 30 35 40 40,id-less,instance of,coordinated,Q1536,1,10 32 24 24 30 35 40 40 instance of coordinated,10 32 24 24 30 35 40 40_id-less,coordinated_Q1536
+100,Q37413,has part,120,Q23688,1,100 has part 120,100_Q37413,120_Q23688
+100,Q37413,has part,95,Q33615,1,100 has part 95,100_Q37413,95_Q33615
+100%,Q307482,point in time,100,Q37413,1,100% point in time 100,100%_Q307482,100_Q37413
+100% Populate system,id-less,instance of,policies,Q47011897,1,100% Populate system instance of policies,100% Populate system_id-less,policies_Q47011897
+11,Q37136,followed by,12,Q36977,1,11 followed by 12,11_Q37136,12_Q36977
+11,Q37136,is a list of,Goals,Q4503831,1,11 is a list of Goals,11_Q37136,Goals_Q4503831
+12,Q36977,followed by,13,Q37141,1,12 followed by 13,12_Q36977,13_Q37141
+2018-2021 National Medium-Term Plan,id-less,part of,National Medium-Term Plan,id-less,1,2018-2021 National Medium-Term Plan part of National Medium-Term Plan,2018-2021 National Medium-Term Plan_id-less,National Medium-Term Plan_id-less
+2019-2022,Q81068910,point in time,2019,Q25274,1,2019-2022 point in time 2019,2019-2022_Q81068910,2019_Q25274
+Addis Ababa Declaration on Population,id-less,point in time,2014,Q1999,1,Addis Ababa Declaration on Population point in time 2014,Addis Ababa Declaration on Population_id-less,2014_Q1999
+2020 Indicative,id-less,point in time,2020,Q25337,1,2020 Indicative point in time 2020,2020 Indicative_id-less,2020_Q25337
+70%,Q4642934,said to be the same as,model,Q4610556,1,70% said to be the same as model,70%_Q4642934,model_Q4610556
+9,Q19108,followed by,11,Q37136,1,9 followed by 11,9_Q19108,11_Q37136
+9,Q19108,followed by,14,Q38582,1,9 followed by 14,9_Q19108,14_Q38582
+95,Q33615,part of,100,Q37413,1,95 part of 100,95_Q33615,100_Q37413
+A New Approach to Measuring Economic Growth,id-less,main subject,Economic Growth,Q189833,1,A New Approach to Measuring Economic Growth main subject Economic Growth,A New Approach to Measuring Economic Growth_id-less,Economic Growth_Q189833
+A. As the name indicates,id-less,instance of,principles,Q7245172,1,A. As the name indicates instance of principles,A. As the name indicates_id-less,principles_Q7245172
+ACHIEVEMENTS,Q2988681,has part,KEY ACHIEVEMENTS,Q37983985,1,ACHIEVEMENTS has part KEY ACHIEVEMENTS,ACHIEVEMENTS_Q2988681,KEY ACHIEVEMENTS_Q37983985
+ACKNOWLEDGEMENT,Q847337,part of,PREFACE AND ACKNOWLEDGEMENTS,Q108256619,1,ACKNOWLEDGEMENT part of PREFACE AND ACKNOWLEDGEMENTS,ACKNOWLEDGEMENT_Q847337,PREFACE AND ACKNOWLEDGEMENTS_Q108256619
+ANSWERS ABOUT THE LONG -TERM PLAN,id-less,part of,QUESTIONS AND ANSWERS ABOUT THE LONG -TERM PLAN,id-less,1,ANSWERS ABOUT THE LONG -TERM PLAN part of QUESTIONS AND ANSWERS ABOUT THE LONG -TERM PLAN,ANSWERS ABOUT THE LONG -TERM PLAN_id-less,QUESTIONS AND ANSWERS ABOUT THE LONG -TERM PLAN_id-less
+Abidjan,Q1515,twinned administrative body,Accra,Q3761,1,Abidjan twinned administrative body Accra,Abidjan_Q1515,Accra_Q3761
+Accelerating and Sustaining Decentralisation in Ghana,id-less,country,Ghana,Q117,1,Accelerating and Sustaining Decentralisation in Ghana country Ghana,Accelerating and Sustaining Decentralisation in Ghana_id-less,Ghana_Q117
+Accra,Q3761,country,British,Q842438,1,Accra country British,Accra_Q3761,British_Q842438
+Accra,Q3761,country,Ghana,Q117,1,Accra country Ghana,Accra_Q3761,Ghana_Q117
+Accra,Q3761,twinned administrative body,Abidjan,Q1515,1,Accra twinned administrative body Abidjan,Accra_Q3761,Abidjan_Q1515
+Accra International Conference Center,Q107034529,owned by,UNICEF,Q740308,1,Accra International Conference Center owned by UNICEF,Accra International Conference Center_Q107034529,UNICEF_Q740308
+Act,Q3258,point in time,12,Q36977,1,Act point in time 12,Act_Q3258,12_Q36977
+Act 479,id-less,main subject,Commission,Q55657615,1,Act 479 main subject Commission,Act 479_id-less,Commission_Q55657615
+Act 479,id-less,main subject,Legal Mandate,id-less,1,Act 479 main subject Legal Mandate,Act 479_id-less,Legal Mandate_id-less
+"Act 479, 1994",id-less,point in time,1994,Q2067,1,"Act 479, 1994 point in time 1994","Act 479, 1994_id-less",1994_Q2067
+Act 815,id-less,instance of,Legislative Mandate,Q15238777,1,Act 815 instance of Legislative Mandate,Act 815_id-less,Legislative Mandate_Q15238777
+Act 815,id-less,legislated by,Parliament,Q11010,1,Act 815 legislated by Parliament,Act 815_id-less,Parliament_Q11010
+Act 815,id-less,point in time,815,Q29917,1,Act 815 point in time 815,Act 815_id-less,815_Q29917
+Act 815,id-less,publication date,2011,Q1994,1,Act 815 publication date 2011,Act 815_id-less,2011_Q1994
+7,Q23350,is a list of,Goals,Q4503831,1,7 is a list of Goals,7_Q23350,Goals_Q4503831
+7,Q23350,followed by,9,Q19108,1,7 followed by 9,7_Q23350,9_Q19108
+6,Q23488,followed by,7,Q23350,1,6 followed by 7,6_Q23488,7_Q23350
+4,Q202,instance of,Goals,Q4503831,1,4 instance of Goals,4_Q202,Goals_Q4503831
+2020 Indicative Year,id-less,followed by,2021 Indicative Year,id-less,1,2020 Indicative Year followed by 2021 Indicative Year,2020 Indicative Year_id-less,2021 Indicative Year_id-less
+2020 Indicative Year,id-less,follows,2019 Indicative Year,id-less,1,2020 Indicative Year follows 2019 Indicative Year,2020 Indicative Year_id-less,2019 Indicative Year_id-less
+2021 Indicative,id-less,point in time,2021,Q49628,1,2021 Indicative point in time 2021,2021 Indicative_id-less,2021_Q49628
+2021 Indicative Year,id-less,followed by,2022,Q49625,1,2021 Indicative Year followed by 2022,2021 Indicative Year_id-less,2022_Q49625
+2021 Indicative Year,id-less,follows,2020 Indicative Year,id-less,1,2021 Indicative Year follows 2020 Indicative Year,2021 Indicative Year_id-less,2020 Indicative Year_id-less
+2022,Q49625,follows,2021 Indicative Year,id-less,1,2022 follows 2021 Indicative Year,2022_Q49625,2021 Indicative Year_id-less
+2057,Q49932,follows,2018,Q25291,1,2057 follows 2018,2057_Q49932,2018_Q25291
+3,Q201,instance of,Goals,Q4503831,1,3 instance of Goals,3_Q201,Goals_Q4503831
+30-year Infrastructure Plan,id-less,country,New Zealand,Q664,1,30-year Infrastructure Plan country New Zealand,30-year Infrastructure Plan_id-less,New Zealand_Q664
+39 - 50 - 50 - - 50,id-less,number of participants,50,Q712519,1,39 - 50 - 50 - - 50 number of participants 50,39 - 50 - 50 - - 50_id-less,50_Q712519
+"4,198,490",id-less,part of,"5,282,294",id-less,1,"4,198,490 part of 5,282,294","4,198,490_id-less","5,282,294_id-less"
+50 MDAs,id-less,subclass of,MMDAs,id-less,1,50 MDAs subclass of MMDAs,50 MDAs_id-less,MMDAs_id-less
+40,Q42317,followed by,50,Q712519,1,40 followed by 50,40_Q42317,50_Q712519
+40 years,Q12299943,number of episodes,40,Q42317,1,40 years number of episodes 40,40 years_Q12299943,40_Q42317
+45,Q6128115,point in time,50,Q712519,1,45 point in time 50,45_Q6128115,50_Q712519
+48 hours after receiving access to payment system,id-less,part of,payment system,Q986008,1,48 hours after receiving access to payment system part of payment system,48 hours after receiving access to payment system_id-less,payment system_Q986008
+5,Q203,has part,MDAs,Q6878879,1,5 has part MDAs,5_Q203,MDAs_Q6878879
+5,Q203,instance of,Goals,Q4503831,1,5 instance of Goals,5_Q203,Goals_Q4503831
+5,Q203,part of,Green Economy,Q598188,1,5 part of Green Economy,5_Q203,Green Economy_Q598188
+"5,282,294",id-less,has part,"4,198,490",id-less,1,"5,282,294 has part 4,198,490","5,282,294_id-less","4,198,490_id-less"
+"5,282,294",id-less,number of episodes,5,Q203,1,"5,282,294 number of episodes 5","5,282,294_id-less",5_Q203
+50 50 75 36,id-less,said to be the same as,20 50,Q50462502,1,50 50 75 36 said to be the same as 20 50,50 50 75 36_id-less,20 50_Q50462502
+GOAL ONE,id-less,instance of,GOAL,Q4503831,1,GOAL ONE instance of GOAL,GOAL ONE_id-less,GOAL_Q4503831
+GPRS I,id-less,followed by,GSGDA II,id-less,1,GPRS I followed by GSGDA II,GPRS I_id-less,GSGDA II_id-less
+GSGDA II,id-less,follows,GPRS I,id-less,1,GSGDA II follows GPRS I,GSGDA II_id-less,GPRS I_id-less
+National Vision 2030,id-less,country,Algeria,Q262,1,National Vision 2030 country Algeria,National Vision 2030_id-less,Algeria_Q262
+NATIONAL DEVELOPMENT POLICY,Q4259697,has part,MONITORING,Q2143522,1,NATIONAL DEVELOPMENT POLICY has part MONITORING,NATIONAL DEVELOPMENT POLICY_Q4259697,MONITORING_Q2143522
+NATIONAL DEVELOPMENT POLICY,Q4259697,has part,PLANNING,Q309100,1,NATIONAL DEVELOPMENT POLICY has part PLANNING,NATIONAL DEVELOPMENT POLICY_Q4259697,PLANNING_Q309100
+NDPC,Q6953302,office held by head of the organization,Commissioners,Q88554257,1,NDPC office held by head of the organization Commissioners,NDPC_Q6953302,Commissioners_Q88554257
+Nana Addo Dankwa Akufo-Addo,Q718601,position held,His Excellency,Q1067610,1,Nana Addo Dankwa Akufo-Addo position held His Excellency,Nana Addo Dankwa Akufo-Addo_Q718601,His Excellency_Q1067610
+National,Q53247,field of work,Policy,Q1156854,1,National field of work Policy,National_Q53247,Policy_Q1156854
+National APR,id-less,instance of,APR,Q118,1,National APR instance of APR,National APR_id-less,APR_Q118
+National Annual Progress Report,id-less,instance of,Progress Report,Q18170293,1,National Annual Progress Report instance of Progress Report,National Annual Progress Report_id-less,Progress Report_Q18170293
+National Development,Q107018047,facet of,Disability,Q12131,1,National Development facet of Disability,National Development_Q107018047,Disability_Q12131
+"National Development Plan, 2030",id-less,country,South Africa,Q258,1,"National Development Plan, 2030 country South Africa","National Development Plan, 2030_id-less",South Africa_Q258
+National Development Planning Commission,Q104880767,inception,039,Q111859446,1,National Development Planning Commission inception 039,National Development Planning Commission_Q104880767,039_Q111859446
+National Development Planning Commission,Q104880767,instance of,Planning Commission,Q2641081,1,National Development Planning Commission instance of Planning Commission,National Development Planning Commission_Q104880767,Planning Commission_Q2641081
+National Development Planning Commission,Q104880767,number of participants,"7,312,555",id-less,1,"National Development Planning Commission number of participants 7,312,555",National Development Planning Commission_Q104880767,"7,312,555_id-less"
+National Development Planning System,id-less,has part,"National Development Policy, Planning, Monitoring and Evaluation",id-less,1,"National Development Planning System has part National Development Policy, Planning, Monitoring and Evaluation",National Development Planning System_id-less,"National Development Policy, Planning, Monitoring and Evaluation_id-less"
+National Development Policy Framework,id-less,point in time,2018,Q25291,1,National Development Policy Framework point in time 2018,National Development Policy Framework_id-less,2018_Q25291
+"National Development Policy, Planning, Monitoring and Evaluation",id-less,part of,National Development Planning System,id-less,1,"National Development Policy, Planning, Monitoring and Evaluation part of National Development Planning System","National Development Policy, Planning, Monitoring and Evaluation_id-less",National Development Planning System_id-less
+National Income,Q1057397,part of,Growth in National Income,id-less,1,National Income part of Growth in National Income,National Income_Q1057397,Growth in National Income_id-less
+National Medium-Term,id-less,said to be the same as,Medium-Term,Q22294920,1,National Medium-Term said to be the same as Medium-Term,National Medium-Term_id-less,Medium-Term_Q22294920
+National Medium-Term Plan,id-less,has part,2018-2021 National Medium-Term Plan,id-less,1,National Medium-Term Plan has part 2018-2021 National Medium-Term Plan,National Medium-Term Plan_id-less,2018-2021 National Medium-Term Plan_id-less
+National Plan Preparation,id-less,point in time,03902002,id-less,1,National Plan Preparation point in time 03902002,National Plan Preparation_id-less,03902002_id-less
+National Policy Formulation,id-less,has part,"1,522,2611,522,2611,522,2611,522,261",id-less,1,"National Policy Formulation has part 1,522,2611,522,2611,522,2611,522,261",National Policy Formulation_id-less,"1,522,2611,522,2611,522,2611,522,261_id-less"
+"National Policy Formulation 1,522,261",id-less,has part,"1,522,261",id-less,1,"National Policy Formulation 1,522,261 has part 1,522,261","National Policy Formulation 1,522,261_id-less","1,522,261_id-less"
+National Report on the Five-Year Review of the Implementation of the Addis Ababa Declaration on Population,id-less,country,Ghana,Q117,1,National Report on the Five-Year Review of the Implementation of the Addis Ababa Declaration on Population country Ghana,National Report on the Five-Year Review of the Implementation of the Addis Ababa Declaration on Population_id-less,Ghana_Q117
+National Spatial,Q11420660,part of,Long -term National Development Plan,id-less,1,National Spatial part of Long -term National Development Plan,National Spatial_Q11420660,Long -term National Development Plan_id-less
+NATIONAL DEVELOPMENT PLANNING,Q104880767,instance of,PLANNING,Q309100,1,NATIONAL DEVELOPMENT PLANNING instance of PLANNING,NATIONAL DEVELOPMENT PLANNING_Q104880767,PLANNING_Q309100
+Monthly Monthly Monthly,id-less,has part,Application for administrative funds,id-less,1,Monthly Monthly Monthly has part Application for administrative funds,Monthly Monthly Monthly_id-less,Application for administrative funds_id-less
+Mohammed Adjei Sowah,Q35121341,located in the administrative territorial entity,Accra Metropolitan,Q284556,1,Mohammed Adjei Sowah located in the administrative territorial entity Accra Metropolitan,Mohammed Adjei Sowah_Q35121341,Accra Metropolitan_Q284556
+Middle of the month,id-less,part of,payment system,Q986008,1,Middle of the month part of payment system,Middle of the month_id-less,payment system_Q986008
+MONITORING,Q2143522,part of,NATIONAL DEVELOPMENT POLICY,Q4259697,1,MONITORING part of NATIONAL DEVELOPMENT POLICY,MONITORING_Q2143522,NATIONAL DEVELOPMENT POLICY_Q4259697
+MONITORING,Q2143522,part of,PLANNING,Q309100,1,MONITORING part of PLANNING,MONITORING_Q2143522,PLANNING_Q309100
+Macro,Q629579,subclass of,Modelling,Q1116876,1,Macro subclass of Modelling,Macro_Q629579,Modelling_Q1116876
+Main Outputs,id-less,has part,Outputs,Q54919667,1,Main Outputs has part Outputs,Main Outputs_id-less,Outputs_Q54919667
+Main Outputs Output Indicator Past Years Projections,id-less,instance of,Output Indicator,id-less,1,Main Outputs Output Indicator Past Years Projections instance of Output Indicator,Main Outputs Output Indicator Past Years Projections_id-less,Output Indicator_id-less
+Mainstreaming Development Communication,id-less,subclass of,Communication,Q11024,1,Mainstreaming Development Communication subclass of Communication,Mainstreaming Development Communication_id-less,Communication_Q11024
+Maintenance framework,id-less,subclass of,infrastructure planning and delivery,id-less,1,Maintenance framework subclass of infrastructure planning and delivery,Maintenance framework_id-less,infrastructure planning and delivery_id-less
+Managing Public Expectations in the Age of Petroleum,id-less,main subject,Petroleum,Q22656,1,Managing Public Expectations in the Age of Petroleum main subject Petroleum,Managing Public Expectations in the Age of Petroleum_id-less,Petroleum_Q22656
+Medium Term National Development Policy Framework,id-less,instance of,results framework,id-less,1,Medium Term National Development Policy Framework instance of results framework,Medium Term National Development Policy Framework_id-less,results framework_id-less
+Medium-Term,Q22294920,said to be the same as,National Medium-Term,id-less,1,Medium-Term said to be the same as National Medium-Term,Medium-Term_Q22294920,National Medium-Term_id-less
+Migration,Q177626,studied by,migration issues,Q77141777,1,Migration studied by migration issues,Migration_Q177626,migration issues_Q77141777
+Modelling the Ghanaian Economy for Effective Decision Making,id-less,country,Ghana,Q117,1,Modelling the Ghanaian Economy for Effective Decision Making country Ghana,Modelling the Ghanaian Economy for Effective Decision Making_id-less,Ghana_Q117
+Migration,Q177626,studies,migration data,Q77088744,1,Migration studies migration data,Migration_Q177626,migration data_Q77088744
+Migration and Development,Q27725733,subclass of,Development,Q1074523,1,Migration and Development subclass of Development,Migration and Development_Q27725733,Development_Q1074523
+Millennium Development Goals,Q81737,country,Ghana,Q117,1,Millennium Development Goals country Ghana,Millennium Development Goals_Q81737,Ghana_Q117
+Minerals Exploitation,id-less,subclass of,Exploitation,Q600571,1,Minerals Exploitation subclass of Exploitation,Minerals Exploitation_id-less,Exploitation_Q600571
+Ministerial Realignment and Restructuring,id-less,has part,Restructuring,Q1376796,1,Ministerial Realignment and Restructuring has part Restructuring,Ministerial Realignment and Restructuring_id-less,Restructuring_Q1376796
+Ministry of Finance,Q4294782,country,Ghana,Q117,1,Ministry of Finance country Ghana,Ministry of Finance_Q4294782,Ghana_Q117
+Ministry of Finance,Q4294782,instance of,ministry,Q192350,1,Ministry of Finance instance of ministry,Ministry of Finance_Q4294782,ministry_Q192350
+Ministry of Finance,Q4294782,instance of,sound environment,Q44328588,1,Ministry of Finance instance of sound environment,Ministry of Finance_Q4294782,sound environment_Q44328588
+Ministry of Finance,Q4294782,located in the administrative territorial entity,Accra,Q3761,1,Ministry of Finance located in the administrative territorial entity Accra,Ministry of Finance_Q4294782,Accra_Q3761
+Mob Rule,Q191031,followed by,Instant Justice,Q1961848,1,Mob Rule followed by Instant Justice,Mob Rule_Q191031,Instant Justice_Q1961848
+National Values Policy,id-less,instance of,Values Policy,id-less,1,National Values Policy instance of Values Policy,National Values Policy_id-less,Values Policy_id-less
+Natural Environment Management,id-less,subclass of,Management,Q2920921,1,Natural Environment Management subclass of Management,Natural Environment Management_id-less,Management_Q2920921
+MMDAs,id-less,different from,MDAs,Q6878879,1,MMDAs different from MDAs,MMDAs_id-less,MDAs_Q6878879
+New Approaches to Managing Development,id-less,subclass of,Managing Development,Q38849633,1,New Approaches to Managing Development subclass of Managing Development,New Approaches to Managing Development_id-less,Managing Development_Q38849633
+Parliament,Q11010,has part,Government,Q7188,1,Parliament has part Government,Parliament_Q11010,Government_Q7188
+Participation and Representation of Other Marginalised Groups,id-less,has part,Representation of Other Marginalised Groups,id-less,1,Participation and Representation of Other Marginalised Groups has part Representation of Other Marginalised Groups,Participation and Representation of Other Marginalised Groups_id-less,Representation of Other Marginalised Groups_id-less
+Participation of Women and Other Disadvantaged Groups in Governance,id-less,facet of,Governance,Q1553864,1,Participation of Women and Other Disadvantaged Groups in Governance facet of Governance,Participation of Women and Other Disadvantaged Groups in Governance_id-less,Governance_Q1553864
+Petroleum Revenue,Q100162501,instance of,annual spending,Q93090080,1,Petroleum Revenue instance of annual spending,Petroleum Revenue_Q100162501,annual spending_Q93090080
+Petroleum Revenue Management Act,id-less,point in time,2011,Q1994,1,Petroleum Revenue Management Act point in time 2011,Petroleum Revenue Management Act_id-less,2011_Q1994
+Plan,Q4006,has part,Five Strategic Goals of the Plan,id-less,1,Plan has part Five Strategic Goals of the Plan,Plan_Q4006,Five Strategic Goals of the Plan_id-less
+Plan,Q4006,has part,commitment,Q2648051,1,Plan has part commitment,Plan_Q4006,commitment_Q2648051
+Plan,Q4006,has part,vigour,Q50384179,1,Plan has part vigour,Plan_Q4006,vigour_Q50384179
+Policy Briefs,Q73271947,main subject,Policy Brief,Q96734731,1,Policy Briefs main subject Policy Brief,Policy Briefs_Q73271947,Policy Brief_Q96734731
+Policy Framework,Q107437541,instance of,Results framework,id-less,1,Policy Framework instance of Results framework,Policy Framework_Q107437541,Results framework_id-less
+Policy and Legislative Almanac,id-less,instance of,Application,Q166142,1,Policy and Legislative Almanac instance of Application,Policy and Legislative Almanac_id-less,Application_Q166142
+Political Decentralisation,id-less,point in time,1,Q199,1,Political Decentralisation point in time 1,Political Decentralisation_id-less,1_Q199
+Political and Civil Violence,id-less,subclass of,Civil Violence,Q44191400,1,Political and Civil Violence subclass of Civil Violence,Political and Civil Violence_id-less,Civil Violence_Q44191400
+Population,Q33829,has effect,Development,Q1074523,1,Population has effect Development,Population_Q33829,Development_Q1074523
+Poverty,Q10294,has effect,Inequality,Q28113351,1,Poverty has effect Inequality,Poverty_Q10294,Inequality_Q28113351
+Pre-Gold Coast Societies,id-less,instance of,Societies,Q8425,1,Pre-Gold Coast Societies instance of Societies,Pre-Gold Coast Societies_id-less,Societies_Q8425
+Prelude to Independence,id-less,main subject,Independence,Q24603,1,Prelude to Independence main subject Independence,Prelude to Independence_id-less,Independence_Q24603
+Preparation of Policy and Legislative Almanac,id-less,instance of,Almanac,Q171341,1,Preparation of Policy and Legislative Almanac instance of Almanac,Preparation of Policy and Legislative Almanac_id-less,Almanac_Q171341
+President,Q30461,appointed by,Parliament,Q11010,1,President appointed by Parliament,President_Q30461,Parliament_Q11010
+President,Q30461,country,Republic of Ghana,Q117,1,President country Republic of Ghana,President_Q30461,Republic of Ghana_Q117
+Prisons Service,id-less,country,Ghana,Q117,1,Prisons Service country Ghana,Prisons Service_id-less,Ghana_Q117
+Private Sector,Q591763,has part,Ghanaian businesses,id-less,1,Private Sector has part Ghanaian businesses,Private Sector_Q591763,Ghanaian businesses_id-less
+Procurement Value Chain Analysis,id-less,facet of,procurement,Q829492,1,Procurement Value Chain Analysis facet of procurement,Procurement Value Chain Analysis_id-less,procurement_Q829492
+Parliament,Q11010,has part,Cabinet,Q640506,1,Parliament has part Cabinet,Parliament_Q11010,Cabinet_Q640506
+Parliament,Q11010,country,Ghana,Q117,1,Parliament country Ghana,Parliament_Q11010,Ghana_Q117
+PWDs,id-less,subclass of,Accessible to all,id-less,1,PWDs subclass of Accessible to all,PWDs_id-less,Accessible to all_id-less
+Objective,Q4503831,part of,Budget Programme,id-less,1,Objective part of Budget Programme,Objective_Q4503831,Budget Programme_id-less
+No Projects,id-less,subclass of,Policy Guidelines,Q106988120,1,No Projects subclass of Policy Guidelines,No Projects_id-less,Policy Guidelines_Q106988120
+Norwegian Economy,id-less,country,Norway,Q20,1,Norwegian Economy country Norway,Norwegian Economy_id-less,Norway_Q20
+Nothing is cast in stone,Q77732592,said to be the same as,cast in stone,Q962617,1,Nothing is cast in stone said to be the same as cast in stone,Nothing is cast in stone_Q77732592,cast in stone_Q962617
+Number of,Q4319,part of,Coordinated,Q1536,1,Number of part of Coordinated,Number of_Q4319,Coordinated_Q1536
+Number of,Q4319,part of,Development Number,id-less,1,Number of part of Development Number,Number of_Q4319,Development Number_id-less
+Number of,Q4319,part of,Dividend,Q181201,1,Number of part of Dividend,Number of_Q4319,Dividend_Q181201
+Number of meetings convened,id-less,facet of,Policies,Q47011897,1,Number of meetings convened facet of Policies,Number of meetings convened_id-less,Policies_Q47011897
+Nutrition,Q2138622,part of,coordination meetings,Q51816823,1,Nutrition part of coordination meetings,Nutrition_Q2138622,coordination meetings_Q51816823
+ONOMY,Q104353910,country,EC,Q736,1,ONOMY country EC,ONOMY_Q104353910,EC_Q736
+OPPORTUNITIES AND CHALLENGES OF PLAN,id-less,has part,CHALLENGES OF PLAN,id-less,1,OPPORTUNITIES AND CHALLENGES OF PLAN has part CHALLENGES OF PLAN,OPPORTUNITIES AND CHALLENGES OF PLAN_id-less,CHALLENGES OF PLAN_id-less
+Opportunities and threats of globalisation,id-less,main subject,global imperative,Q49520145,1,Opportunities and threats of globalisation main subject global imperative,Opportunities and threats of globalisation_id-less,global imperative_Q49520145
+PROGRAMME,Q170584,part of,BUDGET,Q41263,1,PROGRAMME part of BUDGET,PROGRAMME_Q170584,BUDGET_Q41263
+Output Indicator,id-less,has part,Main Outputs,id-less,1,Output Indicator has part Main Outputs,Output Indicator_id-less,Main Outputs_id-less
+0390101,id-less,population,"7,312,555",id-less,1,"0390101 population 7,312,555",0390101_id-less,"7,312,555_id-less"
+PLANNING,Q309100,has part,EVALUATION,Q1379672,1,PLANNING has part EVALUATION,PLANNING_Q309100,EVALUATION_Q1379672
+PLANNING,Q309100,has part,MONITORING,Q2143522,1,PLANNING has part MONITORING,PLANNING_Q309100,MONITORING_Q2143522
+PLANNING,Q309100,part of,NATIONAL DEVELOPMENT POLICY,Q4259697,1,PLANNING part of NATIONAL DEVELOPMENT POLICY,PLANNING_Q309100,NATIONAL DEVELOPMENT POLICY_Q4259697
+POLICY OBJECTIVES,id-less,facet of,POLICY,Q1156854,1,POLICY OBJECTIVES facet of POLICY,POLICY OBJECTIVES_id-less,POLICY_Q1156854
+POLICY OBJECTIVES,id-less,point in time,1,Q199,1,POLICY OBJECTIVES point in time 1,POLICY OBJECTIVES_id-less,1_Q199
+PREFACE,Q670787,part of,PREFACE AND ACKNOWLEDGEMENTS,Q108256619,1,PREFACE part of PREFACE AND ACKNOWLEDGEMENTS,PREFACE_Q670787,PREFACE AND ACKNOWLEDGEMENTS_Q108256619
+PREFACE AND ACKNOWLEDGEMENTS,Q108256619,has part,ACKNOWLEDGEMENT,Q847337,1,PREFACE AND ACKNOWLEDGEMENTS has part ACKNOWLEDGEMENT,PREFACE AND ACKNOWLEDGEMENTS_Q108256619,ACKNOWLEDGEMENT_Q847337
+PREFACE AND ACKNOWLEDGEMENTS,Q108256619,has part,PREFACE,Q670787,1,PREFACE AND ACKNOWLEDGEMENTS has part PREFACE,PREFACE AND ACKNOWLEDGEMENTS_Q108256619,PREFACE_Q670787
+MONITORING,Q2143522,part of,EVALUATION,Q1379672,1,MONITORING part of EVALUATION,MONITORING_Q2143522,EVALUATION_Q1379672
+MMDA APRs,id-less,instance of,APRs,Q787194,1,MMDA APRs instance of APRs,MMDA APRs_id-less,APRs_Q787194
+GSGDA II,id-less,has part,Commission,Q55657615,1,GSGDA II has part Commission,GSGDA II_id-less,Commission_Q55657615
+ICT,Q5268834,subclass of,M&E,Q11573,1,ICT subclass of M&E,ICT_Q5268834,M&E_Q11573
+Goal 5,Q53581210,country,Ghana,Q117,1,Goal 5 country Ghana,Goal 5_Q53581210,Ghana_Q117
+Goal of the Plan,id-less,main subject,Transformation,Q461499,1,Goal of the Plan main subject Transformation,Goal of the Plan_id-less,Transformation_Q461499
+Good Society,Q105350342,has part,law and order,Q321423,1,Good Society has part law and order,Good Society_Q105350342,law and order_Q321423
+Governance under Colonialism,id-less,facet of,Colonialism,Q7167,1,Governance under Colonialism facet of Colonialism,Governance under Colonialism_id-less,Colonialism_Q7167
+Governing Board,Q96597574,has part,Director-General,Q1501800,1,Governing Board has part Director-General,Governing Board_Q96597574,Director-General_Q1501800
+Government,Q7188,instance of,international development agencies,id-less,1,Government instance of international development agencies,Government_Q7188,international development agencies_id-less
+Government,Q7188,part of,Parliament,Q11010,1,Government part of Parliament,Government_Q7188,Parliament_Q11010
+Government Machinery,id-less,product or material produced,Machinery,Q1882685,1,Government Machinery product or material produced Machinery,Government Machinery_id-less,Machinery_Q1882685
+Government of Ghana,Q16733607,subsidiary,DPs,Q1061846,1,Government of Ghana subsidiary DPs,Government of Ghana_Q16733607,DPs_Q1061846
+Green Economy,Q598188,has part,5,Q203,1,Green Economy has part 5,Green Economy_Q598188,5_Q203
+Green Economy,Q598188,has part,MDAs,Q6878879,1,Green Economy has part MDAs,Green Economy_Q598188,MDAs_Q6878879
+Growth Area,Q40763478,has part,long term,Q247145,1,Growth Area has part long term,Growth Area_Q40763478,long term_Q247145
+Growth Area,Q40763478,has part,medium,Q2249676,1,Growth Area has part medium,Growth Area_Q40763478,medium_Q2249676
+Growth Area,Q40763478,has part,medium term,Q22294920,1,Growth Area has part medium term,Growth Area_Q40763478,medium term_Q22294920
+Growth Area,Q40763478,has part,short,Q24862,1,Growth Area has part short,Growth Area_Q40763478,short_Q24862
+Growth in National Income,id-less,has part,National Income,Q1057397,1,Growth in National Income has part National Income,Growth in National Income_id-less,National Income_Q1057397
+Guidelines,Q1630279,instance of,Percentage,Q114550356,1,Guidelines instance of Percentage,Guidelines_Q1630279,Percentage_Q114550356
+Guidelines,Q1630279,subclass of,draft document,Q560361,1,Guidelines subclass of draft document,Guidelines_Q1630279,draft document_Q560361
+HEALTHY,Q24238419,part of,SOCIETY,Q8425,1,HEALTHY part of SOCIETY,HEALTHY_Q24238419,SOCIETY_Q8425
+HIPC,Q1433120,instance of,Indebted Poor Countr,id-less,1,HIPC instance of Indebted Poor Countr,HIPC_Q1433120,Indebted Poor Countr_id-less
+Harnessing the Demographic Dividend,id-less,main subject,Demographic Dividend,Q3634022,1,Harnessing the Demographic Dividend main subject Demographic Dividend,Harnessing the Demographic Dividend_id-less,Demographic Dividend_Q3634022
+Health and Health Services,Q70893307,facet of,Health,Q12147,1,Health and Health Services facet of Health,Health and Health Services_Q70893307,Health_Q12147
+Housing Development,Q5916199,subclass of,Development,Q1074523,1,Housing Development subclass of Development,Housing Development_Q5916199,Development_Q1074523
+Goal 4,Q53581209,has part,efficient,Q1034411,1,Goal 4 has part efficient,Goal 4_Q53581209,efficient_Q1034411
+Goal 4,Q53581209,has part,effective,Q5347238,1,Goal 4 has part effective,Goal 4_Q53581209,effective_Q5347238
+Goal 4,Q53581209,has part,dynamic,Q1268978,1,Goal 4 has part dynamic,Goal 4_Q53581209,dynamic_Q1268978
+Ghana Infrastructure Database,id-less,field of work,public awareness,Q99748589,1,Ghana Infrastructure Database field of work public awareness,Ghana Infrastructure Database_id-less,public awareness_Q99748589
+GSS,Q14881255,number of participants,70,Q712514,1,GSS number of participants 70,GSS_Q14881255,70_Q712514
+Gender Equa lity and Women’s Issues,id-less,facet of,Women’s Issues,Q98158143,1,Gender Equa lity and Women’s Issues facet of Women’s Issues,Gender Equa lity and Women’s Issues_id-less,Women’s Issues_Q98158143
+Ghana,Q117,contains administrative territorial entity,Lagos Mega -Region,id-less,1,Ghana contains administrative territorial entity Lagos Mega -Region,Ghana_Q117,Lagos Mega -Region_id-less
+Ghana,Q117,continent,World,Q2,1,Ghana continent World,Ghana_Q117,World_Q2
+Ghana,Q117,ethnic group,Ghanaians,Q15307583,1,Ghana ethnic group Ghanaians,Ghana_Q117,Ghanaians_Q15307583
+Ghana,Q117,legislative body,Parliament,Q11010,1,Ghana legislative body Parliament,Ghana_Q117,Parliament_Q11010
+Ghana,Q117,member of,African Union,Q7159,1,Ghana member of African Union,Ghana_Q117,African Union_Q7159
+Ghana,Q117,member of,United Nations,Q1065,1,Ghana member of United Nations,Ghana_Q117,United Nations_Q1065
+Ghana,Q117,population,100,Q37413,1,Ghana population 100,Ghana_Q117,100_Q37413
+Ghana,Q117,product or material produced,electricity,Q12725,1,Ghana product or material produced electricity,Ghana_Q117,electricity_Q12725
+Ghana Infrastructure Plan,id-less,country,Ghana,Q117,1,Ghana Infrastructure Plan country Ghana,Ghana Infrastructure Plan_id-less,Ghana_Q117
+GoG,Q1486288,subsidiary,DPs,Q1061846,1,GoG subsidiary DPs,GoG_Q1486288,DPs_Q1061846
+Ghana Infrastructure Plan,id-less,instance of,GIP,Q41429,1,Ghana Infrastructure Plan instance of GIP,Ghana Infrastructure Plan_id-less,GIP_Q41429
+Ghana Macro-Economic Model,id-less,instance of,Macro-Economic Model,id-less,1,Ghana Macro-Economic Model instance of Macro-Economic Model,Ghana Macro-Economic Model_id-less,Macro-Economic Model_id-less
+Ghana Police Service,Q5555387,country,Ghana,Q117,1,Ghana Police Service country Ghana,Ghana Police Service_Q5555387,Ghana_Q117
+Ghana Poverty Reduction Strategy,id-less,inception,2001,Q1988,1,Ghana Poverty Reduction Strategy inception 2001,Ghana Poverty Reduction Strategy_id-less,2001_Q1988
+Ghana Shared Growth,id-less,country,Ghana,Q117,1,Ghana Shared Growth country Ghana,Ghana Shared Growth_id-less,Ghana_Q117
+Ghana Shared Growth and Development Agenda II,id-less,point in time,2014,Q1999,1,Ghana Shared Growth and Development Agenda II point in time 2014,Ghana Shared Growth and Development Agenda II_id-less,2014_Q1999
+Ghana in 2057,id-less,point in time,2057,Q49932,1,Ghana in 2057 point in time 2057,Ghana in 2057_id-less,2057_Q49932
+Ghana macroeconomic model,id-less,author,UNECA,Q1144508,1,Ghana macroeconomic model author UNECA,Ghana macroeconomic model_id-less,UNECA_Q1144508
+Ghana: Vision,id-less,country,Ghana,Q117,1,Ghana: Vision country Ghana,Ghana: Vision_id-less,Ghana_Q117
+Ghanaian businesses,id-less,part of,Private Sector,Q591763,1,Ghanaian businesses part of Private Sector,Ghanaian businesses_id-less,Private Sector_Q591763
+Human Settlements,Q486972,studied by,Spatial Planning,Q149013,1,Human Settlements studied by Spatial Planning,Human Settlements_Q486972,Spatial Planning_Q149013
+ICT Infrastructure,Q1817119,subclass of,Infrastructure,Q121359,1,ICT Infrastructure subclass of Infrastructure,ICT Infrastructure_Q1817119,Infrastructure_Q121359
+MEDIUM-TERM,Q22294920,subclass of,EXPENDITURE TRENDS,Q90423107,1,MEDIUM-TERM subclass of EXPENDITURE TRENDS,MEDIUM-TERM_Q22294920,EXPENDITURE TRENDS_Q90423107
+Illustrated,Q48498,place of publication,London,Q84,1,Illustrated place of publication London,Illustrated_Q48498,London_Q84
+Job Creation,Q56324059,has effect,Economic Growth,Q189833,1,Job Creation has effect Economic Growth,Job Creation_Q56324059,Economic Growth_Q189833
+KEY ACHIEVEMENTS,Q37983985,has part,ACHIEVEMENTS,Q2988681,1,KEY ACHIEVEMENTS has part ACHIEVEMENTS,KEY ACHIEVEMENTS_Q37983985,ACHIEVEMENTS_Q2988681
+KEY ACHIEVEMENTS,Q37983985,part of,ACHIEVEMENTS,Q2988681,1,KEY ACHIEVEMENTS part of ACHIEVEMENTS,KEY ACHIEVEMENTS_Q37983985,ACHIEVEMENTS_Q2988681
+KEY ELEMENTS OF THE LONG -TERM PLAN,id-less,part of,LONG -TERM PLAN,id-less,1,KEY ELEMENTS OF THE LONG -TERM PLAN part of LONG -TERM PLAN,KEY ELEMENTS OF THE LONG -TERM PLAN_id-less,LONG -TERM PLAN_id-less
+Key Preconditions for infrastructure development,id-less,facet of,infrastructure development,Q28225444,1,Key Preconditions for infrastructure development facet of infrastructure development,Key Preconditions for infrastructure development_id-less,infrastructure development_Q28225444
+Lagos Mega -Region,id-less,country,Ghana,Q117,1,Lagos Mega -Region country Ghana,Lagos Mega -Region_id-less,Ghana_Q117
+Land,Q11081619,subclass of,Violence,Q124490,1,Land subclass of Violence,Land_Q11081619,Violence_Q124490
+Land reform,Q208128,subclass of,reforms,Q900406,1,Land reform subclass of reforms,Land reform_Q208128,reforms_Q900406
+Launch and Dissemination meetings,id-less,facet of,National Launch and Dissemination meetings,id-less,1,Launch and Dissemination meetings facet of National Launch and Dissemination meetings,Launch and Dissemination meetings_id-less,National Launch and Dissemination meetings_id-less
+Local Economies as the Foundation of the National Economy,id-less,facet of,Foundation of the National Economy,id-less,1,Local Economies as the Foundation of the National Economy facet of Foundation of the National Economy,Local Economies as the Foundation of the National Economy_id-less,Foundation of the National Economy_id-less
+Local governance reforms,id-less,subclass of,reforms,Q900406,1,Local governance reforms subclass of reforms,Local governance reforms_id-less,reforms_Q900406
+Long -range Economic Plan,id-less,country,Japan,Q17,1,Long -range Economic Plan country Japan,Long -range Economic Plan_id-less,Japan_Q17
+Long -term National Development Plan,id-less,has part,National Spatial,Q11420660,1,Long -term National Development Plan has part National Spatial,Long -term National Development Plan_id-less,National Spatial_Q11420660
+Long -term National Development Plan of Ghana,id-less,country,Ghana,Q117,1,Long -term National Development Plan of Ghana country Ghana,Long -term National Development Plan of Ghana_id-less,Ghana_Q117
+Looking to 2060,id-less,publisher,Organisation for Economic Cooperation and Development,Q41550,1,Looking to 2060 publisher Organisation for Economic Cooperation and Development,Looking to 2060_id-less,Organisation for Economic Cooperation and Development_Q41550
+MCE,Q24782546,office held by head of the organization,Chief Executive,Q484876,1,MCE office held by head of the organization Chief Executive,MCE_Q24782546,Chief Executive_Q484876
+MDA,Q217,subclass of,APRs,Q787194,1,MDA subclass of APRs,MDA_Q217,APRs_Q787194
+MDAs,Q6878879,different from,MMDAs,id-less,1,MDAs different from MMDAs,MDAs_Q6878879,MMDAs_id-less
+MDAs,Q6878879,has part,5,Q203,1,MDAs has part 5,MDAs_Q6878879,5_Q203
+MDAs,Q6878879,has parts of the class,MMDAs,id-less,1,MDAs has parts of the class MMDAs,MDAs_Q6878879,MMDAs_id-less
+MDAs,Q6878879,part of,5,Q203,1,MDAs part of 5,MDAs_Q6878879,5_Q203
+MDAs,Q6878879,part of,Green Economy,Q598188,1,MDAs part of Green Economy,MDAs_Q6878879,Green Economy_Q598188
+MDAs,Q6878879,part of,MMDAs,id-less,1,MDAs part of MMDAs,MDAs_Q6878879,MMDAs_id-less
+JICA,Q107232504,field of work,nutrition,Q2138622,1,JICA field of work nutrition,JICA_Q107232504,nutrition_Q2138622
+Isn’t 40 Years Too Long?,id-less,number of episodes,40,Q42317,1,Isn’t 40 Years Too Long? number of episodes 40,Isn’t 40 Years Too Long?_id-less,40_Q42317
+Irrigation Infrastructure,id-less,facet of,Irrigation,Q11453,1,Irrigation Infrastructure facet of Irrigation,Irrigation Infrastructure_id-less,Irrigation_Q11453
+Infrastructure Delivery,id-less,facet of,infrastructure,Q121359,1,Infrastructure Delivery facet of infrastructure,Infrastructure Delivery_id-less,infrastructure_Q121359
+Implementation Committee Coordination and Technical Committees,id-less,part of,Inter ministerial committee on SDGs,id-less,1,Implementation Committee Coordination and Technical Committees part of Inter ministerial committee on SDGs,Implementation Committee Coordination and Technical Committees_id-less,Inter ministerial committee on SDGs_id-less
+Implementation of SDGs,id-less,facet of,SDGs,Q7649586,1,Implementation of SDGs facet of SDGs,Implementation of SDGs_id-less,SDGs_Q7649586
+Implementation of the Infrastructure Plan,id-less,part of,Infrastructure Plan,Q96709247,1,Implementation of the Infrastructure Plan part of Infrastructure Plan,Implementation of the Infrastructure Plan_id-less,Infrastructure Plan_Q96709247
+In popular usage,id-less,instance of,popular usage,id-less,1,In popular usage instance of popular usage,In popular usage_id-less,popular usage_id-less
+Indicative Strategies for Attaining Goal Five,id-less,main subject,Goal Five,id-less,1,Indicative Strategies for Attaining Goal Five main subject Goal Five,Indicative Strategies for Attaining Goal Five_id-less,Goal Five_id-less
+Indicative Year 2020,id-less,followed by,Indicative Year 2021,id-less,1,Indicative Year 2020 followed by Indicative Year 2021,Indicative Year 2020_id-less,Indicative Year 2021_id-less
+Indicative Year 2021,id-less,follows,Indicative Year 2020,id-less,1,Indicative Year 2021 follows Indicative Year 2020,Indicative Year 2021_id-less,Indicative Year 2020_id-less
+Indicator Description,id-less,part of,corresponding,Q2625729,1,Indicator Description part of corresponding,Indicator Description_id-less,corresponding_Q2625729
+Inequality,Q28113351,has cause,Poverty,Q10294,1,Inequality has cause Poverty,Inequality_Q28113351,Poverty_Q10294
+Infrastructure,Q121359,has part,Water and Water,Q96733187,1,Infrastructure has part Water and Water,Infrastructure_Q121359,Water and Water_Q96733187
+Infrastructure Development,Q28225444,subclass of,Human Resources,Q5467169,1,Infrastructure Development subclass of Human Resources,Infrastructure Development_Q28225444,Human Resources_Q5467169
+Investment,Q4290,part of,International Trade,Q178803,1,Investment part of International Trade,Investment_Q4290,International Trade_Q178803
+Infrastructure Plan,Q96709247,has part,skills development,Q7535242,1,Infrastructure Plan has part skills development,Infrastructure Plan_Q96709247,skills development_Q7535242
+Infrastructure Plan,Q96709247,has part,state support,Q113006031,1,Infrastructure Plan has part state support,Infrastructure Plan_Q96709247,state support_Q113006031
+Infrastructure for Human Settlements,id-less,facet of,Human Settlements,Q486972,1,Infrastructure for Human Settlements facet of Human Settlements,Infrastructure for Human Settlements_id-less,Human Settlements_Q486972
+Instability in Government Machinery,id-less,facet of,Government Machinery,id-less,1,Instability in Government Machinery facet of Government Machinery,Instability in Government Machinery_id-less,Government Machinery_id-less
+Instant Justice,Q1961848,follows,Mob Rule,Q191031,1,Instant Justice follows Mob Rule,Instant Justice_Q1961848,Mob Rule_Q191031
+Institutions and Regulatory Framework for Corporate Go vernance in Ghana,id-less,country,Ghana,Q117,1,Institutions and Regulatory Framework for Corporate Go vernance in Ghana country Ghana,Institutions and Regulatory Framework for Corporate Go vernance in Ghana_id-less,Ghana_Q117
+Inter ministerial committee on SDGs,id-less,has part,Implementation Committee Coordination and Technical Committees,id-less,1,Inter ministerial committee on SDGs has part Implementation Committee Coordination and Technical Committees,Inter ministerial committee on SDGs_id-less,Implementation Committee Coordination and Technical Committees_id-less
+Interlinkages between the Goals,id-less,facet of,Goals,Q4503831,1,Interlinkages between the Goals facet of Goals,Interlinkages between the Goals_id-less,Goals_Q4503831
+International Conference on Population and Development,Q576920,point in time,2018,Q25291,1,International Conference on Population and Development point in time 2018,International Conference on Population and Development_Q576920,2018_Q25291
+International Trade,Q178803,has part,Investment,Q4290,1,International Trade has part Investment,International Trade_Q178803,Investment_Q4290
+“vision”,Q35773162,said to be the same as,vision,Q162668,1,“vision” said to be the same as vision,“vision”_Q35773162,vision_Q162668

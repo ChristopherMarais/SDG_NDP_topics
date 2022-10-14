@@ -1,0 +1,1045 @@
+head_text,head_wiki_id,relation,tail_text,tail_wiki_id,count,ent_rel_pair,head_name,tail_name
+ANA VOLUNT,Q71271418,instance of,VOLUNT,Q1509,19,ANA VOLUNT instance of VOLUNT,ANA VOLUNT_Q71271418,VOLUNT_Q1509
+ARY,Q56426,instance of,NA,Q49,16,ARY instance of NA,ARY_Q56426,NA_Q49
+SUSTAINABLE DEVELOPMENT GOALS 2017,id-less,point in time,2017,Q25290,12,SUSTAINABLE DEVELOPMENT GOALS 2017 point in time 2017,SUSTAINABLE DEVELOPMENT GOALS 2017_id-less,2017_Q25290
+AINABLE DEVELOPMENT GOALS 2017,id-less,point in time,2017,Q25290,8,AINABLE DEVELOPMENT GOALS 2017 point in time 2017,AINABLE DEVELOPMENT GOALS 2017_id-less,2017_Q25290
+SDG,Q7649586,has part,SDGs,Q7649586,7,SDG has part SDGs,SDG_Q7649586,SDGs_Q7649586
+SDGs,Q7649586,part of,SDG,Q7649586,7,SDGs part of SDG,SDGs_Q7649586,SDG_Q7649586
+BOTSW ANA VOLUNT,id-less,instance of,VOLUNT,Q1509,6,BOTSW ANA VOLUNT instance of VOLUNT,BOTSW ANA VOLUNT_id-less,VOLUNT_Q1509
+4.2,Q217363,point in time,4,Q202,5,4.2 point in time 4,4.2_Q217363,4_Q202
+4.6,Q229873,point in time,4,Q202,5,4.6 point in time 4,4.6_Q229873,4_Q202
+,id-less,has part,ticipa,id-less,4, has part ticipa,_id-less,ticipa_id-less
+age,Q185836,different from,sex,Q10525,4,age different from sex,age_Q185836,sex_Q10525
+GOALS 2017,id-less,point in time,2017,Q25290,4,GOALS 2017 point in time 2017,GOALS 2017_id-less,2017_Q25290
+sex,Q10525,different from,age,Q185836,4,sex different from age,sex_Q10525,age_Q185836
+i,Q1103,has part,,id-less,4,i has part ,i_Q1103,_id-less
+De,Q183,has part,al,Q222,3,De has part al,De_Q183,al_Q222
+SDG 15,Q53581245,point in time,15,Q38701,3,SDG 15 point in time 15,SDG 15_Q53581245,15_Q38701
+L,Q11582,area,5,Q203,2,L area 5,L_Q11582,5_Q203
+edicines,id-less,has part,edicine,Q53792465,2,edicines has part edicine,edicines_id-less,edicine_Q53792465
+sions be,id-less,part of,sions,Q37462564,2,sions be part of sions,sions be_id-less,sions_Q37462564
+reproductive health,Q1981388,facet of,reproductive,Q11990,2,reproductive health facet of reproductive,reproductive health_Q1981388,reproductive_Q11990
+BMinin g diamonds,id-less,said to be the same as,enric hing the na tion,id-less,2,BMinin g diamonds said to be the same as enric hing the na tion,BMinin g diamonds_id-less,enric hing the na tion_id-less
+the E,Q1071477,said to be the same as,E,Q684,2,the E said to be the same as E,the E_Q1071477,E_Q684
+pmen,id-less,part of,men,Q8441,2,pmen part of men,pmen_id-less,men_Q8441
+4 C,Q388801,area,4,Q202,2,4 C area 4,4 C_Q388801,4_Q202
+Elim,Q79557,ranking,5,Q203,2,Elim ranking 5,Elim_Q79557,5_Q203
+emissions,Q10711575,has cause,GHG,Q167336,2,emissions has cause GHG,emissions_Q10711575,GHG_Q167336
+3 K,Q51671,point in time,3,Q201,2,3 K point in time 3,3 K_Q51671,3_Q201
+international cooperation,Q9378718,subclass of,cooperation,Q380962,2,international cooperation subclass of cooperation,international cooperation_Q9378718,cooperation_Q380962
+2.5,Q29866603,point in time,2,Q200,2,2.5 point in time 2,2.5_Q29866603,2_Q200
+men,Q8441,has part,pmen,id-less,2,men has part pmen,men_Q8441,pmen_id-less
+enric hing the na tion,id-less,said to be the same as,BMinin g diamonds,id-less,2,enric hing the na tion said to be the same as BMinin g diamonds,enric hing the na tion_id-less,BMinin g diamonds_id-less
+Linkin,Q21122860,ranking,2,Q200,2,Linkin ranking 2,Linkin_Q21122860,2_Q200
+4.5,Q197243,followed by,5,Q203,2,4.5 followed by 5,4.5_Q197243,5_Q203
+1,Q199,followed by,2,Q200,2,1 followed by 2,1_Q199,2_Q200
+5,Q203,follows,4.5,Q197243,2,5 follows 4.5,5_Q203,4.5_Q197243
+poor,Q5729485,subclass of,vulnerable,Q278113,2,poor subclass of vulnerable,poor_Q5729485,vulnerable_Q278113
+sions,Q37462564,has part,sions be,id-less,2,sions has part sions be,sions_Q37462564,sions be_id-less
+rel_err,rel_err,rel_err,rel_err,rel_err,2,rel_err rel_err rel_err,rel_err_rel_err,rel_err_rel_err
+3.3,Q39321380,point in time,3,Q201,2,3.3 point in time 3,3.3_Q39321380,3_Q201
+vulnerable,Q278113,subclass of,situation,Q2141565,2,vulnerable subclass of situation,vulnerable_Q278113,situation_Q2141565
+developing countries,Q177323,subclass of,countries,Q6256,2,developing countries subclass of countries,developing countries_Q177323,countries_Q6256
+children under 5 years of age,id-less,subclass of,age,Q185836,2,children under 5 years of age subclass of age,children under 5 years of age_id-less,age_Q185836
+draftin,Q580750,main subject,draft,Q244777,2,draftin main subject draft,draftin_Q580750,draft_Q244777
+oor,Q1072736,different from,oo,Q828696,2,oor different from oo,oor_Q1072736,oo_Q828696
+Vision 2036,id-less,point in time,2036,Q12123,2,Vision 2036 point in time 2036,Vision 2036_id-less,2036_Q12123
+oo,Q828696,different from,oor,Q1072736,2,oo different from oor,oo_Q828696,oor_Q1072736
+GHG,Q167336,has effect,emissions,Q10711575,2,GHG has effect emissions,GHG_Q167336,emissions_Q10711575
+sions,Q37462564,has part,sion,Q68136,2,sions has part sion,sions_Q37462564,sion_Q68136
+E,Q684,said to be the same as,the E,Q1071477,2,E said to be the same as the E,E_Q684,the E_Q1071477
+INDICATORS,Q21170064,part of,SDGS,Q7649586,2,INDICATORS part of SDGS,INDICATORS_Q21170064,SDGS_Q7649586
+SDGS,Q7649586,has part,INDICATORS,Q21170064,2,SDGS has part INDICATORS,SDGS_Q7649586,INDICATORS_Q21170064
+INDICATORS,Q21170064,part of <triplet>APPED,SDGS,Q7649586,2,INDICATORS part of <triplet>APPED SDGS,INDICATORS_Q21170064,SDGS_Q7649586
+least developed,Q752401,subclass of,developed,Q132453,2,least developed subclass of developed,least developed_Q752401,developed_Q132453
+sion,Q68136,part of,sions,Q37462564,2,sion part of sions,sion_Q68136,sions_Q37462564
+disclos ure,id-less,part of,Product disclos ure,id-less,1,disclos ure part of Product disclos ure,disclos ure_id-less,Product disclos ure_id-less
+disco vered,id-less,subclass of,Diamond prospec ting,id-less,1,disco vered subclass of Diamond prospec ting,disco vered_id-less,Diamond prospec ting_id-less
+equivalent ef,Q5384721,instance of,equivalent,Q220433,1,equivalent ef instance of equivalent,equivalent ef_Q5384721,equivalent_Q220433
+essential services,Q6545422,has part,education,Q8434,1,essential services has part education,essential services_Q6545422,education_Q8434
+essential services,Q6545422,has part,health,Q12147,1,essential services has part health,essential services_Q6545422,health_Q12147
+estimates,Q87524600,publisher,Unit ed Nations,id-less,1,estimates publisher Unit ed Nations,estimates_Q87524600,Unit ed Nations_id-less
+ethnicity,Q41710,different from,race,Q878123,1,ethnicity different from race,ethnicity_Q41710,race_Q878123
+disasters,Q3839081,has effect,disaster,Q3839081,1,disasters has effect disaster,disasters_Q3839081,disaster_Q3839081
+existing m,Q46667859,has part,m,Q11573,1,existing m has part m,existing m_Q46667859,m_Q11573
+evelopment,Q35138893,has part,infrastructure,Q121359,1,evelopment has part infrastructure,evelopment_Q35138893,infrastructure_Q121359
+expansion,Q9073584,has cause,park expansion,id-less,1,expansion has cause park expansion,expansion_Q9073584,park expansion_id-less
+ethics,Q9465,has part,anti-corru ption,id-less,1,ethics has part anti-corru ption,ethics_Q9465,anti-corru ption_id-less
+dom,Q784,subclass of,proportion,Q2631509,1,dom subclass of proportion,dom_Q784,proportion_Q2631509
+equitable,Q1347892,said to be the same as,fair,Q288514,1,equitable said to be the same as fair,equitable_Q1347892,fair_Q288514
+distribu tions,id-less,part of,shareholde,Q381136,1,distribu tions part of shareholde,distribu tions_id-less,shareholde_Q381136
+dom,Q784,subclass of,care,Q699385,1,dom subclass of care,dom_Q784,care_Q699385
+double,Q191290,subclass of,circumstances,Q813912,1,double subclass of circumstances,double_Q191290,circumstances_Q813912
+dream,Q36348,opposite of,reality,Q667661,1,dream opposite of reality,dream_Q36348,reality_Q667661
+diversiﬁed,Q99237754,subclass of,seed,Q40763,1,diversiﬁed subclass of seed,diversiﬁed_Q99237754,seed_Q40763
+drillin g,id-less,uses,borehole,Q502102,1,drillin g uses borehole,drillin g_id-less,borehole_Q502102
+e,Q684,different from,w,Q128,1,e different from w,e_Q684,w_Q128
+early,Q40719727,part of,developing countries,Q177323,1,early part of developing countries,early_Q40719727,developing countries_Q177323
+economic developm ent a nd,id-less,has part,developm ent a nd,id-less,1,economic developm ent a nd has part developm ent a nd,economic developm ent a nd_id-less,developm ent a nd_id-less
+economic growth,Q189833,has cause,work,Q6958747,1,economic growth has cause work,economic growth_Q189833,work_Q6958747
+diversiﬁcation,Q731453,has effect,value,Q194112,1,diversiﬁcation has effect value,diversiﬁcation_Q731453,value_Q194112
+ective bar,id-less,followed by,coll,Q194451,1,ective bar followed by coll,ective bar_id-less,coll_Q194451
+educa tion spor ts,id-less,facet of,health,Q12147,1,educa tion spor ts facet of health,educa tion spor ts_id-less,health_Q12147
+equi valent,id-less,subclass of,Researchers,Q1650915,1,equi valent subclass of Researchers,equi valent_id-less,Researchers_Q1650915
+education,Q8434,part of,essential services,Q6545422,1,education part of essential services,education_Q8434,essential services_Q6545422
+ef ﬁciency,id-less,part of,resource,Q1554231,1,ef ﬁciency part of resource,ef ﬁciency_id-less,resource_Q1554231
+el C,Q105037,subclass of,C,Q623,1,el C subclass of C,el C_Q105037,C_Q623
+emandi ng targ ets and tak e,id-less,part of,W e will,id-less,1,emandi ng targ ets and tak e part of W e will,emandi ng targ ets and tak e_id-less,W e will_id-less
+employm ent,id-less,part of,Manufacturing employm ent,id-less,1,employm ent part of Manufacturing employm ent,employm ent_id-less,Manufacturing employm ent_id-less
+employm ent,id-less,part of,gross,Q14290163,1,employm ent part of gross,employm ent_id-less,gross_Q14290163
+ems,Q1648,instance of,ecosyst,Q37813,1,ems instance of ecosyst,ems_Q1648,ecosyst_Q37813
+environmental shock,id-less,different from,shock,Q178061,1,environmental shock different from shock,environmental shock_id-less,shock_Q178061
+environmentally sound,Q61776581,facet of,environmentally,Q3899872,1,environmentally sound facet of environmentally,environmentally sound_Q61776581,environmentally_Q3899872
+eogragphical,id-less,instance of,status,Q813912,1,eogragphical instance of status,eogragphical_id-less,status_Q813912
+equal rights,Q182488,facet of,econ,Q8134,1,equal rights facet of econ,equal rights_Q182488,econ_Q8134
+end the epi,id-less,point in time,2030,Q12799,1,end the epi point in time 2030,end the epi_id-less,2030_Q12799
+f curre,Q57981781,part of,curre,Q8142,1,f curre part of curre,f curre_Q57981781,curre_Q8142
+experience,Q164359,has cause,skills,Q10670181,1,experience has cause skills,experience_Q164359,skills_Q10670181
+high ethical,Q58673763,instance of,standar,Q159375,1,high ethical instance of standar,high ethical_Q58673763,standar_Q159375
+harmful,Q84426668,subclass of,waste,Q45701,1,harmful subclass of waste,harmful_Q84426668,waste_Q45701
+hazardous,Q5687710,subclass of,hazard,Q1132455,1,hazardous subclass of hazard,hazardous_Q5687710,hazard_Q1132455
+health,Q12147,different from,well being,Q7981051,1,health different from well being,health_Q12147,well being_Q7981051
+health,Q12147,facet of,safety,Q10566551,1,health facet of safety,health_Q12147,safety_Q10566551
+health,Q12147,facet of,well,Q43483,1,health facet of well,health_Q12147,well_Q43483
+health,Q12147,has part,capacity,Q1347367,1,health has part capacity,health_Q12147,capacity_Q1347367
+health,Q12147,has part,ﬁnancing,Q6055890,1,health has part ﬁnancing,health_Q12147,ﬁnancing_Q6055890
+health,Q12147,part of,essential services,Q6545422,1,health part of essential services,health_Q12147,essential services_Q6545422
+health,Q12147,practiced by,health personnel,Q59283400,1,health practiced by health personnel,health_Q12147,health personnel_Q59283400
+health personnel,Q59283400,field of this occupation,health,Q12147,1,health personnel field of this occupation health,health personnel_Q59283400,health_Q12147
+health workforce in deve,id-less,located in the administrative territorial entity,deve,Q12099761,1,health workforce in deve located in the administrative territorial entity deve,health workforce in deve_id-less,deve_Q12099761
+high,Q177414,subclass of,availability,Q663290,1,high subclass of availability,high_Q177414,availability_Q663290
+high - tech,id-less,has part,edium,id-less,1,high - tech has part edium,high - tech_id-less,edium_id-less
+his,Q485277,child,his r,Q27162279,1,his child his r,his_Q485277,his r_Q27162279
+exports of goods,id-less,part of,Debt service,Q1713926,1,exports of goods part of Debt service,exports of goods_id-less,Debt service_Q1713926
+his r,Q27162279,father,his,Q485277,1,his r father his,his r_Q27162279,his_Q485277
+honesty,Q337349,subclass of,openness,Q1683540,1,honesty subclass of openness,honesty_Q337349,openness_Q1683540
+household,Q259059,has part,fam,Q1472842,1,household has part fam,household_Q259059,fam_Q1472842
+huma n rights standards,id-less,instance of,standards,Q591990,1,huma n rights standards instance of standards,huma n rights standards_id-less,standards_Q591990
+hunger,Q165947,said to be the same as,End hunger,id-less,1,hunger said to be the same as End hunger,hunger_Q165947,End hunger_id-less
+hygiene,Q162297,different from,sanitation,Q949149,1,hygiene different from sanitation,hygiene_Q162297,sanitation_Q949149
+impacts of climate change,Q112900604,facet of,climate change,Q125928,1,impacts of climate change facet of climate change,impacts of climate change_Q112900604,climate change_Q125928
+in pa,Q29820252,country,pa,Q804,1,in pa country pa,in pa_Q29820252,pa_Q804
+inclusiveness,Q60716821,facet of,diversity,Q27722602,1,inclusiveness facet of diversity,inclusiveness_Q60716821,diversity_Q27722602
+increased,Q209583,part of,sustainable,Q66095801,1,increased part of sustainable,increased_Q209583,sustainable_Q66095801
+indigenou,Q103817,has part,peopl,Q148,1,indigenou has part peopl,indigenou_Q103817,peopl_Q148
+individuals using the Internet,id-less,part of,Internet,Q75,1,individuals using the Internet part of Internet,individuals using the Internet_id-less,Internet_Q75
+industrial,Q487965,instance of,sectors,Q2739810,1,industrial instance of sectors,industrial_Q487965,sectors_Q2739810
+harmf,Q3184856,subclass of,abuse,Q600571,1,harmf subclass of abuse,harmf_Q3184856,abuse_Q600571
+gross,Q14290163,has part,employm ent,id-less,1,gross has part employm ent,gross_Q14290163,employm ent_id-less
+gross,Q14290163,country,global,Q13780930,1,gross country global,gross_Q14290163,global_Q13780930
+government,Q7188,subclass of,payment,Q1148747,1,government subclass of payment,government_Q7188,payment_Q1148747
+extension,Q184148,subclass of,research,Q42240,1,extension subclass of research,extension_Q184148,research_Q42240
+extreme,Q682710,subclass of,events,Q107530716,1,extreme subclass of events,extreme_Q682710,events_Q107530716
+f,Q130,part of,t,Q127,1,f part of t,f_Q130,t_Q127
+disaggreg,Q24724545,subclass of,produced,Q625671,1,disaggreg subclass of produced,disaggreg_Q24724545,produced_Q625671
+f m,Q15761612,is a list of,m,Q11573,1,f m is a list of m,f m_Q15761612,m_Q11573
+f ood,id-less,opposite of,chie v e f ood,id-less,1,f ood opposite of chie v e f ood,f ood_id-less,chie v e f ood_id-less
+f rem,Q88477633,has part,rem,Q23731823,1,f rem has part rem,f rem_Q88477633,rem_Q23731823
+fair,Q288514,said to be the same as,equitable,Q1347892,1,fair said to be the same as equitable,fair_Q288514,equitable_Q1347892
+fam,Q1472842,part of,household,Q259059,1,fam part of household,fam_Q1472842,household_Q259059
+family,Q8436,instance of,life style,Q32090,1,family instance of life style,family_Q8436,life style_Q32090
+farm,Q131596,has part,plant,Q756,1,farm has part plant,farm_Q131596,plant_Q756
+female,Q43445,opposite of,male,Q6581097,1,female opposite of male,female_Q43445,male_Q6581097
+fixed term,Q814245,opposite of,contra ctors,id-less,1,fixed term opposite of contra ctors,fixed term_Q814245,contra ctors_id-less
+flora,Q131449,subclass of,objec tive,id-less,1,flora subclass of objec tive,flora_Q131449,objec tive_id-less
+for sus t ainabl e,id-less,instance of,ainabl,id-less,1,for sus t ainabl e instance of ainabl,for sus t ainabl e_id-less,ainabl_id-less
+forced m,Q231632,subclass of,forced,Q16266633,1,forced m subclass of forced,forced m_Q231632,forced_Q16266633
+form,Q279749,subclass of,current,Q129558,1,form subclass of current,form_Q279749,current_Q129558
+foster in novation,id-less,part of,sustainab le industriali zation,id-less,1,foster in novation part of sustainab le industriali zation,foster in novation_id-less,sustainab le industriali zation_id-less
+gement,Q4808894,has part,mana gement,id-less,1,gement has part mana gement,gement_Q4808894,mana gement_id-less
+gender,Q48277,different from,age,Q185836,1,gender different from age,gender_Q48277,age_Q185836
+genetic diversity of seeds,id-less,facet of,genetic,Q7162,1,genetic diversity of seeds facet of genetic,genetic diversity of seeds_id-less,genetic_Q7162
+genetic res,Q211675,subclass of,res,Q12705,1,genetic res subclass of res,genetic res_Q211675,res_Q12705
+genital,Q4620674,has part,m,Q11573,1,genital has part m,genital_Q4620674,m_Q11573
+geopolitics,Q159385,part of,world,Q2,1,geopolitics part of world,geopolitics_Q159385,world_Q2
+gh,Q117,contains administrative territorial entity,L,Q11582,1,gh contains administrative territorial entity L,gh_Q117,L_Q11582
+girls,Q6581072,opposite of,women,Q467,1,girls opposite of women,girls_Q6581072,women_Q467
+global health risks,Q42549296,facet of,health,Q12147,1,global health risks facet of health,global health risks_Q42549296,health_Q12147
+disaggregated,Q65075740,subclass of,data,Q42848,1,disaggregated subclass of data,disaggregated_Q65075740,data_Q42848
+,id-less,has part,Girls,Q6581072,1, has part Girls,_id-less,Girls_Q6581072
+disabilities,Q5281167,has effect,pregnant,Q20741850,1,disabilities has effect pregnant,disabilities_Q5281167,pregnant_Q20741850
+diamond dreams,Q55609523,subclass of,dream,Q36348,1,diamond dreams subclass of dream,diamond dreams_Q55609523,dream_Q36348
+al,Q222,part of,al di,Q165634,1,al part of al di,al_Q222,al di_Q165634
+al di,Q165634,has part,al,Q222,1,al di has part al,al di_Q165634,al_Q222
+alcohol,Q153,instance of,national context,Q41293854,1,alcohol instance of national context,alcohol_Q153,national context_Q41293854
+all,Q1,said to be the same as,being,Q203872,1,all said to be the same as being,all_Q1,being_Q203872
+all form,Q38310519,subclass of,form,Q279749,1,all form subclass of form,all form_Q38310519,form_Q279749
+all people,Q92079628,subclass of,poverty,Q10294,1,all people subclass of poverty,all people_Q92079628,poverty_Q10294
+all season road,id-less,subclass of,km,Q828224,1,all season road subclass of km,all season road_id-less,km_Q828224
+alt ernative livelihoods,id-less,subclass of,com pany,id-less,1,alt ernative livelihoods subclass of com pany,alt ernative livelihoods_id-less,com pany_id-less
+am,Q40040,part of,coordination,Q2463100,1,am part of coordination,am_Q40040,coordination_Q2463100
+am ong chil dren,id-less,part of,Standards,Q591990,1,am ong chil dren part of Standards,am ong chil dren_id-less,Standards_Q591990
+anti-corru ption,id-less,part of,ethics,Q9465,1,anti-corru ption part of ethics,anti-corru ption_id-less,ethics_Q9465
+anti-r etroviral therapy,id-less,has part,BWP1,id-less,1,anti-r etroviral therapy has part BWP1,anti-r etroviral therapy_id-less,BWP1_id-less
+apabi,Q49931741,has part,c,Q623,1,apabi has part c,apabi_Q49931741,c_Q623
+appro,Q5727902,part of,es,Q29,1,appro part of es,appro_Q5727902,es_Q29
+appropriate social protec,id-less,subclass of,protec,Q473972,1,appropriate social protec subclass of protec,appropriate social protec_id-less,protec_Q473972
+artisan,Q1294787,subclass of,skills,Q10670181,1,artisan subclass of skills,artisan_Q1294787,skills_Q10670181
+as low,Q477041,said to be the same as,low,Q804970,1,as low said to be the same as low,as low_Q477041,low_Q804970
+assistance,Q1643184,part of,other,Q48270,1,assistance part of other,assistance_Q1643184,other_Q48270
+associati,Q2736,part of,Freedom of associati,Q688503,1,associati part of Freedom of associati,associati_Q2736,Freedom of associati_Q688503
+bas,Q1003730,studied by,research,Q42240,1,bas studied by research,bas_Q1003730,research_Q42240
+basic services,Q74832136,has part,ownership,Q6498684,1,basic services has part ownership,basic services_Q74832136,ownership_Q6498684
+bee,Q7391,subclass of,e,Q684,1,bee subclass of e,bee_Q7391,e_Q684
+being,Q203872,said to be the same as,all,Q1,1,being said to be the same as all,being_Q203872,all_Q1
+benchm ark,id-less,subclass of,ark,Q671759,1,benchm ark subclass of ark,benchm ark_id-less,ark_Q671759
+beneﬁts,Q6593860,has part,beneﬁts arising from,id-less,1,beneﬁts has part beneﬁts arising from,beneﬁts_Q6593860,beneﬁts arising from_id-less
+beneﬁts arising from,id-less,part of,beneﬁts,Q6593860,1,beneﬁts arising from part of beneﬁts,beneﬁts arising from_id-less,beneﬁts_Q6593860
+best practice principle,Q37794211,subclass of,adopt ed,id-less,1,best practice principle subclass of adopt ed,best practice principle_Q37794211,adopt ed_id-less
+broadband,Q194163,said to be the same as,broadband subscrip,id-less,1,broadband said to be the same as broadband subscrip,broadband_Q194163,broadband subscrip_id-less
+broadband subscrip,id-less,said to be the same as,broadband,Q194163,1,broadband subscrip said to be the same as broadband,broadband subscrip_id-less,broadband_Q194163
+al,Q222,part of,V,Q25428,1,al part of V,al_Q222,V_Q25428
+air pollution,Q131123,subclass of,pollution,Q58734,1,air pollution subclass of pollution,air pollution_Q131123,pollution_Q58734
+air,Q7391292,has part,water,Q283,1,air has part water,air_Q7391292,water_Q283
+access,Q80689,part of,sexual,Q12198,1,access part of sexual,access_Q80689,sexual_Q12198
+W,Q128,part of,All W,Q175315,1,W part of All W,W_Q128,All W_Q175315
+W e will,id-less,has part,emandi ng targ ets and tak e,id-less,1,W e will has part emandi ng targ ets and tak e,W e will_id-less,emandi ng targ ets and tak e_id-less
+WELL,Q43483,part of,WELL-,Q574694,1,WELL part of WELL-,WELL_Q43483,WELL-_Q574694
+WELL-,Q574694,has part,WELL,Q43483,1,WELL- has part WELL,WELL-_Q574694,WELL_Q43483
+Wellness Promotion and Employee Assistance,id-less,facet of,com pany,id-less,1,Wellness Promotion and Employee Assistance facet of com pany,Wellness Promotion and Employee Assistance_id-less,com pany_id-less
+World E conomic F orum,id-less,has part,C ompe,id-less,1,World E conomic F orum has part C ompe,World E conomic F orum_id-less,C ompe_id-less
+World Heritage Site,Q9259,maintained by,UNE,Q1814435,1,World Heritage Site maintained by UNE,World Heritage Site_Q9259,UNE_Q1814435
+X 0,Q21126539,length,0,Q14920387,1,X 0 length 0,X 0_Q21126539,0_Q14920387
+XE,Q1106,has part,E,Q684,1,XE has part E,XE_Q1106,E_Q684
+a,Q577,instance of,t,Q127,1,a instance of t,a_Q577,t_Q127
+acce ss,id-less,part of,Signiﬁcantly,Q105644403,1,acce ss part of Signiﬁcantly,acce ss_id-less,Signiﬁcantly_Q105644403
+access,Q80689,has cause,people,Q5,1,access has cause people,access_Q80689,people_Q5
+access,Q80689,part of,resources,Q1554231,1,access part of resources,access_Q80689,resources_Q1554231
+access to basic services,id-less,facet of,households,Q64873892,1,access to basic services facet of households,access to basic services_id-less,households_Q64873892
+agriculture orientation index,id-less,instance of,orientation index,id-less,1,agriculture orientation index instance of orientation index,agriculture orientation index_id-less,orientation index_id-less
+access to m,Q73673993,different from,provide access to m,id-less,1,access to m different from provide access to m,access to m_Q73673993,provide access to m_id-less
+access to science,Q113254718,subclass of,science,Q336,1,access to science subclass of science,access to science_Q113254718,science_Q336
+additiona,Q798487,part of,Mobilize,Q1930943,1,additiona part of Mobilize,additiona_Q798487,Mobilize_Q1930943
+address,Q861911,part of,appropriate,Q113903632,1,address part of appropriate,address_Q861911,appropriate_Q113903632
+adolescent,Q1492760,subclass of,girl,Q3031,1,adolescent subclass of girl,adolescent_Q1492760,girl_Q3031
+adoption,Q180472,facet of,clean,Q15752618,1,adoption facet of clean,adoption_Q180472,clean_Q15752618
+af fordable,id-less,instance of,universal,Q3551307,1,af fordable instance of universal,af fordable_id-less,universal_Q3551307
+affordable,Q1414593,subclass of,equitable access,Q16837086,1,affordable subclass of equitable access,affordable_Q1414593,equitable access_Q16837086
+aftercare,Q4690707,subclass of,rehabilitation,Q2795791,1,aftercare subclass of rehabilitation,aftercare_Q4690707,rehabilitation_Q2795791
+age,Q185836,different from,gender,Q48277,1,age different from gender,age_Q185836,gender_Q48277
+agric,Q11451,subclass of,rural infrastructure,id-less,1,agric subclass of rural infrastructure,agric_Q11451,rural infrastructure_id-less
+agricultural,Q5356428,has part,m,Q11573,1,agricultural has part m,agricultural_Q5356428,m_Q11573
+agricultural export subsidies,Q59669811,subclass of,subsidies,Q17054224,1,agricultural export subsidies subclass of subsidies,agricultural export subsidies_Q59669811,subsidies_Q17054224
+building mechanism,Q84474093,part of,mechanism,Q517596,1,building mechanism part of mechanism,building mechanism_Q84474093,mechanism_Q517596
+busine ss,id-less,part of,sustainable developme nt,id-less,1,busine ss part of sustainable developme nt,busine ss_id-less,sustainable developme nt_id-less
+c,Q623,subclass of,onducive,id-less,1,c subclass of onducive,c_Q623,onducive_id-less
+developi,Q177323,said to be the same as,right of developi,id-less,1,developi said to be the same as right of developi,developi_Q177323,right of developi_id-less
+countries,Q6256,has part,sm,Q238,1,countries has part sm,countries_Q6256,sm_Q238
+curre,Q8142,has part,f curre,Q57981781,1,curre has part f curre,curre_Q8142,f curre_Q57981781
+d,Q573,said to be the same as,o-d,Q3666413,1,d said to be the same as o-d,d_Q573,o-d_Q3666413
+d,Q573,said to be the same as,people living on,Q88120051,1,d said to be the same as people living on,d_Q573,people living on_Q88120051
+data,Q42848,part of,Privacy,Q188728,1,data part of Privacy,data_Q42848,Privacy_Q188728
+de velopi ng,id-less,subclass of,countries,Q6256,1,de velopi ng subclass of countries,de velopi ng_id-less,countries_Q6256
+deaths,Q4,has effect,inju,Q3477582,1,deaths has effect inju,deaths_Q4,inju_Q3477582
+debt,Q3196867,has effect,fostering,Q70859692,1,debt has effect fostering,debt_Q3196867,fostering_Q70859692
+debt of highly,id-less,subclass of,debt,Q3196867,1,debt of highly subclass of debt,debt of highly_id-less,debt_Q3196867
+debt restructuring,Q1364290,facet of,debt,Q3196867,1,debt restructuring facet of debt,debt restructuring_Q1364290,debt_Q3196867
+deci sion,id-less,instance of,deci,Q110827,1,deci sion instance of deci,deci sion_id-less,deci_Q110827
+devel opment,Q98642001,part of,research,Q42240,1,devel opment part of research,devel opment_Q98642001,research_Q42240
+developed countries,Q132453,has part,sm,Q238,1,developed countries has part sm,developed countries_Q132453,sm_Q238
+developing States,id-less,opposite of,island developing States,id-less,1,developing States opposite of island developing States,developing States_id-less,island developing States_id-less
+countries,Q6256,facet of,access to,Q8182488,1,countries facet of access to,countries_Q6256,access to_Q8182488
+developing States,id-less,subclass of,States,Q104539563,1,developing States subclass of States,developing States_id-less,States_Q104539563
+industrialization,Q202398,subclass of,sustainable,Q66095801,1,industrialization subclass of sustainable,industrialization_Q202398,sustainable_Q66095801
+developing countries,Q177323,has part,early,Q40719727,1,developing countries has part early,developing countries_Q177323,early_Q40719727
+developing countries,Q177323,subclass of,innovation,Q174165,1,developing countries subclass of innovation,developing countries_Q177323,innovation_Q174165
+developm,Q213713,subclass of,recruitment,Q899277,1,developm subclass of recruitment,developm_Q213713,recruitment_Q899277
+developm ent a nd,id-less,part of,economic developm ent a nd,id-less,1,developm ent a nd part of economic developm ent a nd,developm ent a nd_id-less,economic developm ent a nd_id-less
+developm ent a ssistance plu s other,id-less,has part,ofﬁcial developm ent a ssistance plu s other,id-less,1,developm ent a ssistance plu s other has part ofﬁcial developm ent a ssistance plu s other,developm ent a ssistance plu s other_id-less,ofﬁcial developm ent a ssistance plu s other_id-less
+development assistance,Q1206712,subclass of,assistance,Q1643184,1,development assistance subclass of assistance,development assistance_Q1206712,assistance_Q1643184
+development spending,Q57141922,has part,spending,Q98131817,1,development spending has part spending,development spending_Q57141922,spending_Q98131817
+deﬁnitions,Q1749083,has part,national deﬁnitions,id-less,1,deﬁnitions has part national deﬁnitions,deﬁnitions_Q1749083,national deﬁnitions_id-less
+diabetes,Q12206,instance of,disease,Q12136,1,diabetes instance of disease,diabetes_Q12206,disease_Q12136
+diamond,Q5283,use,diamonds,Q74038,1,diamond use diamonds,diamond_Q5283,diamonds_Q74038
+diamond bus,Q5270737,subclass of,iness,Q37086511,1,diamond bus subclass of iness,diamond bus_Q5270737,iness_Q37086511
+countries,Q6256,has part,least,Q211005,1,countries has part least,countries_Q6256,least_Q211005
+core,Q23595,part of,Com pliance,id-less,1,core part of Com pliance,core_Q23595,Com pliance_id-less
+cancer,Q12078,instance of,disease,Q12136,1,cancer instance of disease,cancer_Q12078,disease_Q12136
+comm unitie,id-less,subclass of,hospital,Q16917,1,comm unitie subclass of hospital,comm unitie_id-less,hospital_Q16917
+capacit y building,id-less,subclass of,building,Q41176,1,capacit y building subclass of building,capacit y building_id-less,building_Q41176
+capacity building,Q1417724,part of,procurement,Q829492,1,capacity building part of procurement,capacity building_Q1417724,procurement_Q829492
+chain,Q507619,said to be the same as,value chain,Q646107,1,chain said to be the same as value chain,chain_Q507619,value chain_Q646107
+chall enges,id-less,subclass of,prod uct,id-less,1,chall enges subclass of prod uct,chall enges_id-less,prod uct_id-less
+chie v e f ood,id-less,opposite of,f ood,id-less,1,chie v e f ood opposite of f ood,chie v e f ood_id-less,f ood_id-less
+chil,Q298,different from,women,Q467,1,chil different from women,chil_Q298,women_Q467
+child,Q7569,subclass of,practices,Q104710926,1,child subclass of practices,child_Q7569,practices_Q104710926
+child labour,Q192571,facet of,Prevention of child labour,id-less,1,child labour facet of Prevention of child labour,child labour_Q192571,Prevention of child labour_id-less
+children,Q7569,has part,unem,Q65088552,1,children has part unem,children_Q7569,unem_Q65088552
+chronic,Q383126,subclass of,respiratory,Q7891,1,chronic subclass of respiratory,chronic_Q383126,respiratory_Q7891
+clim,Q125928,subclass of,vulnerability,Q631425,1,clim subclass of vulnerability,clim_Q125928,vulnerability_Q631425
+coll,Q194451,follows,ective bar,id-less,1,coll follows ective bar,coll_Q194451,ective bar_id-less
+comm unications,id-less,subclass of,inform ation,id-less,1,comm unications subclass of inform ation,comm unications_id-less,inform ation_id-less
+comm unity,id-less,instance of,comm,Q24785009,1,comm unity instance of comm,comm unity_id-less,comm_Q24785009
+coordination,Q2463100,has part,am,Q40040,1,coordination has part am,coordination_Q2463100,am_Q40040
+comm unity,id-less,instance of,human rights,Q8458,1,comm unity instance of human rights,comm unity_id-less,human rights_Q8458
+comm unity,id-less,part of,Kimbe rley Process,id-less,1,comm unity part of Kimbe rley Process,comm unity_id-less,Kimbe rley Process_id-less
+comm unity,id-less,subclass of,comm,Q24785009,1,comm unity subclass of comm,comm unity_id-less,comm_Q24785009
+comme rcial enterprise,id-less,subclass of,indus trial,id-less,1,comme rcial enterprise subclass of indus trial,comme rcial enterprise_id-less,indus trial_id-less
+commun ity,id-less,subclass of,rights,Q780687,1,commun ity subclass of rights,commun ity_id-less,rights_Q780687
+communicable diseases,Q18123741,subclass of,diseases,Q12136,1,communicable diseases subclass of diseases,communicable diseases_Q18123741,diseases_Q12136
+communications,Q39809,subclass of,communication,Q11024,1,communications subclass of communication,communications_Q39809,communication_Q11024
+communications technology,Q1780509,subclass of,technology,Q11016,1,communications technology subclass of technology,communications technology_Q1780509,technology_Q11016
+communiti es,id-less,part of,environment,Q2249676,1,communiti es part of environment,communiti es_id-less,environment_Q2249676
+consequen ces,id-less,has part,k,Q11579,1,consequen ces has part k,consequen ces_id-less,k_Q11579
+conservationIM,id-less,parent organization,IM,Q9676,1,conservationIM parent organization IM,conservationIM_id-less,IM_Q9676
+contra ctors,id-less,opposite of,fixed term,Q814245,1,contra ctors opposite of fixed term,contra ctors_id-less,fixed term_Q814245
+contraceptive use,Q28136235,facet of,sexual relations,Q2782279,1,contraceptive use facet of sexual relations,contraceptive use_Q28136235,sexual relations_Q2782279
+industrial,Q487965,subclass of,technologies,Q11016,1,industrial subclass of technologies,industrial_Q487965,technologies_Q11016
+knowledge,Q9081,part of,internationally,Q100164920,1,knowledge part of internationally,knowledge_Q9081,internationally_Q100164920
+industry value added,id-less,part of,total value,Q7828152,1,industry value added part of total value,industry value added_id-less,total value_Q7828152
+shared,Q21645689,subclass of,promotion,Q39809,1,shared subclass of promotion,shared_Q21645689,promotion_Q39809
+rural,Q7380465,opposite of,urban,Q159313,1,rural opposite of urban,rural_Q7380465,urban_Q159313
+s,Q131,said to be the same as,1,Q199,1,s said to be the same as 1,s_Q131,1_Q199
+saf ety,id-less,instance of,Best practice,Q830382,1,saf ety instance of Best practice,saf ety_id-less,Best practice_Q830382
+sanc tuary,id-less,facet of,endangered specie,Q11394,1,sanc tuary facet of endangered specie,sanc tuary_id-less,endangered specie_Q11394
+sanitation,Q949149,different from,hygiene,Q162297,1,sanitation different from hygiene,sanitation_Q949149,hygiene_Q162297
+satisﬁed,Q7426259,part of,planning,Q309100,1,satisﬁed part of planning,satisﬁed_Q7426259,planning_Q309100
+science,Q336,has part,technology,Q11016,1,science has part technology,science_Q336,technology_Q11016
+securit y,id-less,subclass of,financial succe ss,id-less,1,securit y subclass of financial succe ss,securit y_id-less,financial succe ss_id-less
+sex,Q10525,has effect,protection ﬂoors/systems,id-less,1,sex has effect protection ﬂoors/systems,sex_Q10525,protection ﬂoors/systems_id-less
+sexual,Q12198,has part,access,Q80689,1,sexual has part access,sexual_Q12198,access_Q80689
+sexual,Q12198,has part,other,Q48270,1,sexual has part other,sexual_Q12198,other_Q48270
+sexual,Q12198,subclass of,violence,Q124490,1,sexual subclass of violence,sexual_Q12198,violence_Q124490
+sexual and reproductive health,Q3501817,has part,reproductive health,Q1981388,1,sexual and reproductive health has part reproductive health,sexual and reproductive health_Q3501817,reproductive health_Q1981388
+shareholde,Q381136,has part,distribu tions,id-less,1,shareholde has part distribu tions,shareholde_Q381136,distribu tions_id-less
+quality education,Q53581209,facet of,education,Q8434,1,quality education facet of education,quality education_Q53581209,education_Q8434
+shock,Q178061,different from,environmental shock,id-less,1,shock different from environmental shock,shock_Q178061,environmental shock_id-less
+showcasin g,id-less,located in the administrative territorial entity,Minin g,id-less,1,showcasin g located in the administrative territorial entity Minin g,showcasin g_id-less,Minin g_id-less
+skills,Q10670181,has effect,experience,Q164359,1,skills has effect experience,skills_Q10670181,experience_Q164359
+sm,Q238,part of,countries,Q6256,1,sm part of countries,sm_Q238,countries_Q6256
+sm,Q238,part of,developed countries,Q132453,1,sm part of developed countries,sm_Q238,developed countries_Q132453
+social protection policies,id-less,subclass of,policies,Q47011897,1,social protection policies subclass of policies,social protection policies_id-less,policies_Q47011897
+soil pollution,Q212734,subclass of,pollution,Q58734,1,soil pollution subclass of pollution,soil pollution_Q212734,pollution_Q58734
+spending,Q98131817,part of,development spending,Q57141922,1,spending part of development spending,spending_Q98131817,development spending_Q57141922
+stakeholde rs.,id-less,subclass of,stakeholde,Q852998,1,stakeholde rs. subclass of stakeholde,stakeholde rs._id-less,stakeholde_Q852998
+stakeholders,Q108798676,part of,Partnerships,Q50814886,1,stakeholders part of Partnerships,stakeholders_Q108798676,Partnerships_Q50814886
+standar,Q159375,part of,labour,Q9630,1,standar part of labour,standar_Q159375,labour_Q9630
+standardized prevalence,Q37510993,facet of,Age,Q185836,1,standardized prevalence facet of Age,standardized prevalence_Q37510993,Age_Q185836
+status,Q813912,facet of,disability,Q12131,1,status facet of disability,status_Q813912,disability_Q12131
+road traf,Q9687,uses,road,Q34442,1,road traf uses road,road traf_Q9687,road_Q34442
+road,Q34442,used by,road traf,Q9687,1,road used by road traf,road_Q34442,road traf_Q9687
+road,Q34442,said to be the same as,tr,Q43,1,road said to be the same as tr,road_Q34442,tr_Q43
+risk of extinction,Q29304970,subclass of,extinction,Q123509,1,risk of extinction subclass of extinction,risk of extinction_Q29304970,extinction_Q123509
+r e vit alize,id-less,instance of,vit alize,id-less,1,r e vit alize instance of vit alize,r e vit alize_id-less,vit alize_id-less
+reality,Q667661,opposite of,dream,Q36348,1,reality opposite of dream,reality_Q667661,dream_Q36348
+recover,Q3284009,has cause,mine,Q820477,1,recover has cause mine,recover_Q3284009,mine_Q820477
+reduce,Q951651,part of,CC measures,id-less,1,reduce part of CC measures,reduce_Q951651,CC measures_id-less
+reduce debt distress,id-less,facet of,debt distress,id-less,1,reduce debt distress facet of debt distress,reduce debt distress_id-less,debt distress_id-less
+reduce use,id-less,facet of,feciency,id-less,1,reduce use facet of feciency,reduce use_id-less,feciency_id-less
+regional,Q1218597,has part,internationa,Q718,1,regional has part internationa,regional_Q1218597,internationa_Q718
+related wild species,id-less,subclass of,species,Q7432,1,related wild species subclass of species,related wild species_id-less,species_Q7432
+relevant,Q966793,located in the administrative territorial entity,national,Q53247,1,relevant located in the administrative territorial entity national,relevant_Q966793,national_Q53247
+reliable,Q11348540,said to be the same as,quality,Q1207505,1,reliable said to be the same as quality,reliable_Q11348540,quality_Q1207505
+rem,Q23731823,part of,f rem,Q88477633,1,rem part of f rem,rem_Q23731823,f rem_Q88477633
+reproductive health,Q1981388,part of,sexual and reproductive health,Q3501817,1,reproductive health part of sexual and reproductive health,reproductive health_Q1981388,sexual and reproductive health_Q3501817
+reproductive rights,Q1536343,subclass of,rights,Q780687,1,reproductive rights subclass of rights,reproductive rights_Q1536343,rights_Q780687
+research,Q42240,has part,devel opment,Q98642001,1,research has part devel opment,research_Q42240,devel opment_Q98642001
+research,Q42240,part of,development,Q1074523,1,research part of development,research_Q42240,development_Q1074523
+research,Q42240,studies,bas,Q1003730,1,research studies bas,research_Q42240,bas_Q1003730
+resilient,Q403605,subclass of,sustainable,Q66095801,1,resilient subclass of sustainable,resilient_Q403605,sustainable_Q66095801
+resilient infrastructure,Q112923769,subclass of,infrastructure,Q121359,1,resilient infrastructure subclass of infrastructure,resilient infrastructure_Q112923769,infrastructure_Q121359
+resour,Q54872,part of,positi ve reputation and legacy,id-less,1,resour part of positi ve reputation and legacy,resour_Q54872,positi ve reputation and legacy_id-less
+resource,Q1554231,has part,ef ﬁciency,id-less,1,resource has part ef ﬁciency,resource_Q1554231,ef ﬁciency_id-less
+resource,Q1554231,has part,m,Q11573,1,resource has part m,resource_Q1554231,m_Q11573
+resources,Q1554231,has part,access,Q80689,1,resources has part access,resources_Q1554231,access_Q80689
+retention,Q1939410,has cause,training,Q216033,1,retention has cause training,retention_Q1939410,training_Q216033
+retro,Q1054537,instance of,industries,Q2976602,1,retro instance of industries,retro_Q1054537,industries_Q2976602
+revenue collection,Q58345596,facet of,revenue,Q850210,1,revenue collection facet of revenue,revenue collection_Q58345596,revenue_Q850210
+right of developi,id-less,said to be the same as,developi,Q177323,1,right of developi said to be the same as developi,right of developi_id-less,developi_Q177323
+risk,Q104493,said to be the same as,unknow,Q4233718,1,risk said to be the same as unknow,risk_Q104493,unknow_Q4233718
+stunting,Q7628767,has effect,wasting,Q7972881,1,stunting has effect wasting,stunting_Q7628767,wasting_Q7972881
+support,Q861259,facet of,building,Q41176,1,support facet of building,support_Q861259,building_Q41176
+sustainab le industriali zation,id-less,has part,foster in novation,id-less,1,sustainab le industriali zation has part foster in novation,sustainab le industriali zation_id-less,foster in novation_id-less
+training,Q216033,has effect,retention,Q1939410,1,training has effect retention,training_Q216033,retention_Q1939410
+triali,Q871942,subclass of,trial,Q8016240,1,triali subclass of trial,triali_Q871942,trial_Q8016240
+type,Q190087,facet of,chil,Q298,1,type facet of chil,type_Q190087,chil_Q298
+under,Q15332388,subclass of,birth,Q34581,1,under subclass of birth,under_Q15332388,birth_Q34581
+unem,Q65088552,part of,children,Q7569,1,unem part of children,unem_Q65088552,children_Q7569
+unknow,Q4233718,said to be the same as,risk,Q104493,1,unknow said to be the same as risk,unknow_Q4233718,risk_Q104493
+urban,Q159313,opposite of,rural,Q7380465,1,urban opposite of rural,urban_Q159313,rural_Q7380465
+vaccine,Q134808,instance of,development,Q1074523,1,vaccine instance of development,vaccine_Q134808,development_Q1074523
+vaccine,Q134808,subclass of,vaccines,Q134808,1,vaccine subclass of vaccines,vaccine_Q134808,vaccines_Q134808
+value,Q194112,has cause,diversiﬁcation,Q731453,1,value has cause diversiﬁcation,value_Q194112,diversiﬁcation_Q731453
+value chain,Q646107,said to be the same as,chain,Q507619,1,value chain said to be the same as chain,value chain_Q646107,chain_Q507619
+vices F,id-less,instance of,F,Q130,1,vices F instance of F,vices F_id-less,F_Q130
+violence against all women,id-less,facet of,women,Q467,1,violence against all women facet of women,violence against all women_id-less,women_Q467
+viral Therapy,Q65473901,subclass of,Therapy,Q179661,1,viral Therapy subclass of Therapy,viral Therapy_Q65473901,Therapy_Q179661
+vit alize,id-less,has part,r e vit alize,id-less,1,vit alize has part r e vit alize,vit alize_id-less,r e vit alize_id-less
+w,Q128,different from,e,Q684,1,w different from e,w_Q128,e_Q684
+warning,Q23817739,subclass of,risk reduction,Q67098987,1,warning subclass of risk reduction,warning_Q23817739,risk reduction_Q67098987
+wasting,Q7972881,has cause,stunting,Q7628767,1,wasting has cause stunting,wasting_Q7972881,stunting_Q7628767
+wasting,Q7972881,has effect,overweight,Q332428,1,wasting has effect overweight,wasting_Q7972881,overweight_Q332428
+water,Q283,part of,air,Q7391292,1,water part of air,water_Q283,air_Q7391292
+well being,Q7981051,different from,health,Q12147,1,well being different from health,well being_Q7981051,health_Q12147
+women,Q467,different from,chil,Q298,1,women different from chil,women_Q467,chil_Q298
+women,Q467,opposite of,girls,Q6581072,1,women opposite of girls,women_Q467,girls_Q6581072
+women,Q467,opposite of,men,Q8441,1,women opposite of men,women_Q467,men_Q8441
+women and girls,Q84048852,has part,girls,Q6581072,1,women and girls has part girls,women and girls_Q84048852,girls_Q6581072
+work,Q6958747,has effect,economic growth,Q189833,1,work has effect economic growth,work_Q6958747,economic growth_Q189833
+y-t,Q1024911,has part,t,Q127,1,y-t has part t,y-t_Q1024911,t_Q127
+ﬁnancial,Q22687,part of,technology,Q11016,1,ﬁnancial part of technology,ﬁnancial_Q22687,technology_Q11016
+treatment of substan,Q35387756,facet of,substan,Q1084,1,treatment of substan facet of substan,treatment of substan_Q35387756,substan_Q1084
+trafﬁcking,Q184840,subclass of,sphere,Q12507,1,trafﬁcking subclass of sphere,trafﬁcking_Q184840,sphere_Q12507
+sustainabilit y,id-less,facet of,organisa tional capabilit y,id-less,1,sustainabilit y facet of organisa tional capabilit y,sustainabilit y_id-less,organisa tional capabilit y_id-less
+tr,Q43,said to be the same as,road,Q34442,1,tr said to be the same as road,tr_Q43,road_Q34442
+sustainable,Q66095801,has part,increased,Q209583,1,sustainable has part increased,sustainable_Q66095801,increased_Q209583
+sustainable,Q66095801,subclass of,livelihoods,Q98370870,1,sustainable subclass of livelihoods,sustainable_Q66095801,livelihoods_Q98370870
+sustainable basis,id-less,subclass of,sustainable,Q66095801,1,sustainable basis subclass of sustainable,sustainable basis_id-less,sustainable_Q66095801
+sustainable developme nt,id-less,has part,busine ss,id-less,1,sustainable developme nt has part busine ss,sustainable developme nt_id-less,busine ss_id-less
+sustainable towns,id-less,instance of,SDG,Q7649586,1,sustainable towns instance of SDG,sustainable towns_id-less,SDG_Q7649586
+t,Q127,has part,f,Q130,1,t has part f,t_Q127,f_Q130
+t,Q127,said to be the same as,r,Q129,1,t said to be the same as r,t_Q127,r_Q129
+t and tra ining,id-less,subclass of,Developmen,Q213713,1,t and tra ining subclass of Developmen,t and tra ining_id-less,Developmen_Q213713
+t of energy,id-less,country,Managemen,Q2920921,1,t of energy country Managemen,t of energy_id-less,Managemen_Q2920921
+tar,Q546936,instance of,internationally agreed,Q56905688,1,tar instance of internationally agreed,tar_Q546936,internationally agreed_Q56905688
+technological,Q184199,subclass of,ﬁnancial,Q22687,1,technological subclass of ﬁnancial,technological_Q184199,ﬁnancial_Q22687
+technology,Q11016,has part,provide,Q18383,1,technology has part provide,technology_Q11016,provide_Q18383
+technology,Q11016,has part,ﬁnancial,Q22687,1,technology has part ﬁnancial,technology_Q11016,ﬁnancial_Q22687
+technology,Q11016,part of,global,Q13780930,1,technology part of global,technology_Q11016,global_Q13780930
+technology,Q11016,part of,science,Q336,1,technology part of science,technology_Q11016,science_Q336
+technology bank,id-less,subclass of,bank,Q22687,1,technology bank subclass of bank,technology bank_id-less,bank_Q22687
+technology developm,Q96107174,subclass of,developm,Q213713,1,technology developm subclass of developm,technology developm_Q96107174,developm_Q213713
+technologyValue,id-less,facet of,mobile network,Q535695,1,technologyValue facet of mobile network,technologyValue_id-less,mobile network_Q535695
+tes,Q466530,instance of,contribu,Q482980,1,tes instance of contribu,tes_Q466530,contribu_Q482980
+the Means,Q114460297,instance of,Means,Q12894677,1,the Means instance of Means,the Means_Q114460297,Means_Q12894677
+those,Q7238501,opposite of,poor,Q5729485,1,those opposite of poor,those_Q7238501,poor_Q5729485
+ti-R,Q910228,subclass of,R,Q129,1,ti-R subclass of R,ti-R_Q910228,R_Q129
+tional,id-less,has part,S,Q131,1,tional has part S,tional_id-less,S_Q131
+tobacco use,Q67171878,subclass of,use,Q1724915,1,tobacco use subclass of use,tobacco use_Q67171878,use_Q1724915
+tor Experience,id-less,instance of,Experience,Q164359,1,tor Experience instance of Experience,tor Experience_id-less,Experience_Q164359
+toring strategies,id-less,has part,moni,Q6688457,1,toring strategies has part moni,toring strategies_id-less,moni_Q6688457
+total value,Q7828152,has part,industry value added,id-less,1,total value has part industry value added,total value_Q7828152,industry value added_id-less
+r,Q129,said to be the same as,t,Q127,1,r said to be the same as t,r_Q129,t_Q127
+quality,Q1207505,said to be the same as,reliable,Q11348540,1,quality said to be the same as reliable,quality_Q1207505,reliable_Q11348540
+infants,Q998,instance of,safe,Q471898,1,infants instance of safe,infants_Q998,safe_Q471898
+mode of transport,Q334166,subclass of,transport,Q7590,1,mode of transport subclass of transport,mode of transport_Q334166,transport_Q7590
+m,Q11573,part of,genital,Q4620674,1,m part of genital,m_Q11573,genital_Q4620674
+m,Q11573,part of,resource,Q1554231,1,m part of resource,m_Q11573,resource_Q1554231
+malnut,Q12167,instance of,rition,id-less,1,malnut instance of rition,malnut_Q12167,rition_id-less
+mana,Q584066,part of,gement,Q4808894,1,mana part of gement,mana_Q584066,gement_Q4808894
+mana gement,id-less,part of,gement,Q4808894,1,mana gement part of gement,mana gement_id-less,gement_Q4808894
+means of imp,Q26325131,said to be the same as,Strengthen the means of imp,id-less,1,means of imp said to be the same as Strengthen the means of imp,means of imp_Q26325131,Strengthen the means of imp_id-less
+mechanism,Q517596,has part,building mechanism,Q84474093,1,mechanism has part building mechanism,mechanism_Q517596,building mechanism_Q84474093
+median,Q226995,instance of,standard deviation,Q159375,1,median instance of standard deviation,median_Q226995,standard deviation_Q159375
+men,Q8441,has part,new,Q33979,1,men has part new,men_Q8441,new_Q33979
+mi nes,id-less,has part,History of mi nes,id-less,1,mi nes has part History of mi nes,mi nes_id-less,History of mi nes_id-less
+mic and So,id-less,has part,So,Q1045,1,mic and So has part So,mic and So_id-less,So_Q1045
+mine,Q820477,has effect,recover,Q3284009,1,mine has effect recover,mine_Q820477,recover_Q3284009
+mobile telephone,Q17517,use,sex,Q10525,1,mobile telephone use sex,mobile telephone_Q17517,sex_Q10525
+money laundering,Q151900,facet of,Anti corruption,Q60741353,1,money laundering facet of Anti corruption,money laundering_Q151900,Anti corruption_Q60741353
+pul,Q199804,instance of,opul,Q2460916,1,pul instance of opul,pul_Q199804,opul_Q2460916
+multiple sou,Q38184786,subclass of,sou,Q56508,1,multiple sou subclass of sou,multiple sou_Q38184786,sou_Q56508
+narcotic drug,Q109044725,subclass of,abuse,Q600571,1,narcotic drug subclass of abuse,narcotic drug_Q109044725,abuse_Q600571
+national deﬁnitions,id-less,part of,deﬁnitions,Q1749083,1,national deﬁnitions part of deﬁnitions,national deﬁnitions_id-less,deﬁnitions_Q1749083
+national strategies,Q81510957,subclass of,strategies,Q185451,1,national strategies subclass of strategies,national strategies_Q81510957,strategies_Q185451
+nationally appropriate,Q6979833,subclass of,appropriate,Q113903632,1,nationally appropriate subclass of appropriate,nationally appropriate_Q6979833,appropriate_Q113903632
+natural reso,Q188460,subclass of,reso,Q44558,1,natural reso subclass of reso,natural reso_Q188460,reso_Q44558
+ncount,Q42217193,instance of,count,Q28989,1,ncount instance of count,ncount_Q42217193,count_Q28989
+negative impacts,Q23911213,subclass of,impacts,Q90919717,1,negative impacts subclass of impacts,negative impacts_Q23911213,impacts_Q90919717
+neglected tropical diseases,Q929451,subclass of,diseases,Q12136,1,neglected tropical diseases subclass of diseases,neglected tropical diseases_Q929451,diseases_Q12136
+neonatal mortality,Q3324547,facet of,neonatal,Q898674,1,neonatal mortality facet of neonatal,neonatal mortality_Q3324547,neonatal_Q898674
+new,Q33979,part of,men,Q8441,1,new part of men,new_Q33979,men_Q8441
+newborn,Q576104,subclass of,death,Q4,1,newborn subclass of death,newborn_Q576104,death_Q4
+o-d,Q3666413,said to be the same as,d,Q573,1,o-d said to be the same as d,o-d_Q3666413,d_Q573
+m,Q11573,part of,existing m,Q46667859,1,m part of existing m,m_Q11573,existing m_Q46667859
+m,Q11573,part of,agricultural,Q5356428,1,m part of agricultural,m_Q11573,agricultural_Q5356428
+lthy lives,id-less,has part,promot,Q39809,1,lthy lives has part promot,lthy lives_id-less,promot_Q39809
+low,Q804970,said to be the same as,as low,Q477041,1,low said to be the same as as low,low_Q804970,as low_Q477041
+inform,Q539268,part of,planning,Q309100,1,inform part of planning,inform_Q539268,planning_Q309100
+infrastructure,Q121359,part of,evelopment,Q35138893,1,infrastructure part of evelopment,infrastructure_Q121359,evelopment_Q35138893
+infrastructure,Q121359,part of,regional,Q1218597,1,infrastructure part of regional,infrastructure_Q121359,regional_Q1218597
+infrastructure,Q121359,subclass of,services,Q114080183,1,infrastructure subclass of services,infrastructure_Q121359,services_Q114080183
+inhabitants,Q33829,is a list of,m,Q11573,1,inhabitants is a list of m,inhabitants_Q33829,m_Q11573
+innovation,Q174165,subclass of,technology,Q11016,1,innovation subclass of technology,innovation_Q174165,technology_Q11016
+integration,Q80091,facet of,education,Q8434,1,integration facet of education,integration_Q80091,education_Q8434
+integrity,Q1329012,facet of,relationships,Q24026687,1,integrity facet of relationships,integrity_Q1329012,relationships_Q24026687
+inter alia,Q6045037,has part,policy environment,Q33943936,1,inter alia has part policy environment,inter alia_Q6045037,policy environment_Q33943936
+internationa,Q718,part of,regional,Q1218597,1,internationa part of regional,internationa_Q718,regional_Q1218597
+island developing,id-less,subclass of,developing,Q3025401,1,island developing subclass of developing,island developing_id-less,developing_Q3025401
+island developing States,id-less,opposite of,developing States,id-less,1,island developing States opposite of developing States,island developing States_id-less,developing States_id-less
+jewellery,Q161439,part of,othe r,Q70021458,1,jewellery part of othe r,jewellery_Q161439,othe r_Q70021458
+knowledge,Q9081,has effect,enhance,Q101214003,1,knowledge has effect enhance,knowledge_Q9081,enhance_Q101214003
+labour,Q9630,has part,standar,Q159375,1,labour has part standar,labour_Q9630,standar_Q159375
+lactating,Q17018919,has cause,pregnant,Q20741850,1,lactating has cause pregnant,lactating_Q17018919,pregnant_Q20741850
+land,Q11081619,part of,other,Q48270,1,land part of other,land_Q11081619,other_Q48270
+lasting reality,id-less,subclass of,reality,Q667661,1,lasting reality subclass of reality,lasting reality_id-less,reality_Q667661
+least developed,Q752401,is a list of,countries,Q6256,1,least developed is a list of countries,least developed_Q752401,countries_Q6256
+least developed countries,Q752401,opposite of,developed countries,Q132453,1,least developed countries opposite of developed countries,least developed countries_Q752401,developed countries_Q132453
+less,Q76352,instance of,ratio,Q3481047,1,less instance of ratio,less_Q76352,ratio_Q3481047
+level,Q1046315,different from,Nations,Q597897,1,level different from Nations,level_Q1046315,Nations_Q597897
+litres,Q11582,facet of,pure alcohol,Q30912202,1,litres facet of pure alcohol,litres_Q11582,pure alcohol_Q30912202
+live births,Q64041327,subclass of,births,Q9225583,1,live births subclass of births,live births_Q64041327,births_Q9225583
+lives,Q842337,has part,pr omot,id-less,1,lives has part pr omot,lives_Q842337,pr omot_id-less
+local governm,Q6501447,subclass of,governm,Q83307,1,local governm subclass of governm,local governm_Q6501447,governm_Q83307
+location,Q2221906,part of,geographic,Q4006,1,location part of geographic,location_Q2221906,geographic_Q4006
+ofﬁcial developm ent a ssistance plu s other,id-less,subclass of,developm ent a ssistance plu s other,id-less,1,ofﬁcial developm ent a ssistance plu s other subclass of developm ent a ssistance plu s other,ofﬁcial developm ent a ssistance plu s other_id-less,developm ent a ssistance plu s other_id-less
+old,Q822282,follows,15 years,Q65057524,1,old follows 15 years,old_Q822282,15 years_Q65057524
+older,Q734398,opposite of,15 years,Q65057524,1,older opposite of 15 years,older_Q734398,15 years_Q65057524
+population,Q33829,has part,Proportion of the population,id-less,1,population has part Proportion of the population,population_Q33829,Proportion of the population_id-less
+positi ve reputation and legacy,id-less,has part,resour,Q54872,1,positi ve reputation and legacy has part resour,positi ve reputation and legacy_id-less,resour_Q54872
+poverty,Q10294,has part,all people,Q92079628,1,poverty has part all people,poverty_Q10294,all people_Q92079628
+poverty,Q10294,instance of,ages,Q816829,1,poverty instance of ages,poverty_Q10294,ages_Q816829
+poverty,Q10294,instance of,dimensions,Q95044734,1,poverty instance of dimensions,poverty_Q10294,dimensions_Q95044734
+poverty,Q10294,subclass of,all its,Q15263352,1,poverty subclass of all its,poverty_Q10294,all its_Q15263352
+pr omot,id-less,part of,lives,Q842337,1,pr omot part of lives,pr omot_id-less,lives_Q842337
+predictable,Q838446,subclass of,means,Q12894677,1,predictable subclass of means,predictable_Q838446,means_Q12894677
+pregnant,Q20741850,has cause,disabilities,Q5281167,1,pregnant has cause disabilities,pregnant_Q20741850,disabilities_Q5281167
+pregnant,Q20741850,has effect,lactating,Q17018919,1,pregnant has effect lactating,pregnant_Q20741850,lactating_Q17018919
+previous,Q7242420,opposite of,partner,Q728646,1,previous opposite of partner,previous_Q7242420,partner_Q728646
+printin,Q11034,use,print,Q11060274,1,printin use print,printin_Q11034,print_Q11060274
+private,Q158668,opposite of,public,Q294440,1,private opposite of public,private_Q158668,public_Q294440
+private research,Q57310495,part of,public,Q294440,1,private research part of public,private research_Q57310495,public_Q294440
+procurement,Q829492,has part,capacity building,Q1417724,1,procurement has part capacity building,procurement_Q829492,capacity building_Q1417724
+productive healt,id-less,subclass of,healt,Q31207,1,productive healt subclass of healt,productive healt_id-less,healt_Q31207
+programmes,Q39071357,different from,policies,Q47011897,1,programmes different from policies,programmes_Q39071357,policies_Q47011897
+prom,Q381364,instance of,levels,Q2315784,1,prom instance of levels,prom_Q381364,levels_Q2315784
+promot,Q39809,part of,lthy lives,id-less,1,promot part of lthy lives,promot_Q39809,lthy lives_id-less
+property,Q937228,instance of,forms of property,id-less,1,property instance of forms of property,property_Q937228,forms of property_id-less
+provide,Q18383,subclass of,technology,Q11016,1,provide subclass of technology,provide_Q18383,technology_Q11016
+provide access to m,id-less,different from,access to m,Q73673993,1,provide access to m different from access to m,provide access to m_id-less,access to m_Q73673993
+psychological,Q6667429,subclass of,violence,Q124490,1,psychological subclass of violence,psychological_Q6667429,violence_Q124490
+psychosocial,Q1534947,part of,pharmacological,Q718753,1,psychosocial part of pharmacological,psychosocial_Q1534947,pharmacological_Q718753
+public,Q294440,has part,private research,Q57310495,1,public has part private research,public_Q294440,private research_Q57310495
+public,Q294440,opposite of,private,Q158668,1,public opposite of private,public_Q294440,private_Q158668
+public health,Q189603,studies,particular,Q6502323,1,public health studies particular,public health_Q189603,particular_Q6502323
+public life,Q48990265,facet of,public,Q294440,1,public life facet of public,public life_Q48990265,public_Q294440
+populations,Q104619889,part of,population,Q33829,1,populations part of population,populations_Q104619889,population_Q33829
+poor,Q5729485,subclass of,people,Q5,1,poor subclass of people,poor_Q5729485,people_Q5
+omor,Q7090635,instance of,morr,Q1177880,1,omor instance of morr,omor_Q7090635,morr_Q1177880
+poor,Q5729485,opposite of,those,Q7238501,1,poor opposite of those,poor_Q5729485,those_Q7238501
+oppo rtunities,id-less,subclass of,we face,Q5428368,1,oppo rtunities subclass of we face,oppo rtunities_id-less,we face_Q5428368
+optim ally,id-less,product or material produced,diamond,Q5283,1,optim ally product or material produced diamond,optim ally_id-less,diamond_Q5283
+othe r,Q70021458,has part,jewellery,Q161439,1,othe r has part jewellery,othe r_Q70021458,jewellery_Q161439
+other,Q48270,has part,assistance,Q1643184,1,other has part assistance,other_Q48270,assistance_Q1643184
+other,Q48270,has part,land,Q11081619,1,other has part land,other_Q48270,land_Q11081619
+other,Q48270,part of,sexual,Q12198,1,other part of sexual,other_Q48270,sexual_Q12198
+ownership,Q6498684,part of,basic services,Q74832136,1,ownership part of basic services,ownership_Q6498684,basic services_Q74832136
+park expansion,id-less,has effect,expansion,Q9073584,1,park expansion has effect expansion,park expansion_id-less,expansion_Q9073584
+particular,Q6502323,studied by,public health,Q189603,1,particular studied by public health,particular_Q6502323,public health_Q189603
+partner,Q728646,opposite of,previous,Q7242420,1,partner opposite of previous,partner_Q728646,previous_Q7242420
+partner ship,id-less,subclass of,ship,Q11446,1,partner ship subclass of ship,partner ship_id-less,ship_Q11446
+partnered wom,Q91593934,instance of,Proportion,Q2631509,1,partnered wom instance of Proportion,partnered wom_Q91593934,Proportion_Q2631509
+pe r cap,id-less,part of,G DP,id-less,1,pe r cap part of G DP,pe r cap_id-less,G DP_id-less
+peopl,Q148,part of,indigenou,Q103817,1,peopl part of indigenou,peopl_Q148,indigenou_Q103817
+people,Q5,has effect,access,Q80689,1,people has effect access,people_Q5,access_Q80689
+people living on,Q88120051,said to be the same as,d,Q573,1,people living on said to be the same as d,people living on_Q88120051,d_Q573
+physical,Q413,subclass of,violence,Q124490,1,physical subclass of violence,physical_Q413,violence_Q124490
+pipe line,Q100162526,subclass of,supply,Q166656,1,pipe line subclass of supply,pipe line_Q100162526,supply_Q166656
+plac,Q24777719,instance of,age,Q185836,1,plac instance of age,plac_Q24777719,age_Q185836
+planning,Q309100,has part,inform,Q539268,1,planning has part inform,planning_Q309100,inform_Q539268
+planning,Q309100,has part,satisﬁed,Q7426259,1,planning has part satisﬁed,planning_Q309100,satisﬁed_Q7426259
+plant,Q756,part of,farm,Q131596,1,plant part of farm,plant_Q756,farm_Q131596
+plant and livestock gene,id-less,instance of,gene,Q7187,1,plant and livestock gene instance of gene,plant and livestock gene_id-less,gene_Q7187
+plant bank,Q74208559,country,na,Q49,1,plant bank country na,plant bank_Q74208559,na_Q49
+policies,Q47011897,different from,programmes,Q39071357,1,policies different from programmes,policies_Q47011897,programmes_Q39071357
+policy environment,Q33943936,part of,inter alia,Q6045037,1,policy environment part of inter alia,policy environment_Q33943936,inter alia_Q6045037
+poor,Q5729485,facet of,the poor,Q21171811,1,poor facet of the poor,poor_Q5729485,the poor_Q21171811
+Vision 2036,id-less,sport,Go,Q11413,1,Vision 2036 sport Go,Vision 2036_id-less,Go_Q11413
+UNITED,Q18716,has part,NA,Q49,1,UNITED has part NA,UNITED_Q18716,NA_Q49
+Vision,Q162668,subclass of,diamonds,Q74038,1,Vision subclass of diamonds,Vision_Q162668,diamonds_Q74038
+C omm unity,id-less,part of,Environme nt,id-less,1,C omm unity part of Environme nt,C omm unity_id-less,Environme nt_id-less
+Bots wana,id-less,instance of,busine ss,id-less,1,Bots wana instance of busine ss,Bots wana_id-less,busine ss_id-less
+Bots wana,id-less,subclass of,diamonds,Q74038,1,Bots wana subclass of diamonds,Bots wana_id-less,diamonds_Q74038
+Bots wana Minin g Company,id-less,product or material produced,Beers,Q954104,1,Bots wana Minin g Company product or material produced Beers,Bots wana Minin g Company_id-less,Beers_Q954104
+Botswana,Q963,office held by head of government,Minister J.G.,id-less,1,Botswana office held by head of government Minister J.G.,Botswana_Q963,Minister J.G._id-less
+Botswana,Q963,office held by head of government,President,Q30461,1,Botswana office held by head of government President,Botswana_Q963,President_Q30461
+Botswana,Q963,owned by,De Beers,Q471891,1,Botswana owned by De Beers,Botswana_Q963,De Beers_Q471891
+Build T rust,id-less,instance of,rust,Q575650,1,Build T rust instance of rust,Build T rust_id-less,rust_Q575650
+Build r esilient,id-less,product or material produced,esilient,id-less,1,Build r esilient product or material produced esilient,Build r esilient_id-less,esilient_id-less
+By 2030,Q39294345,point in time,2030,Q12799,1,By 2030 point in time 2030,By 2030_Q39294345,2030_Q12799
+"By 2030, end preventable",id-less,point in time,2030,Q12799,1,"By 2030, end preventable point in time 2030","By 2030, end preventable_id-less",2030_Q12799
+C,Q623,has part,4.4.3,id-less,1,C has part 4.4.3,C_Q623,4.4.3_id-less
+C,Q623,has part,t,Q127,1,C has part t,C_Q623,t_Q127
+C,Q623,part of,CT,Q779,1,C part of CT,C_Q623,CT_Q779
+C ompe,id-less,part of,World E conomic F orum,id-less,1,C ompe part of World E conomic F orum,C ompe_id-less,World E conomic F orum_id-less
+Boteti,Q137972,located in the administrative territorial entity,Tomorr ow,id-less,1,Boteti located in the administrative territorial entity Tomorr ow,Boteti_Q137972,Tomorr ow_id-less
+CC measures,id-less,has part,reduce,Q951651,1,CC measures has part reduce,CC measures_id-less,reduce_Q951651
+CE AND SECURITY,id-less,has part,SECURITY,Q2526135,1,CE AND SECURITY has part SECURITY,CE AND SECURITY_id-less,SECURITY_Q2526135
+CO 2 emission per unit of value added,id-less,facet of,CO 2,Q54814074,1,CO 2 emission per unit of value added facet of CO 2,CO 2 emission per unit of value added_id-less,CO 2_Q54814074
+CT,Q779,has part,C,Q623,1,CT has part C,CT_Q779,C_Q623
+CT,Q779,has part,ING,Q645708,1,CT has part ING,CT_Q779,ING_Q645708
+Chambe,Q180516,contains administrative territorial entity,Governme nt,id-less,1,Chambe contains administrative territorial entity Governme nt,Chambe_Q180516,Governme nt_id-less
+Child Growth,Q113482897,part of,Health Or ganization,id-less,1,Child Growth part of Health Or ganization,Child Growth_Q113482897,Health Or ganization_id-less
+Child Growth Standar,Q72422686,publisher,W HO,Q88372611,1,Child Growth Standar publisher W HO,Child Growth Standar_Q72422686,W HO_Q88372611
+Civil,Q8676,practiced by,Engineer,Q81096,1,Civil practiced by Engineer,Civil_Q8676,Engineer_Q81096
+Com pliance,id-less,has part,core,Q23595,1,Com pliance has part core,Com pliance_id-less,core_Q23595
+Comm unity Projects over the L ast 3 Year,id-less,depicts,Figure 6,Q79984570,1,Comm unity Projects over the L ast 3 Year depicts Figure 6,Comm unity Projects over the L ast 3 Year_id-less,Figure 6_Q79984570
+Comm unity Trust,id-less,subsidiary,Village Developme nt,id-less,1,Comm unity Trust subsidiary Village Developme nt,Comm unity Trust_id-less,Village Developme nt_id-less
+Companie,Q257303,industry,50% share,id-less,1,Companie industry 50% share,Companie_Q257303,50% share_id-less
+Boteti diamond story,id-less,located in the administrative territorial entity,Orapa,Q859708,1,Boteti diamond story located in the administrative territorial entity Orapa,Boteti diamond story_id-less,Orapa_Q859708
+Born Ba,Q1986132,instance of,Born,Q502343,1,Born Ba instance of Born,Born Ba_Q1986132,Born_Q502343
+AND,Q228,has part,S,Q131,1,AND has part S,AND_Q228,S_Q131
+An occasion to mark the signing,id-less,depicts,Figure 1,Q22908384,1,An occasion to mark the signing depicts Figure 1,An occasion to mark the signing_id-less,Figure 1_Q22908384
+AND THE S,Q204085,has part,S,Q131,1,AND THE S has part S,AND THE S_Q204085,S_Q131
+AP,Q40130,located in the administrative territorial entity,AL,Q222,1,AP located in the administrative territorial entity AL,AP_Q40130,AL_Q222
+AP SHO,Q10354288,subclass of,SHO,Q23589,1,AP SHO subclass of SHO,AP SHO_Q10354288,SHO_Q23589
+Achie v e gender,id-less,instance of,gender,Q48277,1,Achie v e gender instance of gender,Achie v e gender_id-less,gender_Q48277
+Achieve,Q10998095,has part,Goal,Q4503831,1,Achieve has part Goal,Achieve_Q10998095,Goal_Q4503831
+Action and the outcom,id-less,instance of,outcom,Q2995644,1,Action and the outcom instance of outcom,Action and the outcom_id-less,outcom_Q2995644
+Adolescent birth rate,Q81897680,instance of,birth rate,Q203516,1,Adolescent birth rate instance of birth rate,Adolescent birth rate_Q81897680,birth rate_Q203516
+Agriculture export,Q64315233,subclass of,export,Q182722,1,Agriculture export subclass of export,Agriculture export_Q64315233,export_Q182722
+Air 720906,id-less,point in time,720906,Q96919658,1,Air 720906 point in time 720906,Air 720906_id-less,720906_Q96919658
+Ali,Q39619,ranking,3.2,Q29720093,1,Ali ranking 3.2,Ali_Q39619,3.2_Q29720093
+All,Q1,has part,All L,Q28130581,1,All has part All L,All_Q1,All L_Q28130581
+All L,Q28130581,part of,All,Q1,1,All L part of All,All L_Q28130581,All_Q1
+All W,Q175315,has part,W,Q128,1,All W has part W,All W_Q175315,W_Q128
+Anti-mone y launderin g,id-less,instance of,launderin,Q852100,1,Anti-mone y launderin g instance of launderin,Anti-mone y launderin g_id-less,launderin_Q852100
+Beijing Platform,Q31444683,located in the administrative territorial entity,Beijing,Q956,1,Beijing Platform located in the administrative territorial entity Beijing,Beijing Platform_Q31444683,Beijing_Q956
+Arable A,Q99998319,instance of,Arable,Q63517725,1,Arable A instance of Arable,Arable A_Q99998319,Arable_Q63517725
+Automati on,id-less,part of,Instru mentat ion 3,id-less,1,Automati on part of Instru mentat ion 3,Automati on_id-less,Instru mentat ion 3_id-less
+B,Q8799,subclass of,Hepatitis B,Q6853,1,B subclass of Hepatitis B,B_Q8799,Hepatitis B_Q6853
+BMinin g,id-less,product or material produced,diamonds,Q74038,1,BMinin g product or material produced diamonds,BMinin g_id-less,diamonds_Q74038
+BOTSW,Q963,has part,ANA VOLUNT,Q71271418,1,BOTSW has part ANA VOLUNT,BOTSW_Q963,ANA VOLUNT_Q71271418
+BOTSW,Q963,instance of,VOLUNT,Q1509,1,BOTSW instance of VOLUNT,BOTSW_Q963,VOLUNT_Q1509
+BOTSW,Q963,member of,ANA,Q482671,1,BOTSW member of ANA,BOTSW_Q963,ANA_Q482671
+BOTSWANA DOME STICATED,id-less,instance of,STICATED,id-less,1,BOTSWANA DOME STICATED instance of STICATED,BOTSWANA DOME STICATED_id-less,STICATED_id-less
+BPP com prise s,id-less,instance of,best practice principle,Q37794211,1,BPP com prise s instance of best practice principle,BPP com prise s_id-less,best practice principle_Q37794211
+BWP,Q897070,has part,BWP28 million,id-less,1,BWP has part BWP28 million,BWP_Q897070,BWP28 million_id-less
+BWP28 million,id-less,part of,BWP,Q897070,1,BWP28 million part of BWP,BWP28 million_id-less,BWP_Q897070
+BWP4,id-less,instance of,comm unity,id-less,1,BWP4 instance of comm unity,BWP4_id-less,comm unity_id-less
+Be P assiona te,id-less,part of,P assiona te,id-less,1,Be P assiona te part of P assiona te,Be P assiona te_id-less,P assiona te_id-less
+Council,Q4358176,has part,RJC,Q30288542,1,Council has part RJC,Council_Q4358176,RJC_Q30288542
+Coverage of treatm,id-less,part of,3.5,Q6116798,1,Coverage of treatm part of 3.5,Coverage of treatm_id-less,3.5_Q6116798
+DIAMOND S FOR DE VELOPMENT,id-less,product or material produced,diamonds,Q74038,1,DIAMOND S FOR DE VELOPMENT product or material produced diamonds,DIAMOND S FOR DE VELOPMENT_id-less,diamonds_Q74038
+Expenditur,Q760120,part of,Household Income and Expenditur,Q46770781,1,Expenditur part of Household Income and Expenditur,Expenditur_Q760120,Household Income and Expenditur_Q46770781
+Efﬁcien t use,id-less,used by,Efﬁcien,Q1034411,1,Efﬁcien t use used by Efﬁcien,Efﬁcien t use_id-less,Efﬁcien_Q1034411
+Employ,Q178790,product or material produced,ees,Q1299166,1,Employ product or material produced ees,Employ_Q178790,ees_Q1299166
+End hunger,id-less,said to be the same as,hunger,Q165947,1,End hunger said to be the same as hunger,End hunger_id-less,hunger_Q165947
+Endin,Q31844756,part of,SDG 3,Q50216838,1,Endin part of SDG 3,Endin_Q31844756,SDG 3_Q50216838
+Endin,Q31844756,part of,SDG 9,Q53581219,1,Endin part of SDG 9,Endin_Q31844756,SDG 9_Q53581219
+Engineer,Q81096,field of this occupation,Civil,Q8676,1,Engineer field of this occupation Civil,Engineer_Q81096,Civil_Q8676
+Ensure,Q5380065,instance of,5.5,Q60724394,1,Ensure instance of 5.5,Ensure_Q5380065,5.5_Q60724394
+Ensure,Q5380065,instance of,signiﬁcant mobilization,Q35623657,1,Ensure instance of signiﬁcant mobilization,Ensure_Q5380065,signiﬁcant mobilization_Q35623657
+Ensure,Q5380065,instance of,universal acc,Q15755625,1,Ensure instance of universal acc,Ensure_Q5380065,universal acc_Q15755625
+Environme nt,id-less,has part,C omm unity,id-less,1,Environme nt has part C omm unity,Environme nt_id-less,C omm unity_id-less
+Environmental,Q10485087,subclass of,Environment,Q2249676,1,Environmental subclass of Environment,Environmental_Q10485087,Environment_Q2249676
+Establishme nt of a Busine ss Park,id-less,instance of,busine ss park,id-less,1,Establishme nt of a Busine ss Park instance of busine ss park,Establishme nt of a Busine ss Park_id-less,busine ss park_id-less
+Ethics,Q9465,instance of,themes,Q1187071,1,Ethics instance of themes,Ethics_Q9465,themes_Q1187071
+Fixed Inter,Q65230090,point in time,17.6,Q62125185,1,Fixed Inter point in time 17.6,Fixed Inter_Q65230090,17.6_Q62125185
+DIMENSIONS,Q95044734,instance of,Priority,Q11888847,1,DIMENSIONS instance of Priority,DIMENSIONS_Q95044734,Priority_Q11888847
+Food,Q2095,subclass of,security,Q2526135,1,Food subclass of security,Food_Q2095,security_Q2526135
+Foreign direct investm,Q490513,number of participants,17,Q40118,1,Foreign direct investm number of participants 17,Foreign direct investm_Q490513,17_Q40118
+Free and f air com,id-less,instance of,petition,Q697279,1,Free and f air com instance of petition,Free and f air com_id-less,petition_Q697279
+Free and inf ormed,id-less,instance of,inf ormed,id-less,1,Free and inf ormed instance of inf ormed,Free and inf ormed_id-less,inf ormed_id-less
+Freedom of associati,Q688503,has part,associati,Q2736,1,Freedom of associati has part associati,Freedom of associati_Q688503,associati_Q2736
+Fundin,Q5110973,has part,Fundin g,id-less,1,Fundin has part Fundin g,Fundin_Q5110973,Fundin g_id-less
+Fundin g,id-less,part of,Fundin,Q5110973,1,Fundin g part of Fundin,Fundin g_id-less,Fundin_Q5110973
+G 2,Q3349695,instance of,2,Q200,1,G 2 instance of 2,G 2_Q3349695,2_Q200
+GDP,Q12638,instance of,proportion,Q2631509,1,GDP instance of proportion,GDP_Q12638,proportion_Q2631509
+GDP,Q12638,instance of,proportion of GDP,id-less,1,GDP instance of proportion of GDP,GDP_Q12638,proportion of GDP_id-less
+GOVERNANCE,Q1553864,applies to jurisdiction,PEA,Q25237,1,GOVERNANCE applies to jurisdiction PEA,GOVERNANCE_Q1553864,PEA_Q25237
+Game Park,Q20268453,instance of,extension,Q184148,1,Game Park instance of extension,Game Park_Q20268453,extension_Q184148
+Game Park extension,id-less,instance of,com pone nt,id-less,1,Game Park extension instance of com pone nt,Game Park extension_id-less,com pone nt_id-less
+Efﬁcien,Q1034411,uses,Efﬁcien t use,id-less,1,Efﬁcien uses Efﬁcien t use,Efﬁcien_Q1034411,Efﬁcien t use_id-less
+Economic,Q8134,instance of,themes,Q1187071,1,Economic instance of themes,Economic_Q8134,themes_Q1187071
+ENVIRONMENT,Q2249676,facet of,VIRONMENT,id-less,1,ENVIRONMENT facet of VIRONMENT,ENVIRONMENT_Q2249676,VIRONMENT_id-less
+EDUCA TIONHIGHER EDUCA TION,id-less,follows,EDUCA TION,id-less,1,EDUCA TIONHIGHER EDUCA TION follows EDUCA TION,EDUCA TIONHIGHER EDUCA TION_id-less,EDUCA TION_id-less
+Damtsh aa Mine,id-less,located in the administrative territorial entity,Letlhakane,Q167301,1,Damtsh aa Mine located in the administrative territorial entity Letlhakane,Damtsh aa Mine_id-less,Letlhakane_Q167301
+De,Q183,instance of,tional,id-less,1,De instance of tional,De_Q183,tional_id-less
+De Beers,Q471891,country,Botswana,Q963,1,De Beers country Botswana,De Beers_Q471891,Botswana_Q963
+De Beers,Q471891,owner of,Botswana,Q963,1,De Beers owner of Botswana,De Beers_Q471891,Botswana_Q963
+De Beers Group,Q471891,chairperson,Seretse,Q219962,1,De Beers Group chairperson Seretse,De Beers Group_Q471891,Seretse_Q219962
+De Beers Group,Q471891,subsidiary,Debswana Diamond Company,Q539206,1,De Beers Group subsidiary Debswana Diamond Company,De Beers Group_Q471891,Debswana Diamond Company_Q539206
+Debswana,Q539206,has part,Value C,Q21510865,1,Debswana has part Value C,Debswana_Q539206,Value C_Q21510865
+Debswana,Q539206,headquarters location,Jwane ng,id-less,1,Debswana headquarters location Jwane ng,Debswana_Q539206,Jwane ng_id-less
+Debswana,Q539206,instance of,S trategy,id-less,1,Debswana instance of S trategy,Debswana_Q539206,S trategy_id-less
+Debswana,Q539206,instance of,SDGs,Q7649586,1,Debswana instance of SDGs,Debswana_Q539206,SDGs_Q7649586
+Debswana,Q539206,subclass of,diamonds,Q74038,1,Debswana subclass of diamonds,Debswana_Q539206,diamonds_Q74038
+Debswana 2018,id-less,point in time,2018,Q25291,1,Debswana 2018 point in time 2018,Debswana 2018_id-less,2018_Q25291
+Debswana Corpora te Centre,id-less,headquarters location,Gabor one,id-less,1,Debswana Corpora te Centre headquarters location Gabor one,Debswana Corpora te Centre_id-less,Gabor one_id-less
+Debswana Diamond Company,Q539206,parent organization,De Beers Group,Q471891,1,Debswana Diamond Company parent organization De Beers Group,Debswana Diamond Company_Q539206,De Beers Group_Q471891
+Debt service,Q1713926,has part,exports of goods,id-less,1,Debt service has part exports of goods,Debt service_Q1713926,exports of goods_id-less
+Developm,Q213713,part of,Population,Q33829,1,Developm part of Population,Developm_Q213713,Population_Q33829
+Development 17.6,id-less,point in time,17,Q40118,1,Development 17.6 point in time 17,Development 17.6_id-less,17_Q40118
+Direct econom,Q47576690,has part,1.5,Q20970431,1,Direct econom has part 1.5,Direct econom_Q47576690,1.5_Q20970431
+Doha Declaration,Q844801,location,Doha,Q3861,1,Doha Declaration location Doha,Doha Declaration_Q844801,Doha_Q3861
+E S,Q1273069,instance of,S,Q131,1,E S instance of S,E S_Q1273069,S_Q131
+E ngineering,id-less,part of,Mining E ngineering,id-less,1,E ngineering part of Mining E ngineering,E ngineering_id-less,Mining E ngineering_id-less
+E-,Q25419,has part,E,Q684,1,E- has part E,E-_Q25419,E_Q684
+ECO2MAN,id-less,subclass of,energy eﬃcie ncy,id-less,1,ECO2MAN subclass of energy eﬃcie ncy,ECO2MAN_id-less,energy eﬃcie ncy_id-less
+ECONOMIC,Q8134,opposite of,MACRO,Q629579,1,ECONOMIC opposite of MACRO,ECONOMIC_Q8134,MACRO_Q629579
+ECONOMIC AND SOCIAL DE VEL OPMENT,id-less,has part,SOCIAL DE VEL OPMENT,id-less,1,ECONOMIC AND SOCIAL DE VEL OPMENT has part SOCIAL DE VEL OPMENT,ECONOMIC AND SOCIAL DE VEL OPMENT_id-less,SOCIAL DE VEL OPMENT_id-less
+ED UCA TION,id-less,part of,I NFR ASTRUCTURE AND ED UCA TION,id-less,1,ED UCA TION part of I NFR ASTRUCTURE AND ED UCA TION,ED UCA TION_id-less,I NFR ASTRUCTURE AND ED UCA TION_id-less
+EDUCA TION,id-less,followed by,EDUCA TIONHIGHER EDUCA TION,id-less,1,EDUCA TION followed by EDUCA TIONHIGHER EDUCA TION,EDUCA TION_id-less,EDUCA TIONHIGHER EDUCA TION_id-less
+AND RECOVER,id-less,instance of,RECOVER,Q3284009,1,AND RECOVER instance of RECOVER,AND RECOVER_id-less,RECOVER_Q3284009
+ANA VOLUNT,Q71271418,part of,BOTSW,Q963,1,ANA VOLUNT part of BOTSW,ANA VOLUNT_Q71271418,BOTSW_Q963
+Goal,Q4503831,part of,Achieve,Q10998095,1,Goal part of Achieve,Goal_Q4503831,Achieve_Q10998095
+2 De,Q2296,point in time,2,Q200,1,2 De point in time 2,2 De_Q2296,2_Q200
+17.18,Q55812588,point in time,17,Q40118,1,17.18 point in time 17,17.18_Q55812588,17_Q40118
+17.20%,id-less,point in time,17,Q40118,1,17.20% point in time 17,17.20%_id-less,17_Q40118
+17.4,Q107114892,point in time,17,Q40118,1,17.4 point in time 17,17.4_Q107114892,17_Q40118
+18%,Q57424748,area,18,Q38712,1,18% area 18,18%_Q57424748,18_Q38712
+19,Q39850,said to be the same as,15,Q38701,1,19 said to be the same as 15,19_Q39850,15_Q38701
+19.3%,id-less,point in time,19,Q39850,1,19.3% point in time 19,19.3%_id-less,19_Q39850
+2,Q200,followed by,3,Q201,1,2 followed by 3,2_Q200,3_Q201
+2,Q200,follows,1,Q199,1,2 follows 1,2_Q200,1_Q199
+2,Q200,part of,SDG,Q7649586,1,2 part of SDG,2_Q200,SDG_Q7649586
+2,Q200,shares border with,1,Q199,1,2 shares border with 1,2_Q200,1_Q199
+2,Q200,shares border with,3,Q201,1,2 shares border with 3,2_Q200,3_Q201
+2,Q200,shares border with,5,Q203,1,2 shares border with 5,2_Q200,5_Q203
+2,Q200,shares border with,9,Q19108,1,2 shares border with 9,2_Q200,9_Q19108
+2 Dis,Q77559070,instance of,Dis,Q21296543,1,2 Dis instance of Dis,2 Dis_Q77559070,Dis_Q21296543
+151.6%,id-less,point in time,151,Q720992,1,151.6% point in time 151,151.6%_id-less,151_Q720992
+2 P,Q49546,point in time,2,Q200,1,2 P point in time 2,2 P_Q49546,2_Q200
+2.0,Q21095433,point in time,2,Q200,1,2.0 point in time 2,2.0_Q21095433,2_Q200
+2.2,Q22231113,point in time,2,Q200,1,2.2 point in time 2,2.2_Q22231113,2_Q200
+2.4,Q101052353,point in time,2,Q200,1,2.4 point in time 2,2.4_Q101052353,2_Q200
+2.b.1,Q57595391,point in time,2,Q200,1,2.b.1 point in time 2,2.b.1_Q57595391,2_Q200
+2010-2011BOTSW ANA,id-less,sports season of league or competition,BOTSW ANA,id-less,1,2010-2011BOTSW ANA sports season of league or competition BOTSW ANA,2010-2011BOTSW ANA_id-less,BOTSW ANA_id-less
+2017 12BOTSW,id-less,point in time,2017,Q25290,1,2017 12BOTSW point in time 2017,2017 12BOTSW_id-less,2017_Q25290
+2017 13BOTSW,id-less,point in time,2017,Q25290,1,2017 13BOTSW point in time 2017,2017 13BOTSW_id-less,2017_Q25290
+2017 16BOTSW,id-less,point in time,2017,Q25290,1,2017 16BOTSW point in time 2017,2017 16BOTSW_id-less,2017_Q25290
+2017 17BOTSW ANA VOLUNT,id-less,point in time,2017,Q25290,1,2017 17BOTSW ANA VOLUNT point in time 2017,2017 17BOTSW ANA VOLUNT_id-less,2017_Q25290
+2017 18BOTSW,id-less,point in time,2017,Q25290,1,2017 18BOTSW point in time 2017,2017 18BOTSW_id-less,2017_Q25290
+2017 19BOTSW,id-less,point in time,2017,Q25290,1,2017 19BOTSW point in time 2017,2017 19BOTSW_id-less,2017_Q25290
+2017 EXECUTIVE,id-less,point in time,2017,Q25290,1,2017 EXECUTIVE point in time 2017,2017 EXECUTIVE_id-less,2017_Q25290
+15BOTSW ANA VOLUNT,id-less,instance of,VOLUNT,Q1509,1,15BOTSW ANA VOLUNT instance of VOLUNT,15BOTSW ANA VOLUNT_id-less,VOLUNT_Q1509
+15 years,Q65057524,opposite of,older,Q734398,1,15 years opposite of older,15 years_Q65057524,older_Q734398
+ANA,Q482671,has part,R,Q129,1,ANA has part R,ANA_Q482671,R_Q129
+"1,000",Q43016,number of,1,Q199,1,"1,000 number of 1","1,000_Q43016",1_Q199
+,id-less,part of,Pr,Q1183,1, part of Pr,_id-less,Pr_Q1183
+-49,Q101245461,area,49,Q712758,1,-49 area 49,-49_Q101245461,49_Q712758
+1,Q199,facet of,social protection,Q2483208,1,1 facet of social protection,1_Q199,social protection_Q2483208
+1,Q199,has part,M,Q11573,1,1 has part M,1_Q199,M_Q11573
+1,Q199,number of,"1,000",Q43016,1,"1 number of 1,000",1_Q199,"1,000_Q43016"
+1,Q199,part of,SDG 1,Q50214636,1,1 part of SDG 1,1_Q199,SDG 1_Q50214636
+1,Q199,said to be the same as,5,Q203,1,1 said to be the same as 5,1_Q199,5_Q203
+1,Q199,said to be the same as,s,Q131,1,1 said to be the same as s,1_Q199,s_Q131
+1 Bo,Q2403551,instance of,Bo,Q750,1,1 Bo instance of Bo,1 Bo_Q2403551,Bo_Q750
+1 Cr,Q5175348,instance of,Cr,Q800,1,1 Cr instance of Cr,1 Cr_Q5175348,Cr_Q800
+1 De,Q130365,point in time,1,Q199,1,1 De point in time 1,1 De_Q130365,1_Q199
+1 Under - ﬁve m,id-less,event distance,2,Q200,1,1 Under - ﬁve m event distance 2,1 Under - ﬁve m_id-less,2_Q200
+1 million people,Q17655985,is a list of,workers per 1 million people,id-less,1,1 million people is a list of workers per 1 million people,1 million people_Q17655985,workers per 1 million people_id-less
+"1,2",Q407646,part of,SDG,Q7649586,1,"1,2 part of SDG","1,2_Q407646",SDG_Q7649586
+15 years,Q65057524,followed by,old,Q822282,1,15 years followed by old,15 years_Q65057524,old_Q822282
+1.3,Q30336909,point in time,1,Q199,1,1.3 point in time 1,1.3_Q30336909,1_Q199
+1.3 Im,id-less,part of,Im,Q9676,1,1.3 Im part of Im,1.3 Im_id-less,Im_Q9676
+1.4,Q30339152,point in time,1,Q199,1,1.4 point in time 1,1.4_Q30339152,1_Q199
+1.5,Q20970431,part of,Direct econom,Q47576690,1,1.5 part of Direct econom,1.5_Q20970431,Direct econom_Q47576690
+"100,000 live births",id-less,number of participants,70,Q712514,1,"100,000 live births number of participants 70","100,000 live births_id-less",70_Q712514
+11.3%,id-less,point in time,11,Q37136,1,11.3% point in time 11,11.3%_id-less,11_Q37136
+11BOTSW ANA VOLUNT,id-less,instance of,VOLUNT,Q1509,1,11BOTSW ANA VOLUNT instance of VOLUNT,11BOTSW ANA VOLUNT_id-less,VOLUNT_Q1509
+12 months,Q2807434,number of participants,12,Q36977,1,12 months number of participants 12,12 months_Q2807434,12_Q36977
+123456,Q64589596,point in time,12345,Q11185239,1,123456 point in time 12345,123456_Q64589596,12345_Q11185239
+14BOTSW ANA VOLUNT,id-less,instance of,VOLUNT,Q1509,1,14BOTSW ANA VOLUNT instance of VOLUNT,14BOTSW ANA VOLUNT_id-less,VOLUNT_Q1509
+15,Q38701,followed by,49 years,Q40062978,1,15 followed by 49 years,15_Q38701,49 years_Q40062978
+15,Q38701,point in time,age 15,id-less,1,15 point in time age 15,15_Q38701,age 15_id-less
+15,Q38701,said to be the same as,19,Q39850,1,15 said to be the same as 19,15_Q38701,19_Q39850
+201726 BOTSW ANA VOLUNT,id-less,participant,BOTSW ANA VOLUNT,id-less,1,201726 BOTSW ANA VOLUNT participant BOTSW ANA VOLUNT,201726 BOTSW ANA VOLUNT_id-less,BOTSW ANA VOLUNT_id-less
+201733 BOTSW ANA VOLUNT,id-less,participant in,BOTSW ANA VOLUNT,id-less,1,201733 BOTSW ANA VOLUNT participant in BOTSW ANA VOLUNT,201733 BOTSW ANA VOLUNT_id-less,BOTSW ANA VOLUNT_id-less
+20175,Q16604093,point in time,2017,Q25290,1,20175 point in time 2017,20175_Q16604093,2017_Q25290
+6BOTSW ANA VOLUNT,id-less,instance of,VOLUNT,Q1509,1,6BOTSW ANA VOLUNT instance of VOLUNT,6BOTSW ANA VOLUNT_id-less,VOLUNT_Q1509
+4.3,Q4031261,point in time,4,Q202,1,4.3 point in time 4,4.3_Q4031261,4_Q202
+4.4,Q34264,point in time,4,Q202,1,4.4 point in time 4,4.4_Q34264,4_Q202
+4.4.3,id-less,part of,C,Q623,1,4.4.3 part of C,4.4.3_id-less,C_Q623
+4.5,Q197243,point in time,4,Q202,1,4.5 point in time 4,4.5_Q197243,4_Q202
+49 years,Q40062978,follows,15,Q38701,1,49 years follows 15,49 years_Q40062978,15_Q38701
+4BOTSW ANA VOLUNT,id-less,instance of,VOLUNT,Q1509,1,4BOTSW ANA VOLUNT instance of VOLUNT,4BOTSW ANA VOLUNT_id-less,VOLUNT_Q1509
+5,Q203,said to be the same as,1,Q199,1,5 said to be the same as 1,5_Q203,1_Q199
+5,Q203,shares border with,1,Q199,1,5 shares border with 1,5_Q203,1_Q199
+5,Q203,shares border with,2,Q200,1,5 shares border with 2,5_Q203,2_Q200
+5,Q203,shares border with,9,Q19108,1,5 shares border with 9,5_Q203,9_Q19108
+5 C,Q410412,elevation above sea level,5,Q203,1,5 C elevation above sea level 5,5 C_Q410412,5_Q203
+5 T,Q416554,area,5,Q203,1,5 T area 5,5 T_Q416554,5_Q203
+6.4%,id-less,area,6,Q23488,1,6.4% area 6,6.4%_id-less,6_Q23488
+8,Q23355,facet of,Geology,Q1069,1,8 facet of Geology,8_Q23355,Geology_Q1069
+2050 S&SD,Q11018061,point in time,2050,Q49925,1,2050 S&SD point in time 2050,2050 S&SD_Q11018061,2050_Q49925
+9,Q19108,shares border with,1,Q199,1,9 shares border with 1,9_Q19108,1_Q199
+9,Q19108,shares border with,2,Q200,1,9 shares border with 2,9_Q19108,2_Q200
+9,Q19108,shares border with,5,Q203,1,9 shares border with 5,9_Q19108,5_Q203
+9.1,Q24634,part of,Passenger and freight volum es,id-less,1,9.1 part of Passenger and freight volum es,9.1_Q24634,Passenger and freight volum es_id-less
+9.2,Q12543,said to be the same as,Manufacturing value added as,id-less,1,9.2 said to be the same as Manufacturing value added as,9.2_Q12543,Manufacturing value added as_id-less
+9.5 Enhance scientiﬁc re search,id-less,facet of,scientiﬁc re search,id-less,1,9.5 Enhance scientiﬁc re search facet of scientiﬁc re search,9.5 Enhance scientiﬁc re search_id-less,scientiﬁc re search_id-less
+90 90 90 Strategy,id-less,facet of,UNAIDS,Q588982,1,90 90 90 Strategy facet of UNAIDS,90 90 90 Strategy_id-less,UNAIDS_Q588982
+A,Q577,instance of,tial,Q24343894,1,A instance of tial,A_Q577,tial_Q24343894
+A,Q577,part of,SDG 5,Q53581210,1,A part of SDG 5,A_Q577,SDG 5_Q53581210
+A S,Q504339,instance of,S,Q131,1,A S instance of S,A S_Q504339,S_Q131
+AIDS,Q12199,has cause,HIV,Q15787,1,AIDS has cause HIV,AIDS_Q12199,HIV_Q15787
+AIDS,Q12199,has cause,tuberculosis,Q12204,1,AIDS has cause tuberculosis,AIDS_Q12199,tuberculosis_Q12204
+AINABLE ENVIRONMENT,id-less,instance of,ENVIRONMENT,Q2249676,1,AINABLE ENVIRONMENT instance of ENVIRONMENT,AINABLE ENVIRONMENT_id-less,ENVIRONMENT_Q2249676
+4.2%,id-less,area,4,Q202,1,4.2% area 4,4.2%_id-less,4_Q202
+4.1,Q2816680,instance of,1,Q199,1,4.1 instance of 1,4.1_Q2816680,1_Q199
+4.0 ST,id-less,part of,ST,Q43115,1,4.0 ST part of ST,4.0 ST_id-less,ST_Q43115
+4 year,Q55962197,number of participants,4,Q202,1,4 year number of participants 4,4 year_Q55962197,4_Q202
+2050 S&SD S trategy,Q11018061,point in time,2050,Q49925,1,2050 S&SD S trategy point in time 2050,2050 S&SD S trategy_Q11018061,2050_Q49925
+23%,Q43009738,number of participants,23,Q48240,1,23% number of participants 23,23%_Q43009738,23_Q48240
+25 pe,Q1503464,number of participants,25,Q79986,1,25 pe number of participants 25,25 pe_Q1503464,25_Q79986
+25.7%,id-less,point in time,25,Q79986,1,25.7% point in time 25,25.7%_id-less,25_Q79986
+27%,id-less,area,27,Q433353,1,27% area 27,27%_id-less,27_Q433353
+28.9%,id-less,point in time,28,Q587465,1,28.9% point in time 28,28.9%_id-less,28_Q587465
+3,Q201,has part,Mechatr onics,id-less,1,3 has part Mechatr onics,3_Q201,Mechatr onics_id-less
+3,Q201,part of,SDG 3,Q50216838,1,3 part of SDG 3,3_Q201,SDG 3_Q50216838
+3,Q201,shares border with,1,Q199,1,3 shares border with 1,3_Q201,1_Q199
+3,Q201,shares border with,2,Q200,1,3 shares border with 2,3_Q201,2_Q200
+3,Q201,shares border with,5,Q203,1,3 shares border with 5,3_Q201,5_Q203
+3,Q201,shares border with,9,Q19108,1,3 shares border with 9,3_Q201,9_Q19108
+3 Civil Socie,id-less,instance of,Socie,Q36380,1,3 Civil Socie instance of Socie,3 Civil Socie_id-less,Socie_Q36380
+3 T,Q410546,area,3,Q201,1,3 T area 3,3 T_Q410546,3_Q201
+3.,Q201,ranking,3,Q201,1,3. ranking 3,3._Q201,3_Q201
+3.0 T,Q63806554,part of,T,Q127,1,3.0 T part of T,3.0 T_Q63806554,T_Q127
+3.2,Q29720093,sports league level,3,Q201,1,3.2 sports league level 3,3.2_Q29720093,3_Q201
+3.3.2,Q21133173,point in time,3,Q201,1,3.3.2 point in time 3,3.3.2_Q21133173,3_Q201
+3.4,Q29733805,point in time,3,Q201,1,3.4 point in time 3,3.4_Q29733805,3_Q201
+3.5 Number of people requiring interventions,id-less,point in time,3.5,Q6116798,1,3.5 Number of people requiring interventions point in time 3.5,3.5 Number of people requiring interventions_id-less,3.5_Q6116798
+3.7.2,Q57595429,point in time,3,Q201,1,3.7.2 point in time 3,3.7.2_Q57595429,3_Q201
+3.d.,Q57595449,part of,International Health Regulations,Q600315,1,3.d. part of International Health Regulations,3.d._Q57595449,International Health Regulations_Q600315
+36%,Q92940792,area,36,Q712794,1,36% area 36,36%_Q92940792,36_Q712794
+4,Q202,part of,SDG 4,Q98658975,1,4 part of SDG 4,4_Q202,SDG 4_Q98658975
+4 In,Q2287296,length,4,Q202,1,4 In length 4,4 In_Q2287296,4_Q202
+4 L,Q12460151,area,4,Q202,1,4 L area 4,4 L_Q12460151,4_Q202
+4 T,Q416114,area,4,Q202,1,4 T area 4,4 T_Q416114,4_Q202
+Geotechnical E ngineering 3,id-less,instance of,ngineering,id-less,1,Geotechnical E ngineering 3 instance of ngineering,Geotechnical E ngineering 3_id-less,ngineering_id-less
+Goal 1,Q50214636,sports league level,1,Q199,1,Goal 1 sports league level 1,Goal 1_Q50214636,1_Q199
+Village Developme nt,id-less,parent organization,Comm unity Trust,id-less,1,Village Developme nt parent organization Comm unity Trust,Village Developme nt_id-less,Comm unity Trust_id-less
+SDG 3,Q50216838,has part,3,Q201,1,SDG 3 has part 3,SDG 3_Q50216838,3_Q201
+S,Q131,part of,AND THE S,Q204085,1,S part of AND THE S,S_Q131,AND THE S_Q204085
+S,Q131,part of,SDG,Q7649586,1,S part of SDG,S_Q131,SDG_Q7649586
+S,Q131,part of,tional,id-less,1,S part of tional,S_Q131,tional_id-less
+S O,Q23427,instance of,O,Q629,1,S O instance of O,S O_Q23427,O_Q629
+S afety,id-less,performer,Debswana,Q539206,1,S afety performer Debswana,S afety_id-less,Debswana_Q539206
+SAFETY,Q10566551,facet of,HEALTH,Q12147,1,SAFETY facet of HEALTH,SAFETY_Q10566551,HEALTH_Q12147
+SDG,Q7649586,has part,"1,2",Q407646,1,"SDG has part 1,2",SDG_Q7649586,"1,2_Q407646"
+SDG,Q7649586,has part,2,Q200,1,SDG has part 2,SDG_Q7649586,2_Q200
+SDG,Q7649586,has part,I,Q1103,1,SDG has part I,SDG_Q7649586,I_Q1103
+SDG,Q7649586,has part,S,Q131,1,SDG has part S,SDG_Q7649586,S_Q131
+SDG,Q7649586,part of,TED,Q189021,1,SDG part of TED,SDG_Q7649586,TED_Q189021
+SDG 1,Q50214636,has part,1,Q199,1,SDG 1 has part 1,SDG 1_Q50214636,1_Q199
+SDG 13,Q53581236,point in time,13,Q37141,1,SDG 13 point in time 13,SDG 13_Q53581236,13_Q37141
+SDG 4,Q98658975,has part,4,Q202,1,SDG 4 has part 4,SDG 4_Q98658975,4_Q202
+Responsible Jewelry,id-less,industry,membe rs,id-less,1,Responsible Jewelry industry membe rs,Responsible Jewelry_id-less,membe rs_id-less
+SDG 5,Q53581210,has part,A,Q577,1,SDG 5 has part A,SDG 5_Q53581210,A_Q577
+SDG 6,Q48741129,point in time,6,Q23488,1,SDG 6 point in time 6,SDG 6_Q48741129,6_Q23488
+SDG 8,Q53581217,number of participants,8,Q23355,1,SDG 8 number of participants 8,SDG 8_Q53581217,8_Q23355
+SDG Im,id-less,instance of,SDG,Q7649586,1,SDG Im instance of SDG,SDG Im_id-less,SDG_Q7649586
+SDG1,Q50214636,has part,P,Q674,1,SDG1 has part P,SDG1_Q50214636,P_Q674
+SDGs,Q7649586,has part,Figure 5,Q74889021,1,SDGs has part Figure 5,SDGs_Q7649586,Figure 5_Q74889021
+SDGs,Q7649586,has part,Na,Q49,1,SDGs has part Na,SDGs_Q7649586,Na_Q49
+SDGs,Q7649586,has part,R,Q129,1,SDGs has part R,SDGs_Q7649586,R_Q129
+SDGs,Q7649586,has part,SDG,Q7649586,1,SDGs has part SDG,SDGs_Q7649586,SDG_Q7649586
+SDGs,Q7649586,instance of,principle,Q211364,1,SDGs instance of principle,SDGs_Q7649586,principle_Q211364
+SECURITY,Q2526135,part of,CE AND SECURITY,id-less,1,SECURITY part of CE AND SECURITY,SECURITY_Q2526135,CE AND SECURITY_id-less
+SOCIAL DE,Q49768,part of,HUMAN AND SOCIAL DE,id-less,1,SOCIAL DE part of HUMAN AND SOCIAL DE,SOCIAL DE_Q49768,HUMAN AND SOCIAL DE_id-less
+SOCIAL DE VEL OPMENT,id-less,part of,ECONOMIC AND SOCIAL DE VEL OPMENT,id-less,1,SOCIAL DE VEL OPMENT part of ECONOMIC AND SOCIAL DE VEL OPMENT,SOCIAL DE VEL OPMENT_id-less,ECONOMIC AND SOCIAL DE VEL OPMENT_id-less
+S,Q131,part of,AND,Q228,1,S part of AND,S_Q131,AND_Q228
+Respectin g cultural,id-less,facet of,cultural,Q11042,1,Respectin g cultural facet of cultural,Respectin g cultural_id-less,cultural_Q11042
+Priority to intergrate,id-less,subclass of,intergrate,Q19891276,1,Priority to intergrate subclass of intergrate,Priority to intergrate_id-less,intergrate_Q19891276
+Proportion of seats held by wom,id-less,number of participants,5,Q203,1,Proportion of seats held by wom number of participants 5,Proportion of seats held by wom_id-less,5_Q203
+Privacy,Q188728,has part,data,Q42848,1,Privacy has part data,Privacy_Q188728,data_Q42848
+Proactively minimising,id-less,subclass of,minimising,Q70467303,1,Proactively minimising subclass of minimising,Proactively minimising_id-less,minimising_Q70467303
+Product disclos ure,id-less,has part,disclos ure,id-less,1,Product disclos ure has part disclos ure,Product disclos ure_id-less,disclos ure_id-less
+Programme,Q170584,has part,Number,Q11563,1,Programme has part Number,Programme_Q170584,Number_Q11563
+Prom ote inclusive,id-less,point in time,9.2,Q12543,1,Prom ote inclusive point in time 9.2,Prom ote inclusive_id-less,9.2_Q12543
+Proporti,Q13365595,ranking,17,Q40118,1,Proporti ranking 17,Proporti_Q13365595,17_Q40118
+Proportion of births attended,id-less,subclass of,Proportion of births,id-less,1,Proportion of births attended subclass of Proportion of births,Proportion of births attended_id-less,Proportion of births_id-less
+Proportion of domestically generated,id-less,area,1,Q199,1,Proportion of domestically generated area 1,Proportion of domestically generated_id-less,1_Q199
+Proportion of individuals who o,id-less,instance of,5.b.,Q57595481,1,Proportion of individuals who o instance of 5.b.,Proportion of individuals who o_id-less,5.b._Q57595481
+Proportion of local breeds,id-less,instance of,classi,Q1747689,1,Proportion of local breeds instance of classi,Proportion of local breeds_id-less,classi_Q1747689
+Proportion of population below the,id-less,subclass of,population,Q33829,1,Proportion of population below the subclass of population,Proportion of population below the_id-less,population_Q33829
+Proportion of population covered by a,id-less,is a list of,countries by 2020,id-less,1,Proportion of population covered by a is a list of countries by 2020,Proportion of population covered by a_id-less,countries by 2020_id-less
+Proportion of population living in,id-less,is a list of,population,Q33829,1,Proportion of population living in is a list of population,Proportion of population living in_id-less,population_Q33829
+Proportion of seats held by wom,id-less,number of participants,5.1,Q60724383,1,Proportion of seats held by wom number of participants 5.1,Proportion of seats held by wom_id-less,5.1_Q60724383
+Respect for human rights,id-less,facet of,human rights,Q8458,1,Respect for human rights facet of human rights,Respect for human rights_id-less,human rights_Q8458
+Proportion of the population,id-less,part of,population,Q33829,1,Proportion of the population part of population,Proportion of the population_id-less,population_Q33829
+Proportion of total government spending,id-less,area,1,Q199,1,Proportion of total government spending area 1,Proportion of total government spending_id-less,1_Q199
+Proportion of women aged 20,id-less,is a list of,24 years,Q4631906,1,Proportion of women aged 20 is a list of 24 years,Proportion of women aged 20_id-less,24 years_Q4631906
+Proportion of women in m,id-less,number of participants,5,Q203,1,Proportion of women in m number of participants 5,Proportion of women in m_id-less,5_Q203
+Public Health,Q189603,facet of,Health,Q12147,1,Public Health facet of Health,Public Health_Q189603,Health_Q12147
+Pur pose,id-less,has part,V ision,id-less,1,Pur pose has part V ision,Pur pose_id-less,V ision_id-less
+Purpose,Q4503831,subclass of,diamonds,Q74038,1,Purpose subclass of diamonds,Purpose_Q4503831,diamonds_Q74038
+R,Q129,part of,ANA,Q482671,1,R part of ANA,R_Q129,ANA_Q482671
+R,Q129,part of,SDGs,Q7649586,1,R part of SDGs,R_Q129,SDGs_Q7649586
+RJC,Q30288542,part of,Council,Q4358176,1,RJC part of Council,RJC_Q30288542,Council_Q4358176
+Recognize and value,id-less,has part,Recognize,Q107329943,1,Recognize and value has part Recognize,Recognize and value_id-less,Recognize_Q107329943
+Research and development expenditure,Q17027735,country,countries,Q6256,1,Research and development expenditure country countries,Research and development expenditure_Q17027735,countries_Q6256
+Respect f,Q1186127,instance of,ghts,id-less,1,Respect f instance of ghts,Respect f_Q1186127,ghts_id-less
+ST,Q43115,has part,4.0 ST,id-less,1,ST has part 4.0 ST,ST_Q43115,4.0 ST_id-less
+SUSTAINABLE,Q66095801,has cause,INFRASTRUCTURE,Q121359,1,SUSTAINABLE has cause INFRASTRUCTURE,SUSTAINABLE_Q66095801,INFRASTRUCTURE_Q121359
+SUSTAINABLE,Q66095801,has parts of the class,TOWNS,Q22108005,1,SUSTAINABLE has parts of the class TOWNS,SUSTAINABLE_Q66095801,TOWNS_Q22108005
+Tsodilo Man agement Authorit,id-less,inception,2010,Q1995,1,Tsodilo Man agement Authorit inception 2010,Tsodilo Man agement Authorit_id-less,2010_Q1995
+T,Q127,has part,3.0 T,Q63806554,1,T has part 3.0 T,T_Q127,3.0 T_Q63806554
+TED,Q189021,has part,SDG,Q7649586,1,TED has part SDG,TED_Q189021,SDG_Q7649586
+TOWNS,Q22108005,has parts of the class,SUSTAINABLE,Q66095801,1,TOWNS has parts of the class SUSTAINABLE,TOWNS_Q22108005,SUSTAINABLE_Q66095801
+TRIPS,Q331647,part of,IPS,Q3517917,1,TRIPS part of IPS,TRIPS_Q331647,IPS_Q3517917
+Target,Q1046951,instance of,Indicato,Q3695082,1,Target instance of Indicato,Target_Q1046951,Indicato_Q3695082
+The Pri,Q7380,number of episodes,3,Q201,1,The Pri number of episodes 3,The Pri_Q7380,3_Q201
+The Pri,Q7380,number of episodes,4,Q202,1,The Pri number of episodes 4,The Pri_Q7380,4_Q202
+The T,Q603805,ranking,1,Q199,1,The T ranking 1,The T_Q603805,1_Q199
+The Technical College,Q64303099,located in the administrative territorial entity,Minin g,id-less,1,The Technical College located in the administrative territorial entity Minin g,The Technical College_Q64303099,Minin g_id-less
+Transpar,Q3026325,product or material produced,ﬁnancial,Q22687,1,Transpar product or material produced ﬁnancial,Transpar_Q3026325,ﬁnancial_Q22687
+Tsodilo Comm unity,id-less,facet of,Tsodilo Comm,id-less,1,Tsodilo Comm unity facet of Tsodilo Comm,Tsodilo Comm unity_id-less,Tsodilo Comm_id-less
+Tsodilo Comm unity Project,id-less,operator,BWP,Q897070,1,Tsodilo Comm unity Project operator BWP,Tsodilo Comm unity Project_id-less,BWP_Q897070
+Tsodilo Hills,Q214007,instance of,Hills,Q54050,1,Tsodilo Hills instance of Hills,Tsodilo Hills_Q214007,Hills_Q54050
+UN,Q1065,different from,United Nation,Q1065,1,UN different from United Nation,UN_Q1065,United Nation_Q1065
+SUSTAINABLE DE VELOPMENT GOALS,id-less,instance of,SDG,Q7649586,1,SUSTAINABLE DE VELOPMENT GOALS instance of SDG,SUSTAINABLE DE VELOPMENT GOALS_id-less,SDG_Q7649586
+UNDP,Q161718,parent organization,UN,Q1065,1,UNDP parent organization UN,UNDP_Q161718,UN_Q1065
+United Nation,Q1065,different from,UN,Q1065,1,United Nation different from UN,United Nation_Q1065,UN_Q1065
+United States dollar,Q4917,country,United States,Q30,1,United States dollar country United States,United States dollar_Q4917,United States_Q30
+V,Q25428,has part,al,Q222,1,V has part al,V_Q25428,al_Q222
+V ALUES,id-less,part of,PURPO SE,id-less,1,V ALUES part of PURPO SE,V ALUES_id-less,PURPO SE_id-less
+V ALUES,id-less,part of,VI SION,id-less,1,V ALUES part of VI SION,V ALUES_id-less,VI SION_id-less
+V alues BMinin g,id-less,subclass of,diamonds,Q74038,1,V alues BMinin g subclass of diamonds,V alues BMinin g_id-less,diamonds_Q74038
+V ision,id-less,part of,Pur pose,id-less,1,V ision part of Pur pose,V ision_id-less,Pur pose_id-less
+VI SION,id-less,part of,PURPO SE,id-less,1,VI SION part of PURPO SE,VI SION_id-less,PURPO SE_id-less
+VI SION,id-less,part of,V ALUES,id-less,1,VI SION part of V ALUES,VI SION_id-less,V ALUES_id-less
+VOLUNT,Q1509,has part,BOTSW,Q963,1,VOLUNT has part BOTSW,VOLUNT_Q1509,BOTSW_Q963
+VOLUNT ARY NA TIONAL REVIEW 2017,id-less,point in time,2017,Q25290,1,VOLUNT ARY NA TIONAL REVIEW 2017 point in time 2017,VOLUNT ARY NA TIONAL REVIEW 2017_id-less,2017_Q25290
+Value C,Q21510865,part of,Debswana,Q539206,1,Value C part of Debswana,Value C_Q21510865,Debswana_Q539206
+Sustainable use,Q64816625,subclass of,use,Q1724915,1,Sustainable use subclass of use,Sustainable use_Q64816625,use_Q1724915
+Sustainable Developme nt Goals,id-less,instance of,SDGs,Q7649586,1,Sustainable Developme nt Goals instance of SDGs,Sustainable Developme nt Goals_id-less,SDGs_Q7649586
+Sustainabilit y,id-less,facet of,busine ss,id-less,1,Sustainabilit y facet of busine ss,Sustainabilit y_id-less,busine ss_id-less
+Sustainabilit,Q219416,instance of,key,Q23445,1,Sustainabilit instance of key,Sustainabilit_Q219416,key_Q23445
+SUSTAINABLE DEVELOPMENT GOALS 2017214,id-less,point in time,2017,Q25290,1,SUSTAINABLE DEVELOPMENT GOALS 2017214 point in time 2017,SUSTAINABLE DEVELOPMENT GOALS 2017214_id-less,2017_Q25290
+SUSTAINABLE DEVELOPMENT GOALS 201724,id-less,point in time,2017,Q25290,1,SUSTAINABLE DEVELOPMENT GOALS 201724 point in time 2017,SUSTAINABLE DEVELOPMENT GOALS 201724_id-less,2017_Q25290
+SUSTAINABLE DEVELOPMENT GOALS 201725,id-less,point in time,2017,Q25290,1,SUSTAINABLE DEVELOPMENT GOALS 201725 point in time 2017,SUSTAINABLE DEVELOPMENT GOALS 201725_id-less,2017_Q25290
+SUSTAINABLE DEVELOPMENT GOALS 201727,id-less,point in time,2017,Q25290,1,SUSTAINABLE DEVELOPMENT GOALS 201727 point in time 2017,SUSTAINABLE DEVELOPMENT GOALS 201727_id-less,2017_Q25290
+SUSTAINABLE DEVELOPMENT GOALS 201734,id-less,point in time,2017,Q25290,1,SUSTAINABLE DEVELOPMENT GOALS 201734 point in time 2017,SUSTAINABLE DEVELOPMENT GOALS 201734_id-less,2017_Q25290
+Safety,Q10566551,part of,Governance,Q1553864,1,Safety part of Governance,Safety_Q10566551,Governance_Q1553864
+Safety Health and Environment,id-less,part of,Health and Environment,Q96705720,1,Safety Health and Environment part of Health and Environment,Safety Health and Environment_id-less,Health and Environment_Q96705720
+Sanitation,Q949149,subclass of,Hygiene,Q162297,1,Sanitation subclass of Hygiene,Sanitation_Q949149,Hygiene_Q162297
+Scho,Q3914,subclass of,larship,id-less,1,Scho subclass of larship,Scho_Q3914,larship_id-less
+Scor es,id-less,instance of,Scor,Q920000,1,Scor es instance of Scor,Scor es_id-less,Scor_Q920000
+Shareholder distribution,id-less,subclass of,distribution,Q200726,1,Shareholder distribution subclass of distribution,Shareholder distribution_id-less,distribution_Q200726
+So,Q1045,part of,mic and So,id-less,1,So part of mic and So,So_Q1045,mic and So_id-less
+Soci,Q18048527,has part,an,Q8765,1,Soci has part an,Soci_Q18048527,an_Q8765
+Soci,Q18048527,ranking,1,Q199,1,Soci ranking 1,Soci_Q18048527,1_Q199
+South,Q667,part of,"South, South",id-less,1,"South part of South, South",South_Q667,"South, South_id-less"
+"South, South",id-less,has part,South,Q667,1,"South, South has part South","South, South_id-less",South_Q667
+Stakehol der dialogue,id-less,instance of,dialogue,Q131395,1,Stakehol der dialogue instance of dialogue,Stakehol der dialogue_id-less,dialogue_Q131395
+Standards,Q591990,has part,am ong chil dren,id-less,1,Standards has part am ong chil dren,Standards_Q591990,am ong chil dren_id-less
+Strengthen dom,id-less,number of participants,17,Q40118,1,Strengthen dom number of participants 17,Strengthen dom_id-less,17_Q40118
+Strengthen the means of imp,id-less,said to be the same as,means of imp,Q26325131,1,Strengthen the means of imp said to be the same as means of imp,Strengthen the means of imp_id-less,means of imp_Q26325131
+Strengthen the prevention,id-less,number of participants,3.5,Q6116798,1,Strengthen the prevention number of participants 3.5,Strengthen the prevention_id-less,3.5_Q6116798
+Strong,Q991202,subclass of,relati,Q192588,1,Strong subclass of relati,Strong_Q991202,relati_Q192588
+Su stainability,id-less,subclass of,De velopment,id-less,1,Su stainability subclass of De velopment,Su stainability_id-less,De velopment_id-less
+Sub-sah aran countrie,id-less,instance of,busine ss,id-less,1,Sub-sah aran countrie instance of busine ss,Sub-sah aran countrie_id-less,busine ss_id-less
+Support dom estic tec hnology,id-less,subclass of,hnology,id-less,1,Support dom estic tec hnology subclass of hnology,Support dom estic tec hnology_id-less,hnology_id-less
+Sus tainabilit,id-less,part of,Guiding Principle,Q51391985,1,Sus tainabilit part of Guiding Principle,Sus tainabilit_id-less,Guiding Principle_Q51391985
+Sustainabilit,Q219416,instance of,definition,Q101072,1,Sustainabilit instance of definition,Sustainabilit_Q219416,definition_Q101072
+Priority to reduce,id-less,subclass of,reduce,Q951651,1,Priority to reduce subclass of reduce,Priority to reduce_id-less,reduce_Q951651
+Priority to improve water,id-less,facet of,water,Q283,1,Priority to improve water facet of water,Priority to improve water_id-less,water_Q283
+Goal 17,Q53581254,number of participants,17,Q40118,1,Goal 17 number of participants 17,Goal 17_Q53581254,17_Q40118
+J Masir e,id-less,position held,Vice President,Q42178,1,J Masir e position held Vice President,J Masir e_id-less,Vice President_Q42178
+INCOME,Q850210,part of,COUNTRIES,Q6256,1,INCOME part of COUNTRIES,INCOME_Q850210,COUNTRIES_Q6256
+INDIC ATORS,id-less,instance of,INDIC,Q682111,1,INDIC ATORS instance of INDIC,INDIC ATORS_id-less,INDIC_Q682111
+INFRASTRUCTURE,Q121359,has effect,SUSTAINABLE,Q66095801,1,INFRASTRUCTURE has effect SUSTAINABLE,INFRASTRUCTURE_Q121359,SUSTAINABLE_Q66095801
+ING,Q645708,part of,CT,Q779,1,ING part of CT,ING_Q645708,CT_Q779
+ISO 1400 1,id-less,facet of,sustainable busine ss,id-less,1,ISO 1400 1 facet of sustainable busine ss,ISO 1400 1_id-less,sustainable busine ss_id-less
+Im,Q9676,has part,1.3 Im,id-less,1,Im has part 1.3 Im,Im_Q9676,1.3 Im_id-less
+Incomes C,id-less,parent organization,Incomes,Q1308177,1,Incomes C parent organization Incomes,Incomes C_id-less,Incomes_Q1308177
+Inf,Q410153,has part,t,Q127,1,Inf has part t,Inf_Q410153,t_Q127
+Insecurity Experience Scale,id-less,part of,FI ES,Q16250424,1,Insecurity Experience Scale part of FI ES,Insecurity Experience Scale_id-less,FI ES_Q16250424
+Instru mentat ion 3,id-less,has part,Automati on,id-less,1,Instru mentat ion 3 has part Automati on,Instru mentat ion 3_id-less,Automati on_id-less
+International Health Regulations,Q600315,has part,3.d.,Q57595449,1,International Health Regulations has part 3.d.,International Health Regulations_Q600315,3.d._Q57595449
+Internet,Q75,has part,individuals using the Internet,id-less,1,Internet has part individuals using the Internet,Internet_Q75,individuals using the Internet_id-less
+Internet,Q75,instance of,developed,Q132453,1,Internet instance of developed,Internet_Q75,developed_Q132453
+Jwane,Q165954,contains administrative territorial entity,Orapa,Q859708,1,Jwane contains administrative territorial entity Orapa,Jwane_Q165954,Orapa_Q859708
+IM,Q9676,subsidiary,conservationIM,id-less,1,IM subsidiary conservationIM,IM_Q9676,conservationIM_id-less
+Jwane ng Mine,id-less,shares border with,Orapa,Q859708,1,Jwane ng Mine shares border with Orapa,Jwane ng Mine_id-less,Orapa_Q859708
+K,Q11579,area,2,Q200,1,K area 2,K_Q11579,2_Q200
+Kimbe rley Process,id-less,has part,comm unity,id-less,1,Kimbe rley Process has part comm unity,Kimbe rley Process_id-less,comm unity_id-less
+Legacy projects,id-less,facet of,Corporate Social,Q218600,1,Legacy projects facet of Corporate Social,Legacy projects_id-less,Corporate Social_Q218600
+Letlhak ane,id-less,publication date,1971,Q2475,1,Letlhak ane publication date 1971,Letlhak ane_id-less,1971_Q2475
+Letlhakane,Q167301,contains administrative territorial entity,Orapa,Q859708,1,Letlhakane contains administrative territorial entity Orapa,Letlhakane_Q167301,Orapa_Q859708
+Local procurement,Q76183243,subclass of,procurement,Q829492,1,Local procurement subclass of procurement,Local procurement_Q76183243,procurement_Q829492
+M,Q11573,part of,1,Q199,1,M part of 1,M_Q11573,1_Q199
+MACRO,Q629579,opposite of,ECONOMIC,Q8134,1,MACRO opposite of ECONOMIC,MACRO_Q629579,ECONOMIC_Q8134
+MATERNAL,Q20490136,different from,MORT ALITY,id-less,1,MATERNAL different from MORT ALITY,MATERNAL_Q20490136,MORT ALITY_id-less
+MORT ALITY,id-less,different from,MATERNAL,Q20490136,1,MORT ALITY different from MATERNAL,MORT ALITY_id-less,MATERNAL_Q20490136
+Mak gadikgadi,id-less,instance of,Wetland,Q170321,1,Mak gadikgadi instance of Wetland,Mak gadikgadi_id-less,Wetland_Q170321
+Mak gadikgadi,id-less,instance of,Wetlands,Q170321,1,Mak gadikgadi instance of Wetlands,Mak gadikgadi_id-less,Wetlands_Q170321
+INCIC,Q10265484,subclass of,ATOR,Q58570757,1,INCIC subclass of ATOR,INCIC_Q10265484,ATOR_Q58570757
+I NFR ASTRUCTURE AND ED UCA TION,id-less,has part,ED UCA TION,id-less,1,I NFR ASTRUCTURE AND ED UCA TION has part ED UCA TION,I NFR ASTRUCTURE AND ED UCA TION_id-less,ED UCA TION_id-less
+Priority to improve biodiversity,id-less,facet of,biodiversity,Q47041,1,Priority to improve biodiversity facet of biodiversity,Priority to improve biodiversity_id-less,biodiversity_Q47041
+Health Car,Q31207,product or material produced,Car,Q929,1,Health Car product or material produced Car,Health Car_Q31207,Car_Q929
+Goal 3,Q50216838,sports league level,3,Q201,1,Goal 3 sports league level 3,Goal 3_Q50216838,3_Q201
+Goal 9,Q53581219,ranking,9,Q19108,1,Goal 9 ranking 9,Goal 9_Q53581219,9_Q19108
+Goals,Q4503831,different from,Goal,Q4503831,1,Goals different from Goal,Goals_Q4503831,Goal_Q4503831
+Governance,Q1553864,has part,Safety,Q10566551,1,Governance has part Safety,Governance_Q1553864,Safety_Q10566551
+Governme nt,id-less,located in the administrative territorial entity,Chambe,Q180516,1,Governme nt located in the administrative territorial entity Chambe,Governme nt_id-less,Chambe_Q180516
+HEALTH,Q12147,has part,SAFETY,Q10566551,1,HEALTH has part SAFETY,HEALTH_Q12147,SAFETY_Q10566551
+HEALTH AND PRIMARY,Q96705721,has part,PRIMARY,Q669262,1,HEALTH AND PRIMARY has part PRIMARY,HEALTH AND PRIMARY_Q96705721,PRIMARY_Q669262
+HIV,Q15787,has effect,AIDS,Q12199,1,HIV has effect AIDS,HIV_Q15787,AIDS_Q12199
+HIV,Q15787,has effect,new,Q33979,1,HIV has effect new,HIV_Q15787,new_Q33979
+HUMAN AND SOCIAL DE,id-less,has part,SOCIAL DE,Q49768,1,HUMAN AND SOCIAL DE has part SOCIAL DE,HUMAN AND SOCIAL DE_id-less,SOCIAL DE_Q49768
+HUNGER,Q165947,part of,HUNGER AND,Q1249185,1,HUNGER part of HUNGER AND,HUNGER_Q165947,HUNGER AND_Q1249185
+HUNGER AND,Q1249185,has part,HUNGER,Q165947,1,HUNGER AND has part HUNGER,HUNGER AND_Q1249185,HUNGER_Q165947
+Harmful use of alcohol,Q7331102,facet of,alcohol,Q153,1,Harmful use of alcohol facet of alcohol,Harmful use of alcohol_Q7331102,alcohol_Q153
+Health Or,Q4287745,main subject,Health,Q12147,1,Health Or main subject Health,Health Or_Q4287745,Health_Q12147
+I NFR ASTRUCTURE,id-less,followed by,I NDUSTRY BOTSW ANA VOLUNT,id-less,1,I NFR ASTRUCTURE followed by I NDUSTRY BOTSW ANA VOLUNT,I NFR ASTRUCTURE_id-less,I NDUSTRY BOTSW ANA VOLUNT_id-less
+Health Or ganization,id-less,has part,Child Growth,Q113482897,1,Health Or ganization has part Child Growth,Health Or ganization_id-less,Child Growth_Q113482897
+Health and Environment,Q96705720,has part,Safety Health and Environment,id-less,1,Health and Environment has part Safety Health and Environment,Health and Environment_Q96705720,Safety Health and Environment_id-less
+Health and wellness,Q35950419,part of,SDG3,Q50216838,1,Health and wellness part of SDG3,Health and wellness_Q35950419,SDG3_Q50216838
+Health worker density and distribution,id-less,part of,3.c.,Q57595448,1,Health worker density and distribution part of 3.c.,Health worker density and distribution_id-less,3.c._Q57595448
+Hepatitis B,Q6853,has part,B,Q8799,1,Hepatitis B has part B,Hepatitis B_Q6853,B_Q8799
+High Performance Organisa tion,id-less,inception,2013,Q1998,1,High Performance Organisa tion inception 2013,High Performance Organisa tion_id-less,2013_Q1998
+Highest securit y,id-less,is a list of,securit,Q37470,1,Highest securit y is a list of securit,Highest securit y_id-less,securit_Q37470
+History of mi nes,id-less,facet of,mi nes,id-less,1,History of mi nes facet of mi nes,History of mi nes_id-less,mi nes_id-less
+Household Income and Expenditur,Q46770781,has part,Expenditur,Q760120,1,Household Income and Expenditur has part Expenditur,Household Income and Expenditur_Q46770781,Expenditur_Q760120
+Hydr,Q12204,subclass of,ogeology,id-less,1,Hydr subclass of ogeology,Hydr_Q12204,ogeology_id-less
+Hygiene,Q162297,subclass of,Safety and Human Factor,Q26375905,1,Hygiene subclass of Safety and Human Factor,Hygiene_Q162297,Safety and Human Factor_Q26375905
+I,Q1103,part of,SDG,Q7649586,1,I part of SDG,I_Q1103,SDG_Q7649586
+I NDUSTRY BOTSW ANA VOLUNT,id-less,follows,I NFR ASTRUCTURE,id-less,1,I NDUSTRY BOTSW ANA VOLUNT follows I NFR ASTRUCTURE,I NDUSTRY BOTSW ANA VOLUNT_id-less,I NFR ASTRUCTURE_id-less
+"Malaria incidence per 1,000 po",id-less,facet of,Malaria,Q12156,1,"Malaria incidence per 1,000 po facet of Malaria","Malaria incidence per 1,000 po_id-less",Malaria_Q12156
+Manufacturing employm ent,id-less,has part,employm ent,id-less,1,Manufacturing employm ent has part employm ent,Manufacturing employm ent_id-less,employm ent_id-less
+Manufacturing value added as a,id-less,said to be the same as,9.2,Q12543,1,Manufacturing value added as a said to be the same as 9.2,Manufacturing value added as a_id-less,9.2_Q12543
+PEA,Q25237,office held by head of government,GOVERNANCE,Q1553864,1,PEA office held by head of government GOVERNANCE,PEA_Q25237,GOVERNANCE_Q1553864
+Orapa,Q859708,present in work,Today,Q3151690,1,Orapa present in work Today,Orapa_Q859708,Today_Q3151690
+Orapa,Q859708,shares border with,Jwane ng Mine,id-less,1,Orapa shares border with Jwane ng Mine,Orapa_Q859708,Jwane ng Mine_id-less
+Orapa Mine,id-less,located in the administrative territorial entity,Orapa,Q859708,1,Orapa Mine located in the administrative territorial entity Orapa,Orapa Mine_id-less,Orapa_Q859708
+Orapa Today Boteti Tomorr ow,id-less,instance of,com pone nts,id-less,1,Orapa Today Boteti Tomorr ow instance of com pone nts,Orapa Today Boteti Tomorr ow_id-less,com pone nts_id-less
+Orapa Today Boteti Tomorr ow,id-less,production company,Damtsh aa Mine,id-less,1,Orapa Today Boteti Tomorr ow production company Damtsh aa Mine,Orapa Today Boteti Tomorr ow_id-less,Damtsh aa Mine_id-less
+Ore,Q102798,different from,Mineral,Q7946,1,Ore different from Mineral,Ore_Q102798,Mineral_Q7946
+Our Mission,Q43181732,instance of,Mission,Q645883,1,Our Mission instance of Mission,Our Mission_Q43181732,Mission_Q645883
+Our Purpose,Q44941418,main subject,Purpose,Q4503831,1,Our Purpose main subject Purpose,Our Purpose_Q44941418,Purpose_Q4503831
+Our Values,Q77432045,performer,Missi on Our Values,id-less,1,Our Values performer Missi on Our Values,Our Values_Q77432045,Missi on Our Values_id-less
+Our Vision,Q104713729,main subject,Vision,Q162668,1,Our Vision main subject Vision,Our Vision_Q104713729,Vision_Q162668
+Owners in C,id-less,language of work or name,C,Q623,1,Owners in C language of work or name C,Owners in C_id-less,C_Q623
+P,Q674,part of,SDG1,Q50214636,1,P part of SDG1,P_Q674,SDG1_Q50214636
+P assiona te,id-less,has part,Be P assiona te,id-less,1,P assiona te has part Be P assiona te,P assiona te_id-less,Be P assiona te_id-less
+PRIMARY,Q669262,part of,HEALTH AND PRIMARY,Q96705721,1,PRIMARY part of HEALTH AND PRIMARY,PRIMARY_Q669262,HEALTH AND PRIMARY_Q96705721
+Maternal mortality ratio,Q25381037,instance of,3.1,Q51189208,1,Maternal mortality ratio instance of 3.1,Maternal mortality ratio_Q25381037,3.1_Q51189208
+PURPO SE,id-less,has part,V ALUES,id-less,1,PURPO SE has part V ALUES,PURPO SE_id-less,V ALUES_id-less
+PURPO SE,id-less,has part,VI SION,id-less,1,PURPO SE has part VI SION,PURPO SE_id-less,VI SION_id-less
+Partnership for Sustainab,Q38204267,field of work,Sustainab,Q131201,1,Partnership for Sustainab field of work Sustainab,Partnership for Sustainab_Q38204267,Sustainab_Q131201
+Partnerships,Q50814886,has part,stakeholders,Q108798676,1,Partnerships has part stakeholders,Partnerships_Q50814886,stakeholders_Q108798676
+Passenger and freight volum es,id-less,has part,9.1,Q24634,1,Passenger and freight volum es has part 9.1,Passenger and freight volum es_id-less,9.1_Q24634
+Planning for closur,Q54443058,main subject,closur,Q5135520,1,Planning for closur main subject closur,Planning for closur_Q54443058,closur_Q5135520
+Population,Q33829,has part,Developm,Q213713,1,Population has part Developm,Population_Q33829,Developm_Q213713
+President,Q30461,country,Botswana,Q963,1,President country Botswana,President_Q30461,Botswana_Q963
+Prevalence of m al nutrition,id-less,subclass of,weight,Q11423,1,Prevalence of m al nutrition subclass of weight,Prevalence of m al nutrition_id-less,weight_Q11423
+Prevalence of stunting,Q84391312,facet of,stunting,Q7628767,1,Prevalence of stunting facet of stunting,Prevalence of stunting_Q84391312,stunting_Q7628767
+Prevention of forced,id-less,main subject,forced,Q16266633,1,Prevention of forced main subject forced,Prevention of forced_id-less,forced_Q16266633
+Princip,Q228,member of,Key Sustainabilit y Guiding,id-less,1,Princip member of Key Sustainabilit y Guiding,Princip_Q228,Key Sustainabilit y Guiding_id-less
+Principles of Of,Q34748703,part of,Of,Q1142885,1,Principles of Of part of Of,Principles of Of_Q34748703,Of_Q1142885
+Orapa,Q859708,located in the administrative territorial entity,Letlhakane,Q167301,1,Orapa located in the administrative territorial entity Letlhakane,Orapa_Q859708,Letlhakane_Q167301
+Orapa,Q859708,located in the administrative territorial entity,Jwane,Q165954,1,Orapa located in the administrative territorial entity Jwane,Orapa_Q859708,Jwane_Q165954
+Orapa,Q859708,instance of,converting,Q65757353,1,Orapa instance of converting,Orapa_Q859708,converting_Q65757353
+Orapa,Q859708,instance of,cons truction,id-less,1,Orapa instance of cons truction,Orapa_Q859708,cons truction_id-less
+Means for Bots,id-less,facet of,Bots,Q963,1,Means for Bots facet of Bots,Means for Bots_id-less,Bots_Q963
+Mechatr onics,id-less,part of,3,Q201,1,Mechatr onics part of 3,Mechatr onics_id-less,3_Q201
+Mine 1 975Jwaneng Mine,id-less,located in the administrative territorial entity,Jwaneng Mine,Q21858555,1,Mine 1 975Jwaneng Mine located in the administrative territorial entity Jwaneng Mine,Mine 1 975Jwaneng Mine_id-less,Jwaneng Mine_Q21858555
+Mine Sur vey 2,id-less,length,2,Q200,1,Mine Sur vey 2 length 2,Mine Sur vey 2_id-less,2_Q200
+Mineral,Q7946,different from,Ore,Q102798,1,Mineral different from Ore,Mineral_Q7946,Ore_Q102798
+Minin g Muse um - Orapa mine,id-less,inception,1970,Q2474,1,Minin g Muse um - Orapa mine inception 1970,Minin g Muse um - Orapa mine_id-less,1970_Q2474
+Mining Company,Q2990216,instance of,partnership,Q728646,1,Mining Company instance of partnership,Mining Company_Q2990216,partnership_Q728646
+Mining E ngineering,id-less,has part,E ngineering,id-less,1,Mining E ngineering has part E ngineering,Mining E ngineering_id-less,E ngineering_id-less
+Minister J.G.,id-less,country,Botswana,Q963,1,Minister J.G. country Botswana,Minister J.G._id-less,Botswana_Q963
+Mis sion,id-less,subclass of,diamonds,Q74038,1,Mis sion subclass of diamonds,Mis sion_id-less,diamonds_Q74038
+Mobilize,Q1930943,has part,additiona,Q798487,1,Mobilize has part additiona,Mobilize_Q1930943,additiona_Q798487
+Mortality rate attributed to car,id-less,subclass of,Mortality rate,Q58702,1,Mortality rate attributed to car subclass of Mortality rate,Mortality rate attributed to car_id-less,Mortality rate_Q58702
+Mortality rate attributed to household,id-less,subclass of,Mortality rate,Q58702,1,Mortality rate attributed to household subclass of Mortality rate,Mortality rate attributed to household_id-less,Mortality rate_Q58702
+Mortality rate attributed to uni,id-less,instance of,3.9,Q79703,1,Mortality rate attributed to uni instance of 3.9,Mortality rate attributed to uni_id-less,3.9_Q79703
+Mortality rate attributed to unsafe,id-less,subclass of,Mortality rate,Q58702,1,Mortality rate attributed to unsafe subclass of Mortality rate,Mortality rate attributed to unsafe_id-less,Mortality rate_Q58702
+N BO,Q21264459,instance of,BO,Q750,1,N BO instance of BO,N BO_Q21264459,BO_Q750
+N O,Q209685,instance of,O,Q629,1,N O instance of O,N O_Q209685,O_Q629
+NA,Q49,part of,UNITED,Q18716,1,NA part of UNITED,NA_Q49,UNITED_Q18716
+Na,Q49,area,1,Q199,1,Na area 1,Na_Q49,1_Q199
+Na,Q49,part of,SDGs,Q7649586,1,Na part of SDGs,Na_Q49,SDGs_Q7649586
+Nation al legislation,id-less,instance of,legislation,Q820655,1,Nation al legislation instance of legislation,Nation al legislation_id-less,legislation_Q820655
+Nations,Q597897,different from,level,Q1046315,1,Nations different from level,Nations_Q597897,level_Q1046315
+Neonatal mortality rate,Q47372450,facet of,Neonatal,Q898674,1,Neonatal mortality rate facet of Neonatal,Neonatal mortality rate_Q47372450,Neonatal_Q898674
+Non-discrimi,Q27976816,subclass of,nation,Q6266,1,Non-discrimi subclass of nation,Non-discrimi_Q27976816,nation_Q6266
+Non-infringement of community rights,id-less,facet of,community rights,Q5154853,1,Non-infringement of community rights facet of community rights,Non-infringement of community rights_id-less,community rights_Q5154853
+Number,Q11563,part of,Programme,Q170584,1,Number part of Programme,Number_Q11563,Programme_Q170584
+Of,Q1142885,has part,Principles of Of,Q34748703,1,Of has part Principles of Of,Of_Q1142885,Principles of Of_Q34748703
+ﬁnancing,Q6055890,part of,health,Q12147,1,ﬁnancing part of health,ﬁnancing_Q6055890,health_Q12147
