@@ -1,0 +1,213 @@
+head_text,head_wiki_id,relation,tail_text,tail_wiki_id,count,ent_rel_pair,head_name,tail_name
+poor,Q5729485,opposite of,rich,Q3917267,2,poor opposite of rich,poor_Q5729485,rich_Q3917267
+rich,Q3917267,opposite of,poor,Q5729485,2,rich opposite of poor,rich_Q3917267,poor_Q5729485
+risks,Q104493,subclass of,threats,Q37522873,2,risks subclass of threats,risks_Q104493,threats_Q37522873
+health,Q12147,subclass of,social services,Q11588306,2,health subclass of social services,health_Q12147,social services_Q11588306
+1.1.3,id-less,point in time,1,Q199,1,1.1.3 point in time 1,1.1.3_id-less,1_Q199
+globalization,Q7181,has effect,series of constraints,id-less,1,globalization has effect series of constraints,globalization_Q7181,series of constraints_id-less
+externalfinancial package,id-less,subclass of,public investment,Q59095065,1,externalfinancial package subclass of public investment,externalfinancial package_id-less,public investment_Q59095065
+fight against climatechange effects,id-less,part of,Millennium Development Goals,Q81737,1,fight against climatechange effects part of Millennium Development Goals,fight against climatechange effects_id-less,Millennium Development Goals_Q81737
+finance,Q43015,part of,global economy,Q473750,1,finance part of global economy,finance_Q43015,global economy_Q473750
+financial partners,id-less,part of,technical,Q569612,1,financial partners part of technical,financial partners_id-less,technical_Q569612
+freedom,Q2979,has part,equality,Q842346,1,freedom has part equality,freedom_Q2979,equality_Q842346
+global economy,Q473750,country,Cameroon,Q1009,1,global economy country Cameroon,global economy_Q473750,Cameroon_Q1009
+global economy,Q473750,has part,finance,Q43015,1,global economy has part finance,global economy_Q473750,finance_Q43015
+global economy,Q473750,has part,trade,Q601401,1,global economy has part trade,global economy_Q473750,trade_Q601401
+good governance strategy,id-less,part of,industrialization,Q202398,1,good governance strategy part of industrialization,good governance strategy_id-less,industrialization_Q202398
+equitable distribution,Q84380972,facet of,growth,Q1342838,1,equitable distribution facet of growth,equitable distribution_Q84380972,growth_Q1342838
+governance,Q1553864,facet of,business climate,id-less,1,governance facet of business climate,governance_Q1553864,business climate_id-less
+governance,Q1553864,subclass of,challenge,Q16511806,1,governance subclass of challenge,governance_Q1553864,challenge_Q16511806
+growth engine,Q39087187,subclass of,investments,Q114500150,1,growth engine subclass of investments,growth engine_Q39087187,investments_Q114500150
+growth recovery,Q54436410,has cause,devaluation,Q220788,1,growth recovery has cause devaluation,growth recovery_Q54436410,devaluation_Q220788
+households,Q64873892,part of,private sector,Q591763,1,households part of private sector,households_Q64873892,private sector_Q591763
+independence and accessibility of the judiciary,id-less,instance of,democracy,Q7174,1,independence and accessibility of the judiciary instance of democracy,independence and accessibility of the judiciary_id-less,democracy_Q7174
+industrial sector,Q55639,country,Cameroon,Q1009,1,industrial sector country Cameroon,industrial sector_Q55639,Cameroon_Q1009
+industrial sector,Q55639,part of,country’sdevelopment engine,id-less,1,industrial sector part of country’sdevelopment engine,industrial sector_Q55639,country’sdevelopment engine_id-less
+industrialization,Q202398,country,Cameroon,Q1009,1,industrialization country Cameroon,industrialization_Q202398,Cameroon_Q1009
+industrialization,Q202398,has part,good governance strategy,id-less,1,industrialization has part good governance strategy,industrialization_Q202398,good governance strategy_id-less
+industrialization,Q202398,has part,promotionstrategy,id-less,1,industrialization has part promotionstrategy,industrialization_Q202398,promotionstrategy_id-less
+ethnic,Q205049,country,Cameroon,Q1009,1,ethnic country Cameroon,ethnic_Q205049,Cameroon_Q1009
+energy crisis,Q1341376,has effect,inhibits growth,Q64074635,1,energy crisis has effect inhibits growth,energy crisis_Q1341376,inhibits growth_Q64074635
+infrastructure,Q121359,part of,Industrial development,Q107526382,1,infrastructure part of Industrial development,infrastructure_Q121359,Industrial development_Q107526382
+development partners,id-less,has part,private sector,Q591763,1,development partners has part private sector,development partners_id-less,private sector_Q591763
+cities,Q515,different from,towns,Q22108005,1,cities different from towns,cities_Q515,towns_Q22108005
+civil society,Q181865,part of,political level,id-less,1,civil society part of political level,civil society_Q181865,political level_id-less
+constant growth,Q33727320,country,Cameroon,Q1009,1,constant growth country Cameroon,constant growth_Q33727320,Cameroon_Q1009
+consumption,Q12204,has part,production,Q739302,1,consumption has part production,consumption_Q12204,production_Q739302
+country’sdevelopment engine,id-less,has part,industrial sector,Q55639,1,country’sdevelopment engine has part industrial sector,country’sdevelopment engine_id-less,industrial sector_Q55639
+cultural considerations 6,id-less,part of,Human and cultural considerations 6,id-less,1,cultural considerations 6 part of Human and cultural considerations 6,cultural considerations 6_id-less,Human and cultural considerations 6_id-less
+cultures,Q11042,part of,society,Q8425,1,cultures part of society,cultures_Q11042,society_Q8425
+democracy,Q7174,has part,national unity,Q2199044,1,democracy has part national unity,democracy_Q7174,national unity_Q2199044
+democratization,Q1064441,has effect,social cohesion,Q553270,1,democratization has effect social cohesion,democratization_Q1064441,social cohesion_Q553270
+devaluation,Q220788,has effect,growth recovery,Q54436410,1,devaluation has effect growth recovery,devaluation_Q220788,growth recovery_Q54436410
+development policy,Q61706319,country,country,Q6256,1,development policy country country,development policy_Q61706319,country_Q6256
+employment,Q656365,has effect,Economic growth,Q189833,1,employment has effect Economic growth,employment_Q656365,Economic growth_Q189833
+distribution of the wealth,id-less,facet of,wealth,Q200535,1,distribution of the wealth facet of wealth,distribution of the wealth_id-less,wealth_Q200535
+dividends,Q110719882,facet of,share capital,Q330601,1,dividends facet of share capital,dividends_Q110719882,share capital_Q330601
+economic crisis broke out in 1985,id-less,point in time,1985,Q2431,1,economic crisis broke out in 1985 point in time 1985,economic crisis broke out in 1985_id-less,1985_Q2431
+economic revival process launched ten years ago,id-less,follows,ten years ago,Q77476739,1,economic revival process launched ten years ago follows ten years ago,economic revival process launched ten years ago_id-less,ten years ago_Q77476739
+economicaction,id-less,country,Cameroon,Q1009,1,economicaction country Cameroon,economicaction_id-less,Cameroon_Q1009
+economy,Q159810,country,Cameroon,Q1009,1,economy country Cameroon,economy_Q159810,Cameroon_Q1009
+economy,Q159810,has part,manufacturing,Q187939,1,economy has part manufacturing,economy_Q159810,manufacturing_Q187939
+education,Q8434,subclass of,social services,Q11588306,1,education subclass of social services,education_Q8434,social services_Q11588306
+electricity,Q12725,subclass of,social services,Q11588306,1,electricity subclass of social services,electricity_Q12725,social services_Q11588306
+emerging country,Q33927642,subclass of,country’s,Q12076836,1,emerging country subclass of country’s,emerging country_Q33927642,country’s_Q12076836
+informal sector,Q944235,opposite of,formal economic sector,id-less,1,informal sector opposite of formal economic sector,informal sector_Q944235,formal economic sector_id-less
+inhibits growth,Q64074635,has cause,energy crisis,Q1341376,1,inhibits growth has cause energy crisis,inhibits growth_Q64074635,energy crisis_Q1341376
+infrastructure,Q121359,part of,production,Q739302,1,infrastructure part of production,infrastructure_Q121359,production_Q739302
+strategic guidelines,Q58505029,part of,planning,Q309100,1,strategic guidelines part of planning,strategic guidelines_Q58505029,planning_Q309100
+regional development,Q482379,part of,Urban,Q159313,1,regional development part of Urban,regional development_Q482379,Urban_Q159313
+rel_err,rel_err,rel_err,rel_err,rel_err,1,rel_err rel_err rel_err,rel_err_rel_err,rel_err_rel_err
+related environmental threats,id-less,has cause,Climate change,Q125928,1,related environmental threats has cause Climate change,related environmental threats_id-less,Climate change_Q125928
+secondary import substitution phase,id-less,follows,primary phase,Q7243083,1,secondary import substitution phase follows primary phase,secondary import substitution phase_id-less,primary phase_Q7243083
+secondary sector,Q55639,followed by,tertiary sector,Q55638,1,secondary sector followed by tertiary sector,secondary sector_Q55639,tertiary sector_Q55638
+secondary sector,Q55639,opposite of,primary sector economy,id-less,1,secondary sector opposite of primary sector economy,secondary sector_Q55639,primary sector economy_id-less
+series of constraints,id-less,facet of,globalization,Q7181,1,series of constraints facet of globalization,series of constraints_id-less,globalization_Q7181
+social considerations 6,id-less,part of,Economic and social considerations 6,id-less,1,social considerations 6 part of Economic and social considerations 6,social considerations 6_id-less,Economic and social considerations 6_id-less
+socio-demographic,Q852017,facet of,third challenge,Q66329105,1,socio-demographic facet of third challenge,socio-demographic_Q852017,third challenge_Q66329105
+stagnating,Q81572537,subclass of,economic growth,Q189833,1,stagnating subclass of economic growth,stagnating_Q81572537,economic growth_Q189833
+technical,Q569612,has part,financial partners,id-less,1,technical has part financial partners,technical_Q569612,financial partners_id-less
+productivity,Q2111958,facet of,agricultural,Q5356428,1,productivity facet of agricultural,productivity_Q2111958,agricultural_Q5356428
+ten years ago,Q77476739,followed by,economic revival process launched ten years ago,id-less,1,ten years ago followed by economic revival process launched ten years ago,ten years ago_Q77476739,economic revival process launched ten years ago_id-less
+tertiary sector,Q55638,follows,secondary sector,Q55639,1,tertiary sector follows secondary sector,tertiary sector_Q55638,secondary sector_Q55639
+the past twenty years,Q71144358,is a list of,annals of the national economy,id-less,1,the past twenty years is a list of annals of the national economy,the past twenty years_Q71144358,annals of the national economy_id-less
+thesociological,id-less,studies,behaviours,Q106314935,1,thesociological studies behaviours,thesociological_id-less,behaviours_Q106314935
+"threats, risks and obstacles",id-less,facet of,"Threats, risks and obstacles",id-less,1,"threats, risks and obstacles facet of Threats, risks and obstacles","threats, risks and obstacles_id-less","Threats, risks and obstacles_id-less"
+trade,Q601401,part of,economy,Q159810,1,trade part of economy,trade_Q601401,economy_Q159810
+trade,Q601401,part of,global economy,Q473750,1,trade part of global economy,trade_Q601401,global economy_Q473750
+trade policy,Q572564,facet of,foreign trade,Q178803,1,trade policy facet of foreign trade,trade policy_Q572564,foreign trade_Q178803
+training,Q216033,subclass of,social services,Q11588306,1,training subclass of social services,training_Q216033,social services_Q11588306
+urban areas,Q58259934,country,Cameroon,Q1009,1,urban areas country Cameroon,urban areas_Q58259934,Cameroon_Q1009
+promotionstrategy,id-less,part of,industrialization,Q202398,1,promotionstrategy part of industrialization,promotionstrategy_id-less,industrialization_Q202398
+production,Q739302,part of,consumption,Q12204,1,production part of consumption,production_Q739302,consumption_Q12204
+10,Q23806,instance of,Wealth distribution,Q15852698,1,10 instance of Wealth distribution,10_Q23806,Wealth distribution_Q15852698
+middle income,Q106470198,subclass of,income,Q850210,1,middle income subclass of income,middle income_Q106470198,income_Q850210
+linguistic mosaic,id-less,country,Cameroon,Q1009,1,linguistic mosaic country Cameroon,linguistic mosaic_id-less,Cameroon_Q1009
+long period of readjustment,id-less,country,Cameroon,Q1009,1,long period of readjustment country Cameroon,long period of readjustment_id-less,Cameroon_Q1009
+long-term vision,Q34662373,facet of,society,Q8425,1,long-term vision facet of society,long-term vision_Q34662373,society_Q8425
+lowincome,id-less,followed by,middle income country,Q25450949,1,lowincome followed by middle income country,lowincome_id-less,middle income country_Q25450949
+macroeconomic stability,Q58357542,facet of,macroeconomic,Q39680,1,macroeconomic stability facet of macroeconomic,macroeconomic stability_Q58357542,macroeconomic_Q39680
+majorloopholes,id-less,facet of,national economic policy,id-less,1,majorloopholes facet of national economic policy,majorloopholes_id-less,national economic policy_id-less
+manufacturing,Q187939,part of,economy,Q159810,1,manufacturing part of economy,manufacturing_Q187939,economy_Q159810
+manufacturing industry,Q187939,instance of,industry,Q8148,1,manufacturing industry instance of industry,manufacturing industry_Q187939,industry_Q8148
+medium-term goals,id-less,subclass of,sector objectives,id-less,1,medium-term goals subclass of sector objectives,medium-term goals_id-less,sector objectives_id-less
+medium-termdevelopment,id-less,opposite of,long-term prospects,Q71285849,1,medium-termdevelopment opposite of long-term prospects,medium-termdevelopment_id-less,long-term prospects_Q71285849
+middle income country,Q25450949,follows,lowincome,id-less,1,middle income country follows lowincome,middle income country_Q25450949,lowincome_id-less
+private sector,Q591763,part of,development partners,id-less,1,private sector part of development partners,private sector_Q591763,development partners_id-less
+middle income country,Q25450949,subclass of,poverty alleviation,Q1824165,1,middle income country subclass of poverty alleviation,middle income country_Q25450949,poverty alleviation_Q1824165
+mining operations,Q306096,facet of,mining,Q44497,1,mining operations facet of mining,mining operations_Q306096,mining_Q44497
+national solidarity,Q6978602,facet of,united andindivisible nation,id-less,1,national solidarity facet of united andindivisible nation,national solidarity_Q6978602,united andindivisible nation_id-less
+national unity,Q2199044,part of,Consolidating democracy,id-less,1,national unity part of Consolidating democracy,national unity_Q2199044,Consolidating democracy_id-less
+national unity,Q2199044,part of,democracy,Q7174,1,national unity part of democracy,national unity_Q2199044,democracy_Q7174
+needs,Q37208103,has part,aspirations,Q737568,1,needs has part aspirations,needs_Q37208103,aspirations_Q737568
+planning,Q309100,has part,strategic guidelines,Q58505029,1,planning has part strategic guidelines,planning_Q309100,strategic guidelines_Q58505029
+population of Cameroon,id-less,country,Cameroon,Q1009,1,population of Cameroon country Cameroon,population of Cameroon_id-less,Cameroon_Q1009
+primary phase,Q7243083,followed by,secondary import substitution phase,id-less,1,primary phase followed by secondary import substitution phase,primary phase_Q7243083,secondary import substitution phase_id-less
+primary sector economy,id-less,opposite of,secondary sector,Q55639,1,primary sector economy opposite of secondary sector,primary sector economy_id-less,secondary sector_Q55639
+behaviours,Q106314935,studied by,thesociological,id-less,1,behaviours studied by thesociological,behaviours_Q106314935,thesociological_id-less
+aspirations,Q737568,part of,needs,Q37208103,1,aspirations part of needs,aspirations_Q737568,needs_Q37208103
+aodoption,id-less,part of,Validation and aodoption process 3,id-less,1,aodoption part of Validation and aodoption process 3,aodoption_id-less,Validation and aodoption process 3_id-less
+II.1.3 Alternative scenarios,id-less,part of,3 Alternative scenarios,id-less,1,II.1.3 Alternative scenarios part of 3 Alternative scenarios,II.1.3 Alternative scenarios_id-less,3 Alternative scenarios_id-less
+Climate change,Q125928,has effect,related environmental threats,id-less,1,Climate change has effect related environmental threats,Climate change_Q125928,related environmental threats_id-less
+Consolidating democracy,id-less,has part,national unity,Q2199044,1,Consolidating democracy has part national unity,Consolidating democracy_id-less,national unity_Q2199044
+Currency issue 56,id-less,point in time,56,Q522994,1,Currency issue 56 point in time 56,Currency issue 56_id-less,56_Q522994
+DECLARATION,Q46337,author,GOVERNMENT’S,Q161837,1,DECLARATION author GOVERNMENT’S,DECLARATION_Q46337,GOVERNMENT’S_Q161837
+DEVELOPMENT STAKES 10,id-less,number of participants,10,Q23806,1,DEVELOPMENT STAKES 10 number of participants 10,DEVELOPMENT STAKES 10_id-less,10_Q23806
+Development Context 5,id-less,point in time,5,Q203,1,Development Context 5 point in time 5,Development Context 5_id-less,5_Q203
+Douala,Q132830,twinned administrative body,Yaounde,Q3808,1,Douala twinned administrative body Yaounde,Douala_Q132830,Yaounde_Q3808
+ECONOMIC LEVEL 56,id-less,part of,V.3,Q20885711,1,ECONOMIC LEVEL 56 part of V.3,ECONOMIC LEVEL 56_id-less,V.3_Q20885711
+ECONOMY,Q159810,has part,PARTNERSHIP,Q728646,1,ECONOMY has part PARTNERSHIP,ECONOMY_Q159810,PARTNERSHIP_Q728646
+Economic and social considerations 6,id-less,has part,social considerations 6,id-less,1,Economic and social considerations 6 has part social considerations 6,Economic and social considerations 6_id-less,social considerations 6_id-less
+Economic growth and employment challenge,id-less,number of participants,8,Q23355,1,Economic growth and employment challenge number of participants 8,Economic growth and employment challenge_id-less,8_Q23355
+Empirical phases of an industrial development process,id-less,part of,Annexe 3,Q88485516,1,Empirical phases of an industrial development process part of Annexe 3,Empirical phases of an industrial development process_id-less,Annexe 3_Q88485516
+FINANCING THE VISION 47,id-less,number of episodes,47,Q712687,1,FINANCING THE VISION 47 number of episodes 47,FINANCING THE VISION 47_id-less,47_Q712687
+FIVE,Q203,has part,PART FIVE,Q7140109,1,FIVE has part PART FIVE,FIVE_Q203,PART FIVE_Q7140109
+FOUR,Q202,has part,PART FOUR,Q66474026,1,FOUR has part PART FOUR,FOUR_Q202,PART FOUR_Q66474026
+FRAMEWORKS FOR THE USE OF RESOURCES,id-less,number of participants,50,Q712519,1,FRAMEWORKS FOR THE USE OF RESOURCES number of participants 50,FRAMEWORKS FOR THE USE OF RESOURCES_id-less,50_Q712519
+Foreign Direct Investments,Q5468377,part of,international,Q1072012,1,Foreign Direct Investments part of international,Foreign Direct Investments_Q5468377,international_Q1072012
+Formulation of the vision 12,id-less,point in time,12,Q36977,1,Formulation of the vision 12 point in time 12,Formulation of the vision 12_id-less,12_Q36977
+Government’s role in the economy,id-less,number of participants,42,Q812996,1,Government’s role in the economy number of participants 42,Government’s role in the economy_id-less,42_Q812996
+Head of State,Q48352,country,Cameroon,Q1009,1,Head of State country Cameroon,Head of State_Q48352,Cameroon_Q1009
+Heavily Indebted Poor Country Initiative,id-less,point in time,2006,Q2021,1,Heavily Indebted Poor Country Initiative point in time 2006,Heavily Indebted Poor Country Initiative_id-less,2006_Q2021
+Human and cultural considerations 6,id-less,has part,cultural considerations 6,id-less,1,Human and cultural considerations 6 has part cultural considerations 6,Human and cultural considerations 6_id-less,cultural considerations 6_id-less
+Human capital formation 10,id-less,point in time,10,Q23806,1,Human capital formation 10 point in time 10,Human capital formation 10_id-less,10_Q23806
+Central African region,Q5060272,has part,Cameroon,Q1009,1,Central African region has part Cameroon,Central African region_Q5060272,Cameroon_Q1009
+Cameroon's long-term development strategy,id-less,country,Cameroon,Q1009,1,Cameroon's long-term development strategy country Cameroon,Cameroon's long-term development strategy_id-less,Cameroon_Q1009
+Cameroon's development,id-less,country,Cameroon,Q1009,1,Cameroon's development country Cameroon,Cameroon's development_id-less,Cameroon_Q1009
+African Union,Q7159,subsidiary,AU,Q408,1,African Union subsidiary AU,African Union_Q7159,AU_Q408
+2,Q200,followed by,3,Q201,1,2 followed by 3,2_Q200,3_Q201
+3,Q201,follows,2,Q200,1,3 follows 2,3_Q201,2_Q200
+3,Q201,part of,Public/Civil society partnerships,id-less,1,3 part of Public/Civil society partnerships,3_Q201,Public/Civil society partnerships_id-less
+3 Alternative scenarios,id-less,has part,II.1.3 Alternative scenarios,id-less,1,3 Alternative scenarios has part II.1.3 Alternative scenarios,3 Alternative scenarios_id-less,II.1.3 Alternative scenarios_id-less
+3.1 Promotion of the manufacturing sector,id-less,number of participants,37,Q12556,1,3.1 Promotion of the manufacturing sector number of participants 37,3.1 Promotion of the manufacturing sector_id-less,37_Q12556
+3.1 The issue of overall resource utilization,id-less,point in time,3.1,Q51189208,1,3.1 The issue of overall resource utilization point in time 3.1,3.1 The issue of overall resource utilization_id-less,3.1_Q51189208
+4 REGIONAL AND INTERNATIONAL INTEGRATION STRATEGY,id-less,number of participants,41,Q12564,1,4 REGIONAL AND INTERNATIONAL INTEGRATION STRATEGY number of participants 41,4 REGIONAL AND INTERNATIONAL INTEGRATION STRATEGY_id-less,41_Q12564
+41,Q12564,part of,Social development,Q15765794,1,41 part of Social development,41_Q12564,Social development_Q15765794
+5,Q203,part of,Public/Civil society partnerships,id-less,1,5 part of Public/Civil society partnerships,5_Q203,Public/Civil society partnerships_id-less
+AU,Q408,parent organization,African Union,Q7159,1,AU parent organization African Union,AU_Q408,African Union_Q7159
+Anglophone,Q652308,has part,francophone,Q857880,1,Anglophone has part francophone,Anglophone_Q652308,francophone_Q857880
+Cameroon,Q1009,part of,Reference scenario,Q7307148,1,Cameroon part of Reference scenario,Cameroon_Q1009,Reference scenario_Q7307148
+Annexe 2,Q88485515,main subject,Trends of some indcators in emerging countries,id-less,1,Annexe 2 main subject Trends of some indcators in emerging countries,Annexe 2_Q88485515,Trends of some indcators in emerging countries_id-less
+At the social level 55,id-less,part of,V.2,Q9367761,1,At the social level 55 part of V.2,At the social level 55_id-less,V.2_Q9367761
+Becoming a newly industrialized country 17,id-less,point in time,17,Q40118,1,Becoming a newly industrialized country 17 point in time 17,Becoming a newly industrialized country 17_id-less,17_Q40118
+CAMEROON VISION 2035,id-less,point in time,2035,Q12127,1,CAMEROON VISION 2035 point in time 2035,CAMEROON VISION 2035_id-less,2035_Q12127
+CFA franc,Q191511,end time,1994,Q2067,1,CFA franc end time 1994,CFA franc_Q191511,1994_Q2067
+Cameroon,Q1009,ethnic group,ethnic,Q205049,1,Cameroon ethnic group ethnic,Cameroon_Q1009,ethnic_Q205049
+Cameroon,Q1009,ethnic group,population of Cameroon,id-less,1,Cameroon ethnic group population of Cameroon,Cameroon_Q1009,population of Cameroon_id-less
+Cameroon,Q1009,instance of,emergingcountry,id-less,1,Cameroon instance of emergingcountry,Cameroon_Q1009,emergingcountry_id-less
+Cameroon,Q1009,office held by head of government,Head of State,Q48352,1,Cameroon office held by head of government Head of State,Cameroon_Q1009,Head of State_Q48352
+Cameroon,Q1009,part of,Central African region,Q5060272,1,Cameroon part of Central African region,Cameroon_Q1009,Central African region_Q5060272
+I.3.3,id-less,point in time,3,Q201,1,I.3.3 point in time 3,I.3.3_id-less,3_Q201
+II.2 THE VISION,id-less,number of episodes,15,Q38701,1,II.2 THE VISION number of episodes 15,II.2 THE VISION_id-less,15_Q38701
+agro-pastoral,Q59103667,subclass of,forest,Q4421,1,agro-pastoral subclass of forest,agro-pastoral_Q59103667,forest_Q4421
+II.3.1 Reducing poverty to minimal levels,id-less,part of,Reducing poverty to minimal levels,id-less,1,II.3.1 Reducing poverty to minimal levels part of Reducing poverty to minimal levels,II.3.1 Reducing poverty to minimal levels_id-less,Reducing poverty to minimal levels_id-less
+Population explosion,Q47510469,country,Cameroon,Q1009,1,Population explosion country Cameroon,Population explosion_Q47510469,Cameroon_Q1009
+Poverty alleviation,Q1824165,facet of,poverty,Q10294,1,Poverty alleviation facet of poverty,Poverty alleviation_Q1824165,poverty_Q10294
+Preparation process 2,id-less,number of steps,2,Q200,1,Preparation process 2 number of steps 2,Preparation process 2_id-less,2_Q200
+Public/Civil society partnerships,id-less,has part,3,Q201,1,Public/Civil society partnerships has part 3,Public/Civil society partnerships_id-less,3_Q201
+Public/Civil society partnerships,id-less,has part,5,Q203,1,Public/Civil society partnerships has part 5,Public/Civil society partnerships_id-less,5_Q203
+Public/Private partnerships 43,id-less,number of participants,43,Q282113,1,Public/Private partnerships 43 number of participants 43,Public/Private partnerships 43_id-less,43_Q282113
+Rationale of the vision,id-less,main subject,vision,Q162668,1,Rationale of the vision main subject vision,Rationale of the vision_id-less,vision_Q162668
+Reducing poverty to minimal levels,id-less,has part,II.3.1 Reducing poverty to minimal levels,id-less,1,Reducing poverty to minimal levels has part II.3.1 Reducing poverty to minimal levels,Reducing poverty to minimal levels_id-less,II.3.1 Reducing poverty to minimal levels_id-less
+SMI Small and Medium Industry viEXECUTIVE SUMMARY,id-less,country,Cameroon,Q1009,1,SMI Small and Medium Industry viEXECUTIVE SUMMARY country Cameroon,SMI Small and Medium Industry viEXECUTIVE SUMMARY_id-less,Cameroon_Q1009
+SOCIAL,Q345367,part of,SOCIOLOGICAL,Q63511556,1,SOCIAL part of SOCIOLOGICAL,SOCIAL_Q345367,SOCIOLOGICAL_Q63511556
+SOCIOLOGICAL,Q63511556,has part,SOCIAL,Q345367,1,SOCIOLOGICAL has part SOCIAL,SOCIOLOGICAL_Q63511556,SOCIAL_Q345367
+Selected variables and indicators 58,id-less,has part,Annexe 1,Q100578427,1,Selected variables and indicators 58 has part Annexe 1,Selected variables and indicators 58_id-less,Annexe 1_Q100578427
+Social development,Q15765794,has part,41,Q12564,1,Social development has part 41,Social development_Q15765794,41_Q12564
+Space control 10,id-less,point in time,10,Q23806,1,Space control 10 point in time 10,Space control 10_id-less,10_Q23806
+"THREATS, RISK FACTORS AND OBSTACLES 52",id-less,has part,OBSTACLES 52,id-less,1,"THREATS, RISK FACTORS AND OBSTACLES 52 has part OBSTACLES 52","THREATS, RISK FACTORS AND OBSTACLES 52_id-less",OBSTACLES 52_id-less
+Tunisia,Q948,instance of,emerging country,Q33927642,1,Tunisia instance of emerging country,Tunisia_Q948,emerging country_Q33927642
+Urban,Q159313,has part,regional development,Q482379,1,Urban has part regional development,Urban_Q159313,regional development_Q482379
+V.1,Q580994,part of,INSTITUTIONAL AND POLITICAL LEVEL 53,id-less,1,V.1 part of INSTITUTIONAL AND POLITICAL LEVEL 53,V.1_Q580994,INSTITUTIONAL AND POLITICAL LEVEL 53_id-less
+V.2,Q9367761,has part,At the social level 55,id-less,1,V.2 has part At the social level 55,V.2_Q9367761,At the social level 55_id-less
+Vision for the next 25-30 years,id-less,country,Cameroon,Q1009,1,Vision for the next 25-30 years country Cameroon,Vision for the next 25-30 years_id-less,Cameroon_Q1009
+Yaounde,Q3808,twinned administrative body,Douala,Q132830,1,Yaounde twinned administrative body Douala,Yaounde_Q3808,Douala_Q132830
+administrative considerations 7,id-less,part of,Political and administrative considerations 7,id-less,1,administrative considerations 7 part of Political and administrative considerations 7,administrative considerations 7_id-less,Political and administrative considerations 7_id-less
+agricultural revolution,Q6499967,location,rural sector,id-less,1,agricultural revolution location rural sector,agricultural revolution_Q6499967,rural sector_id-less
+Political participation 11,id-less,point in time,11,Q37136,1,Political participation 11 point in time 11,Political participation 11_id-less,11_Q37136
+Political and administrative considerations 7,id-less,has part,administrative considerations 7,id-less,1,Political and administrative considerations 7 has part administrative considerations 7,Political and administrative considerations 7_id-less,administrative considerations 7_id-less
+Paris Declaration,Q2052298,instance of,guideline,Q1151067,1,Paris Declaration instance of guideline,Paris Declaration_Q2052298,guideline_Q1151067
+Millennium Development Goals,Q81737,has part,fight against climatechange effects,id-less,1,Millennium Development Goals has part fight against climatechange effects,Millennium Development Goals_Q81737,fight against climatechange effects_id-less
+III.1 strategy for national integration and consolidation of democracy,id-less,number of participants,34,Q712639,1,III.1 strategy for national integration and consolidation of democracy number of participants 34,III.1 strategy for national integration and consolidation of democracy_id-less,34_Q712639
+IMPLEMENTATION STRATEGIES 33,id-less,point in time,33,Q712661,1,IMPLEMENTATION STRATEGIES 33 point in time 33,IMPLEMENTATION STRATEGIES 33_id-less,33_Q712661
+INSTITUTIONAL AND POLITICAL LEVEL 53,id-less,has part,V.1,Q580994,1,INSTITUTIONAL AND POLITICAL LEVEL 53 has part V.1,INSTITUTIONAL AND POLITICAL LEVEL 53_id-less,V.1_Q580994
+IV,Q202,has part,POTENTIAL RESOURCES 48,id-less,1,IV has part POTENTIAL RESOURCES 48,IV_Q202,POTENTIAL RESOURCES 48_id-less
+IV.2 RESOURCE MOBILIZATION,id-less,number of participants,48,Q712764,1,IV.2 RESOURCE MOBILIZATION number of participants 48,IV.2 RESOURCE MOBILIZATION_id-less,48_Q712764
+Implementation strategies,Q93931278,facet of,implementation strategies,Q93931278,1,Implementation strategies facet of implementation strategies,Implementation strategies_Q93931278,implementation strategies_Q93931278
+Indonesia,Q252,instance of,emerging country,Q33927642,1,Indonesia instance of emerging country,Indonesia_Q252,emerging country_Q33927642
+International integration strategy 42,id-less,point in time,42,Q812996,1,International integration strategy 42 point in time 42,International integration strategy 42_id-less,42_Q812996
+Malaysia,Q833,instance of,emerging country,Q33927642,1,Malaysia instance of emerging country,Malaysia_Q833,emerging country_Q33927642
+Millennium Development Goals,Q81737,creator,MDG,Q81737,1,Millennium Development Goals creator MDG,Millennium Development Goals_Q81737,MDG_Q81737
+Morocco,Q1028,instance of,emerging country,Q33927642,1,Morocco instance of emerging country,Morocco_Q1028,emerging country_Q33927642
+PRSP,Q7250831,country,Cameroon,Q1009,1,PRSP country Cameroon,PRSP_Q7250831,Cameroon_Q1009
+National integration,Q100373677,facet of,democratic process,Q97571552,1,National integration facet of democratic process,National integration_Q100373677,democratic process_Q97571552
+New Economic Partnership for Africa’s Development,id-less,field of work,Poverty Reduction,Q1824165,1,New Economic Partnership for Africa’s Development field of work Poverty Reduction,New Economic Partnership for Africa’s Development_id-less,Poverty Reduction_Q1824165
+OBJECTIVES 17,id-less,point in time,17,Q40118,1,OBJECTIVES 17 point in time 17,OBJECTIVES 17_id-less,17_Q40118
+OBSTACLES 52,id-less,part of,"THREATS, RISK FACTORS AND OBSTACLES 52",id-less,1,"OBSTACLES 52 part of THREATS, RISK FACTORS AND OBSTACLES 52",OBSTACLES 52_id-less,"THREATS, RISK FACTORS AND OBSTACLES 52_id-less"
+ONE,Q199,part of,PART ONE,Q2054215,1,ONE part of PART ONE,ONE_Q199,PART ONE_Q2054215
+PART FIVE,Q7140109,part of,FIVE,Q203,1,PART FIVE part of FIVE,PART FIVE_Q7140109,FIVE_Q203
+PART FOUR,Q66474026,part of,FOUR,Q202,1,PART FOUR part of FOUR,PART FOUR_Q66474026,FOUR_Q202
+PART ONE,Q2054215,has part,ONE,Q199,1,PART ONE has part ONE,PART ONE_Q2054215,ONE_Q199
+PARTNERSHIP,Q728646,part of,ECONOMY,Q159810,1,PARTNERSHIP part of ECONOMY,PARTNERSHIP_Q728646,ECONOMY_Q159810
+POTENTIAL RESOURCES 48,id-less,part of,IV,Q202,1,POTENTIAL RESOURCES 48 part of IV,POTENTIAL RESOURCES 48_id-less,IV_Q202
+water,Q283,subclass of,social services,Q11588306,1,water subclass of social services,water_Q283,social services_Q11588306

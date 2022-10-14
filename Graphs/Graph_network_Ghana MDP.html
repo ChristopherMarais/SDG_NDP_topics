@@ -1,0 +1,155 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        
+            <script src="lib/bindings/utils.js"></script>
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/dist/vis-network.min.css" integrity="sha512-WgxfT5LWjfszlPHXRmBWHkV2eceiWTOBvrKCNbdgDYTHrT2AeLCGbF4sZlZw3UMN3WtL0tGUoIAKsu8mllg/XA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/vis-network.min.js" integrity="sha512-LnvoEWDFrqGHlHmDD2101OrLcbsfkrzoSpvtSQtxK3RMnRV0eOkhhBN2dXHKRrUU8p2DGRTk35n4O8nWSVe1mQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+            
+        
+<center>
+<h1></h1>
+</center>
+
+<!-- <link rel="stylesheet" href="../node_modules/vis/dist/vis.min.css" type="text/css" />
+<script type="text/javascript" src="../node_modules/vis/dist/vis.js"> </script>-->
+        <link
+          href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css"
+          rel="stylesheet"
+          integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6"
+          crossorigin="anonymous"
+        />
+        <script
+          src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.bundle.min.js"
+          integrity="sha384-JEW9xMcG8R+pH31jmWH6WWP0WintQrMb4s7ZOdauHnUtxwoG2vI5DkLtS3qm9Ekf"
+          crossorigin="anonymous"
+        ></script>
+
+
+        <center>
+          <h1></h1>
+        </center>
+        <style type="text/css">
+
+             #mynetwork {
+                 width: 100%;
+                 height: 1000px;
+                 background-color: #ffffff;
+                 border: 1px solid lightgray;
+                 position: relative;
+                 float: left;
+             }
+
+             
+
+             
+
+             
+        </style>
+    </head>
+
+
+    <body>
+        <div class="card" style="width: 100%">
+            
+            
+            <div id="mynetwork" class="card-body"></div>
+        </div>
+
+        
+        
+
+        <script type="text/javascript">
+
+              // initialize global variables.
+              var edges;
+              var nodes;
+              var allNodes;
+              var allEdges;
+              var nodeColors;
+              var originalNodes;
+              var network;
+              var container;
+              var options, data;
+              var filter = {
+                  item : '',
+                  property : '',
+                  value : []
+              };
+
+              
+
+              
+
+              // This method is responsible for drawing the graph, returns the drawn network
+              function drawGraph() {
+                  var container = document.getElementById('mynetwork');
+
+                  
+
+                  // parsing and collecting nodes and edges from the python
+                  nodes = new vis.DataSet([{"color": "#97c2fc", "id": "265", "label": "265", "shape": "dot", "size": 19}, {"color": "#97c2fc", "id": "letters", "label": "letters", "shape": "dot", "size": 50}, {"color": "#97c2fc", "id": "200", "label": "200", "shape": "dot", "size": 19}, {"color": "#97c2fc", "id": "260", "label": "260", "shape": "dot", "size": 19}, {"color": "#97c2fc", "id": "Institutions Number of Management letters", "label": "Institutions Number of Management letters", "shape": "dot", "size": 19}, {"color": "#97c2fc", "id": "375", "label": "375", "shape": "dot", "size": 29}, {"color": "#97c2fc", "id": "letters issued 275 280", "label": "letters issued 275 280", "shape": "dot", "size": 19}, {"color": "#97c2fc", "id": "360", "label": "360", "shape": "dot", "size": 29}, {"color": "#97c2fc", "id": "275 280", "label": "275 280", "shape": "dot", "size": 29}, {"color": "#97c2fc", "id": "letters issued 275 280 360 360 375 375", "label": "letters issued 275 280 360 360 375 375", "shape": "dot", "size": 19}, {"color": "#97c2fc", "id": "Western Region", "label": "Western Region", "shape": "dot", "size": 14}, {"color": "#97c2fc", "id": "2018 Budget", "label": "2018 Budget", "shape": "dot", "size": 19}, {"color": "#97c2fc", "id": "2017", "label": "2017", "shape": "dot", "size": 20}, {"color": "#97c2fc", "id": "2017 2018 Budget", "label": "2017 2018 Budget", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "Central Region", "label": "Central Region", "shape": "dot", "size": 19}, {"color": "#97c2fc", "id": "MMDAs", "label": "MMDAs", "shape": "dot", "size": 11}, {"color": "#97c2fc", "id": "Greater Accra Region", "label": "Greater Accra Region", "shape": "dot", "size": 19}, {"color": "#97c2fc", "id": "MDAs", "label": "MDAs", "shape": "dot", "size": 11}, {"color": "#97c2fc", "id": "2019 BUDGET ESTIMATES", "label": "2019 BUDGET ESTIMATES", "shape": "dot", "size": 19}, {"color": "#97c2fc", "id": "2019", "label": "2019", "shape": "dot", "size": 23}, {"color": "#97c2fc", "id": "2019 BUDGET", "label": "2019 BUDGET", "shape": "dot", "size": 11}, {"color": "#97c2fc", "id": "GH Cedi", "label": "GH Cedi", "shape": "dot", "size": 12}, {"color": "#97c2fc", "id": "National Development Planning Commission", "label": "National Development Planning Commission", "shape": "dot", "size": 13}, {"color": "#97c2fc", "id": "Institutions Number of Management letters issued", "label": "Institutions Number of Management letters issued", "shape": "dot", "size": 13}, {"color": "#97c2fc", "id": "Budget by Chart of Account", "label": "Budget by Chart of Account", "shape": "dot", "size": 11}, {"color": "#97c2fc", "id": "Chart of Account", "label": "Chart of Account", "shape": "dot", "size": 11}, {"color": "#97c2fc", "id": "Currency", "label": "Currency", "shape": "dot", "size": 11}, {"color": "#97c2fc", "id": "Entity", "label": "Entity", "shape": "dot", "size": 11}, {"color": "#97c2fc", "id": "2020", "label": "2020", "shape": "dot", "size": 11}, {"color": "#97c2fc", "id": "2021", "label": "2021", "shape": "dot", "size": 12}, {"color": "#97c2fc", "id": "2022", "label": "2022", "shape": "dot", "size": 11}, {"color": "#97c2fc", "id": "Natural Account", "label": "Natural Account", "shape": "dot", "size": 11}, {"color": "#97c2fc", "id": "Sub-Programme", "label": "Sub-Programme", "shape": "dot", "size": 12}, {"color": "#97c2fc", "id": "Programme", "label": "Programme", "shape": "dot", "size": 11}, {"color": "#97c2fc", "id": "Management", "label": "Management", "shape": "dot", "size": 11}, {"color": "#97c2fc", "id": "Administration", "label": "Administration", "shape": "dot", "size": 11}, {"color": "#97c2fc", "id": "2022 Target Actual", "label": "2022 Target Actual", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "Version 1", "label": "Version 1", "shape": "dot", "size": 11}, {"color": "#97c2fc", "id": "1", "label": "1", "shape": "dot", "size": 12}, {"color": "#97c2fc", "id": "All Source of Funding", "label": "All Source of Funding", "shape": "dot", "size": 11}, {"color": "#97c2fc", "id": "Funding", "label": "Funding", "shape": "dot", "size": 11}, {"color": "#97c2fc", "id": "4,198,490", "label": "4,198,490", "shape": "dot", "size": 11}, {"color": "#97c2fc", "id": "GFS", "label": "GFS", "shape": "dot", "size": 12}, {"color": "#97c2fc", "id": "4,198", "label": "4,198", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "4,307,201", "label": "4,307,201", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "indicators", "label": "indicators", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "sub-programme", "label": "sub-programme", "shape": "dot", "size": 11}, {"color": "#97c2fc", "id": "projections", "label": "projections", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "7,312,555", "label": "7,312,555", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "7", "label": "7", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "National Monitoring and Evaluation", "label": "National Monitoring and Evaluation", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "324,000", "label": "324,000", "shape": "dot", "size": 11}, {"color": "#97c2fc", "id": "Use of goods and services", "label": "Use of goods and services", "shape": "dot", "size": 11}, {"color": "#97c2fc", "id": "National Plan Preparation", "label": "National Plan Preparation", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "184,000", "label": "184,000", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "Operations", "label": "Operations", "shape": "dot", "size": 11}, {"color": "#97c2fc", "id": "Projects", "label": "Projects", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "Budget Sub-Programme Results Statement", "label": "Budget Sub-Programme Results Statement", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "Budget Sub-Programme", "label": "Budget Sub-Programme", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "Budget Sub-Programme Description", "label": "Budget Sub-Programme Description", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "Sub-Programme Description", "label": "Sub-Programme Description", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "2,030,261", "label": "2,030,261", "shape": "dot", "size": 11}, {"color": "#97c2fc", "id": "2,030", "label": "2,030", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "future performance", "label": "future performance", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "past data", "label": "past data", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "2,829,065", "label": "2,829,065", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "2,829", "label": "2,829", "shape": "dot", "size": 10}]);
+                  edges = new vis.DataSet([{"arrows": "to", "from": "265", "title": "subclass of", "to": "letters", "value": 49, "width": 1}, {"arrows": "to", "from": "letters", "title": "subclass of", "to": "200", "value": 49, "width": 1}, {"arrows": "to", "from": "letters", "title": "subclass of", "to": "260", "value": 49, "width": 1}, {"arrows": "to", "from": "letters", "title": "subclass of", "to": "Institutions Number of Management letters", "value": 49, "width": 1}, {"arrows": "to", "from": "375", "title": "has part", "to": "letters issued 275 280", "value": 49, "width": 1}, {"arrows": "to", "from": "375", "title": "has part", "to": "360", "value": 49, "width": 1}, {"arrows": "to", "from": "375", "title": "has part", "to": "275 280", "value": 49, "width": 1}, {"arrows": "to", "from": "360", "title": "has part", "to": "letters issued 275 280 360 360 375 375", "value": 49, "width": 1}, {"arrows": "to", "from": "360", "title": "has part", "to": "275 280", "value": 49, "width": 1}, {"arrows": "to", "from": "Institutions Number of Management letters", "title": "instance of", "to": "Western Region", "value": 11, "width": 1}, {"arrows": "to", "from": "2018 Budget", "title": "followed by", "to": "2017", "value": 49, "width": 1}, {"arrows": "to", "from": "2017", "title": "point in time", "to": "2017 2018 Budget", "value": 3, "width": 1}, {"arrows": "to", "from": "Central Region", "title": "instance of", "to": "MMDAs", "value": 49, "width": 1}, {"arrows": "to", "from": "MMDAs", "title": "instance of", "to": "Greater Accra Region", "value": 49, "width": 1}, {"arrows": "to", "from": "MMDAs", "title": "subclass of", "to": "MDAs", "value": 5, "width": 1}, {"arrows": "to", "from": "2019 BUDGET ESTIMATES", "title": "point in time", "to": "2019", "value": 45, "width": 1}, {"arrows": "to", "from": "2019", "title": "point in time", "to": "2019 BUDGET", "value": 7, "width": 1}, {"arrows": "to", "from": "2019", "title": "start time", "to": "GH Cedi", "value": 6, "width": 1}, {"arrows": "to", "from": "2019", "title": "inception", "to": "National Development Planning Commission", "value": 6, "width": 1}, {"arrows": "to", "from": "Institutions Number of Management letters issued", "title": "located in the administrative territorial entity", "to": "Western Region", "value": 16, "width": 1}, {"arrows": "to", "from": "Budget by Chart of Account", "title": "facet of", "to": "Chart of Account", "value": 9, "width": 1}, {"arrows": "to", "from": "GH Cedi", "title": "instance of", "to": "Currency", "value": 8, "width": 1}, {"arrows": "to", "from": "National Development Planning Commission", "title": "instance of", "to": "Entity", "value": 8, "width": 1}, {"arrows": "to", "from": "2020", "title": "follows", "to": "2021", "value": 7, "width": 1}, {"arrows": "to", "from": "2021", "title": "follows", "to": "2022", "value": 6, "width": 1}, {"arrows": "to", "from": "Natural Account", "title": "has part", "to": "Sub-Programme", "value": 6, "width": 1}, {"arrows": "to", "from": "Sub-Programme", "title": "has part", "to": "Programme", "value": 6, "width": 1}, {"arrows": "to", "from": "Management", "title": "has part", "to": "Administration", "value": 6, "width": 1}, {"arrows": "to", "from": "2022", "title": "point in time", "to": "2022 Target Actual", "value": 5, "width": 1}, {"arrows": "to", "from": "Version 1", "title": "point in time", "to": "1", "value": 6, "width": 1}, {"arrows": "to", "from": "All Source of Funding", "title": "instance of", "to": "Funding", "value": 6, "width": 1}, {"arrows": "to", "from": "4,198,490", "title": "instance of", "to": "GFS", "value": 4, "width": 1}, {"arrows": "to", "from": "4,198,490", "title": "point in time", "to": "4,198", "value": 4, "width": 1}, {"arrows": "to", "from": "GFS", "title": "instance of", "to": "4,307,201", "value": 4, "width": 1}, {"arrows": "to", "from": "indicators", "title": "part of", "to": "sub-programme", "value": 4, "width": 1}, {"arrows": "to", "from": "sub-programme", "title": "part of", "to": "projections", "value": 4, "width": 1}, {"arrows": "to", "from": "7,312,555", "title": "number of episodes", "to": "7", "value": 4, "width": 1}, {"arrows": "to", "from": "National Monitoring and Evaluation", "title": "number of participants", "to": "324,000", "value": 4, "width": 1}, {"arrows": "to", "from": "324,000", "title": "number of participants", "to": "Use of goods and services", "value": 3, "width": 1}, {"arrows": "to", "from": "National Plan Preparation", "title": "number of participants", "to": "184,000", "value": 4, "width": 1}, {"arrows": "to", "from": "184,000", "title": "number of participants", "to": "Use of goods and services", "value": 3, "width": 1}, {"arrows": "to", "from": "Operations", "title": "part of", "to": "Projects", "value": 3, "width": 1}, {"arrows": "to", "from": "Budget Sub-Programme Results Statement", "title": "facet of", "to": "Budget Sub-Programme", "value": 3, "width": 1}, {"arrows": "to", "from": "Budget Sub-Programme Description", "title": "subclass of", "to": "Sub-Programme Description", "value": 3, "width": 1}, {"arrows": "to", "from": "2,030,261", "title": "point in time", "to": "2,030", "value": 3, "width": 1}, {"arrows": "to", "from": "future performance", "title": "opposite of", "to": "past data", "value": 3, "width": 1}, {"arrows": "to", "from": "2,829,065", "title": "point in time", "to": "2,829", "value": 3, "width": 1}]);
+
+                  nodeColors = {};
+                  allNodes = nodes.get({ returnType: "Object" });
+                  for (nodeId in allNodes) {
+                    nodeColors[nodeId] = allNodes[nodeId].color;
+                  }
+                  allEdges = edges.get({ returnType: "Object" });
+                  // adding nodes and edges to the graph
+                  data = {nodes: nodes, edges: edges};
+
+                  var options = {
+    "configure": {
+        "enabled": false
+    },
+    "edges": {
+        "color": {
+            "inherit": true
+        },
+        "smooth": {
+            "enabled": true,
+            "type": "dynamic"
+        }
+    },
+    "interaction": {
+        "dragNodes": true,
+        "hideEdgesOnDrag": false,
+        "hideNodesOnDrag": false
+    },
+    "physics": {
+        "enabled": true,
+        "stabilization": {
+            "enabled": true,
+            "fit": true,
+            "iterations": 1000,
+            "onlyDynamicEdges": false,
+            "updateInterval": 50
+        }
+    }
+};
+
+                  
+
+
+                  
+
+                  network = new vis.Network(container, data, options);
+
+                  
+
+                  
+
+                  
+
+
+                  
+
+                  return network;
+
+              }
+              drawGraph();
+        </script>
+    </body>
+</html>

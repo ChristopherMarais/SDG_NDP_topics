@@ -1,0 +1,250 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        
+            <script src="lib/bindings/utils.js"></script>
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/dist/vis-network.min.css" integrity="sha512-WgxfT5LWjfszlPHXRmBWHkV2eceiWTOBvrKCNbdgDYTHrT2AeLCGbF4sZlZw3UMN3WtL0tGUoIAKsu8mllg/XA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/vis-network.min.js" integrity="sha512-LnvoEWDFrqGHlHmDD2101OrLcbsfkrzoSpvtSQtxK3RMnRV0eOkhhBN2dXHKRrUU8p2DGRTk35n4O8nWSVe1mQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+            
+        
+<center>
+<h1></h1>
+</center>
+
+<!-- <link rel="stylesheet" href="../node_modules/vis/dist/vis.min.css" type="text/css" />
+<script type="text/javascript" src="../node_modules/vis/dist/vis.js"> </script>-->
+        <link
+          href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css"
+          rel="stylesheet"
+          integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6"
+          crossorigin="anonymous"
+        />
+        <script
+          src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.bundle.min.js"
+          integrity="sha384-JEW9xMcG8R+pH31jmWH6WWP0WintQrMb4s7ZOdauHnUtxwoG2vI5DkLtS3qm9Ekf"
+          crossorigin="anonymous"
+        ></script>
+
+
+        <center>
+          <h1></h1>
+        </center>
+        <style type="text/css">
+
+             #mynetwork {
+                 width: 100%;
+                 height: 1000px;
+                 background-color: #ffffff;
+                 border: 1px solid lightgray;
+                 position: relative;
+                 float: left;
+             }
+
+             
+             #loadingBar {
+                 position:absolute;
+                 top:0px;
+                 left:0px;
+                 width: 100%;
+                 height: 1000px;
+                 background-color:rgba(200,200,200,0.8);
+                 -webkit-transition: all 0.5s ease;
+                 -moz-transition: all 0.5s ease;
+                 -ms-transition: all 0.5s ease;
+                 -o-transition: all 0.5s ease;
+                 transition: all 0.5s ease;
+                 opacity:1;
+             }
+
+             #bar {
+                 position:absolute;
+                 top:0px;
+                 left:0px;
+                 width:20px;
+                 height:20px;
+                 margin:auto auto auto auto;
+                 border-radius:11px;
+                 border:2px solid rgba(30,30,30,0.05);
+                 background: rgb(0, 173, 246); /* Old browsers */
+                 box-shadow: 2px 0px 4px rgba(0,0,0,0.4);
+             }
+
+             #border {
+                 position:absolute;
+                 top:10px;
+                 left:10px;
+                 width:500px;
+                 height:23px;
+                 margin:auto auto auto auto;
+                 box-shadow: 0px 0px 4px rgba(0,0,0,0.2);
+                 border-radius:10px;
+             }
+
+             #text {
+                 position:absolute;
+                 top:8px;
+                 left:530px;
+                 width:30px;
+                 height:50px;
+                 margin:auto auto auto auto;
+                 font-size:22px;
+                 color: #000000;
+             }
+
+             div.outerBorder {
+                 position:relative;
+                 top:400px;
+                 width:600px;
+                 height:44px;
+                 margin:auto auto auto auto;
+                 border:8px solid rgba(0,0,0,0.1);
+                 background: rgb(252,252,252); /* Old browsers */
+                 background: -moz-linear-gradient(top,  rgba(252,252,252,1) 0%, rgba(237,237,237,1) 100%); /* FF3.6+ */
+                 background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(252,252,252,1)), color-stop(100%,rgba(237,237,237,1))); /* Chrome,Safari4+ */
+                 background: -webkit-linear-gradient(top,  rgba(252,252,252,1) 0%,rgba(237,237,237,1) 100%); /* Chrome10+,Safari5.1+ */
+                 background: -o-linear-gradient(top,  rgba(252,252,252,1) 0%,rgba(237,237,237,1) 100%); /* Opera 11.10+ */
+                 background: -ms-linear-gradient(top,  rgba(252,252,252,1) 0%,rgba(237,237,237,1) 100%); /* IE10+ */
+                 background: linear-gradient(to bottom,  rgba(252,252,252,1) 0%,rgba(237,237,237,1) 100%); /* W3C */
+                 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fcfcfc', endColorstr='#ededed',GradientType=0 ); /* IE6-9 */
+                 border-radius:72px;
+                 box-shadow: 0px 0px 10px rgba(0,0,0,0.2);
+             }
+             
+
+             
+
+             
+        </style>
+    </head>
+
+
+    <body>
+        <div class="card" style="width: 100%">
+            
+            
+            <div id="mynetwork" class="card-body"></div>
+        </div>
+
+        
+            <div id="loadingBar">
+              <div class="outerBorder">
+                <div id="text">0%</div>
+                <div id="border">
+                  <div id="bar"></div>
+                </div>
+              </div>
+            </div>
+        
+        
+
+        <script type="text/javascript">
+
+              // initialize global variables.
+              var edges;
+              var nodes;
+              var allNodes;
+              var allEdges;
+              var nodeColors;
+              var originalNodes;
+              var network;
+              var container;
+              var options, data;
+              var filter = {
+                  item : '',
+                  property : '',
+                  value : []
+              };
+
+              
+
+              
+
+              // This method is responsible for drawing the graph, returns the drawn network
+              function drawGraph() {
+                  var container = document.getElementById('mynetwork');
+
+                  
+
+                  // parsing and collecting nodes and edges from the python
+                  nodes = new vis.DataSet([{"color": "#97c2fc", "id": "J U N E", "label": "J U N E", "shape": "dot", "size": 31}, {"color": "#97c2fc", "id": "2", "label": "2", "shape": "dot", "size": 24}, {"color": "#97c2fc", "id": "0", "label": "0", "shape": "dot", "size": 20}, {"color": "#97c2fc", "id": "2 0 2 0", "label": "2 0 2 0", "shape": "dot", "size": 20}, {"color": "#97c2fc", "id": "1.2", "label": "1.2", "shape": "dot", "size": 12}, {"color": "#97c2fc", "id": "3", "label": "3", "shape": "dot", "size": 13}, {"color": "#97c2fc", "id": "SDGs", "label": "SDGs", "shape": "dot", "size": 41}, {"color": "#97c2fc", "id": "2017", "label": "2017", "shape": "dot", "size": 21}, {"color": "#97c2fc", "id": "2018", "label": "2018", "shape": "dot", "size": 22}, {"color": "#97c2fc", "id": "2016", "label": "2016", "shape": "dot", "size": 14}, {"color": "#97c2fc", "id": "2012", "label": "2012", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "2019", "label": "2019", "shape": "dot", "size": 17}, {"color": "#97c2fc", "id": "2014", "label": "2014", "shape": "dot", "size": 11}, {"color": "#97c2fc", "id": "Targets and Indicators", "label": "Targets and Indicators", "shape": "dot", "size": 18}, {"color": "#97c2fc", "id": "Indicators", "label": "Indicators", "shape": "dot", "size": 16}, {"color": "#97c2fc", "id": "2020", "label": "2020", "shape": "dot", "size": 13}, {"color": "#97c2fc", "id": "Activit", "label": "Activit", "shape": "dot", "size": 15}, {"color": "#97c2fc", "id": "Priorit y Activit", "label": "Priorit y Activit", "shape": "dot", "size": 11}, {"color": "#97c2fc", "id": "Priorit y Activit ies", "label": "Priorit y Activit ies", "shape": "dot", "size": 14}, {"color": "#97c2fc", "id": "China", "label": "China", "shape": "dot", "size": 19}, {"color": "#97c2fc", "id": "Laos", "label": "Laos", "shape": "dot", "size": 17}, {"color": "#97c2fc", "id": "Vientiane", "label": "Vientiane", "shape": "dot", "size": 21}, {"color": "#97c2fc", "id": "Capital", "label": "Capital", "shape": "dot", "size": 13}, {"color": "#97c2fc", "id": "provinces", "label": "provinces", "shape": "dot", "size": 14}, {"color": "#97c2fc", "id": "1.1", "label": "1.1", "shape": "dot", "size": 12}, {"color": "#97c2fc", "id": "1", "label": "1", "shape": "dot", "size": 11}, {"color": "#97c2fc", "id": "New project", "label": "New project", "shape": "dot", "size": 17}, {"color": "#97c2fc", "id": "project", "label": "project", "shape": "dot", "size": 11}, {"color": "#97c2fc", "id": "Lao", "label": "Lao", "shape": "dot", "size": 14}, {"color": "#97c2fc", "id": "PDR", "label": "PDR", "shape": "dot", "size": 13}, {"color": "#97c2fc", "id": "services", "label": "services", "shape": "dot", "size": 15}, {"color": "#97c2fc", "id": "production", "label": "production", "shape": "dot", "size": 16}, {"color": "#97c2fc", "id": "goods", "label": "goods", "shape": "dot", "size": 12}, {"color": "#97c2fc", "id": "trade", "label": "trade", "shape": "dot", "size": 14}, {"color": "#97c2fc", "id": "technology", "label": "technology", "shape": "dot", "size": 16}, {"color": "#97c2fc", "id": "science", "label": "science", "shape": "dot", "size": 14}, {"color": "#97c2fc", "id": "innovation", "label": "innovation", "shape": "dot", "size": 13}, {"color": "#97c2fc", "id": "women", "label": "women", "shape": "dot", "size": 18}, {"color": "#97c2fc", "id": "men", "label": "men", "shape": "dot", "size": 11}, {"color": "#97c2fc", "id": "children", "label": "children", "shape": "dot", "size": 13}, {"color": "#97c2fc", "id": "Kenya Vision 2030", "label": "Kenya Vision 2030", "shape": "dot", "size": 13}, {"color": "#97c2fc", "id": "2030", "label": "2030", "shape": "dot", "size": 18}, {"color": "#97c2fc", "id": "Vision 2030", "label": "Vision 2030", "shape": "dot", "size": 11}, {"color": "#97c2fc", "id": "provincial", "label": "provincial", "shape": "dot", "size": 12}, {"color": "#97c2fc", "id": "district", "label": "district", "shape": "dot", "size": 12}, {"color": "#97c2fc", "id": "regional", "label": "regional", "shape": "dot", "size": 19}, {"color": "#97c2fc", "id": "international integration", "label": "international integration", "shape": "dot", "size": 12}, {"color": "#97c2fc", "id": "international", "label": "international", "shape": "dot", "size": 14}, {"color": "#97c2fc", "id": "rural", "label": "rural", "shape": "dot", "size": 16}, {"color": "#97c2fc", "id": "urban", "label": "urban", "shape": "dot", "size": 13}, {"color": "#97c2fc", "id": "remote areas", "label": "remote areas", "shape": "dot", "size": 11}, {"color": "#97c2fc", "id": "urban areas", "label": "urban areas", "shape": "dot", "size": 11}, {"color": "#97c2fc", "id": "rural areas", "label": "rural areas", "shape": "dot", "size": 13}, {"color": "#97c2fc", "id": "Kenya", "label": "Kenya", "shape": "dot", "size": 20}, {"color": "#97c2fc", "id": "United Nations", "label": "United Nations", "shape": "dot", "size": 11}, {"color": "#97c2fc", "id": "implementation", "label": "implementation", "shape": "dot", "size": 12}, {"color": "#97c2fc", "id": "8", "label": "8", "shape": "dot", "size": 11}, {"color": "#97c2fc", "id": "SDG", "label": "SDG", "shape": "dot", "size": 14}, {"color": "#97c2fc", "id": "forestry", "label": "forestry", "shape": "dot", "size": 12}, {"color": "#97c2fc", "id": "agriculture", "label": "agriculture", "shape": "dot", "size": 11}, {"color": "#97c2fc", "id": "males", "label": "males", "shape": "dot", "size": 11}, {"color": "#97c2fc", "id": "females", "label": "females", "shape": "dot", "size": 11}, {"color": "#97c2fc", "id": "localities", "label": "localities", "shape": "dot", "size": 12}, {"color": "#97c2fc", "id": "sectors", "label": "sectors", "shape": "dot", "size": 17}, {"color": "#97c2fc", "id": "local", "label": "local", "shape": "dot", "size": 15}, {"color": "#97c2fc", "id": "central", "label": "central", "shape": "dot", "size": 15}, {"color": "#97c2fc", "id": "administration", "label": "administration", "shape": "dot", "size": 13}, {"color": "#97c2fc", "id": "public governance", "label": "public governance", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "legislation", "label": "legislation", "shape": "dot", "size": 15}, {"color": "#97c2fc", "id": "regulations", "label": "regulations", "shape": "dot", "size": 14}, {"color": "#97c2fc", "id": "teaching", "label": "teaching", "shape": "dot", "size": 12}, {"color": "#97c2fc", "id": "learning", "label": "learning", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "II.", "label": "II.", "shape": "dot", "size": 11}, {"color": "#97c2fc", "id": "II", "label": "II", "shape": "dot", "size": 11}, {"color": "#97c2fc", "id": "economic development", "label": "economic development", "shape": "dot", "size": 12}, {"color": "#97c2fc", "id": "development", "label": "development", "shape": "dot", "size": 13}, {"color": "#97c2fc", "id": "infrastructure", "label": "infrastructure", "shape": "dot", "size": 18}, {"color": "#97c2fc", "id": "sustainable", "label": "sustainable", "shape": "dot", "size": 15}, {"color": "#97c2fc", "id": "research", "label": "research", "shape": "dot", "size": 14}, {"color": "#97c2fc", "id": "green", "label": "green", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "sustainable development", "label": "sustainable development", "shape": "dot", "size": 12}, {"color": "#97c2fc", "id": "scientific", "label": "scientific", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "Output 1", "label": "Output 1", "shape": "dot", "size": 11}, {"color": "#97c2fc", "id": "economic growth", "label": "economic growth", "shape": "dot", "size": 12}, {"color": "#97c2fc", "id": "ECONOMIC", "label": "ECONOMIC", "shape": "dot", "size": 11}, {"color": "#97c2fc", "id": "DEVELOPMENT", "label": "DEVELOPMENT", "shape": "dot", "size": 12}, {"color": "#97c2fc", "id": "tourism", "label": "tourism", "shape": "dot", "size": 18}, {"color": "#97c2fc", "id": "industry", "label": "industry", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "social security", "label": "social security", "shape": "dot", "size": 12}, {"color": "#97c2fc", "id": "social protection", "label": "social protection", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "natural resources", "label": "natural resources", "shape": "dot", "size": 12}, {"color": "#97c2fc", "id": "environment", "label": "environment", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "public sector", "label": "public sector", "shape": "dot", "size": 12}, {"color": "#97c2fc", "id": "private sector", "label": "private sector", "shape": "dot", "size": 12}, {"color": "#97c2fc", "id": "towns", "label": "towns", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "cities", "label": "cities", "shape": "dot", "size": 11}, {"color": "#97c2fc", "id": "4.2", "label": "4.2", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "4", "label": "4", "shape": "dot", "size": 12}, {"color": "#97c2fc", "id": "vocational education", "label": "vocational education", "shape": "dot", "size": 11}, {"color": "#97c2fc", "id": "secondary school", "label": "secondary school", "shape": "dot", "size": 11}, {"color": "#97c2fc", "id": "Marsabit", "label": "Marsabit", "shape": "dot", "size": 11}, {"color": "#97c2fc", "id": "counties", "label": "counties", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "Busia", "label": "Busia", "shape": "dot", "size": 11}, {"color": "#97c2fc", "id": "rich", "label": "rich", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "poor", "label": "poor", "shape": "dot", "size": 11}, {"color": "#97c2fc", "id": "programmes", "label": "programmes", "shape": "dot", "size": 11}, {"color": "#97c2fc", "id": "projects", "label": "projects", "shape": "dot", "size": 12}, {"color": "#97c2fc", "id": "forest", "label": "forest", "shape": "dot", "size": 13}, {"color": "#97c2fc", "id": "natural resource", "label": "natural resource", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "semi-arid", "label": "semi-arid", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "arid", "label": "arid", "shape": "dot", "size": 11}, {"color": "#97c2fc", "id": "monetary", "label": "monetary", "shape": "dot", "size": 11}, {"color": "#97c2fc", "id": "financial", "label": "financial", "shape": "dot", "size": 11}, {"color": "#97c2fc", "id": "2017/18", "label": "2017/18", "shape": "dot", "size": 11}, {"color": "#97c2fc", "id": "2018/19", "label": "2018/19", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "districts", "label": "districts", "shape": "dot", "size": 12}, {"color": "#97c2fc", "id": "hygiene", "label": "hygiene", "shape": "dot", "size": 11}, {"color": "#97c2fc", "id": "health", "label": "health", "shape": "dot", "size": 14}, {"color": "#97c2fc", "id": "NATIONAL REVIEW REPORT", "label": "NATIONAL REVIEW REPORT", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "VOLUNTARY NATIONAL REVIEW", "label": "VOLUNTARY NATIONAL REVIEW", "shape": "dot", "size": 10}, {"color": "#97c2fc", "id": "private sectors", "label": "private sectors", "shape": "dot", "size": 11}, {"color": "#97c2fc", "id": "public", "label": "public", "shape": "dot", "size": 15}, {"color": "#97c2fc", "id": "rule of law", "label": "rule of law", "shape": "dot", "size": 11}, {"color": "#97c2fc", "id": "law", "label": "law", "shape": "dot", "size": 12}, {"color": "#97c2fc", "id": "budgeting", "label": "budgeting", "shape": "dot", "size": 12}, {"color": "#97c2fc", "id": "planning", "label": "planning", "shape": "dot", "size": 11}, {"color": "#97c2fc", "id": "revenue", "label": "revenue", "shape": "dot", "size": 13}, {"color": "#97c2fc", "id": "budget", "label": "budget", "shape": "dot", "size": 11}, {"color": "#97c2fc", "id": "girls", "label": "girls", "shape": "dot", "size": 11}, {"color": "#97c2fc", "id": "boys", "label": "boys", "shape": "dot", "size": 11}, {"color": "#97c2fc", "id": "vocational", "label": "vocational", "shape": "dot", "size": 12}, {"color": "#97c2fc", "id": "education", "label": "education", "shape": "dot", "size": 14}, {"color": "#97c2fc", "id": "drought", "label": "drought", "shape": "dot", "size": 11}, {"color": "#97c2fc", "id": "flood", "label": "flood", "shape": "dot", "size": 11}]);
+                  edges = new vis.DataSet([{"arrows": "to", "from": "J U N E", "title": "part of", "to": "2", "value": 31, "width": 1}, {"arrows": "to", "from": "J U N E", "title": "has part", "to": "0", "value": 31, "width": 1}, {"arrows": "to", "from": "2", "title": "number of participants", "to": "2 0 2 0", "value": 30, "width": 1}, {"arrows": "to", "from": "2", "title": "followed by", "to": "1.2", "value": 8, "width": 1}, {"arrows": "to", "from": "2", "title": "followed by", "to": "3", "value": 5, "width": 1}, {"arrows": "to", "from": "2", "title": "has part", "to": "SDGs", "value": 3, "width": 1}, {"arrows": "to", "from": "2017", "title": "follows", "to": "2018", "value": 12, "width": 1}, {"arrows": "to", "from": "2017", "title": "follows", "to": "2016", "value": 3, "width": 1}, {"arrows": "to", "from": "2017", "title": "followed by", "to": "2012", "value": 3, "width": 1}, {"arrows": "to", "from": "2018", "title": "follows", "to": "2019", "value": 5, "width": 1}, {"arrows": "to", "from": "2018", "title": "follows", "to": "2016", "value": 3, "width": 1}, {"arrows": "to", "from": "2018", "title": "followed by", "to": "2014", "value": 3, "width": 1}, {"arrows": "to", "from": "Targets and Indicators", "title": "part of", "to": "Indicators", "value": 19, "width": 1}, {"arrows": "to", "from": "2019", "title": "follows", "to": "2020", "value": 9, "width": 1}, {"arrows": "to", "from": "2019", "title": "follows", "to": "2016", "value": 4, "width": 1}, {"arrows": "to", "from": "Activit", "title": "part of", "to": "Priorit y Activit", "value": 16, "width": 1}, {"arrows": "to", "from": "Activit", "title": "has part", "to": "Priorit y Activit ies", "value": 15, "width": 1}, {"arrows": "to", "from": "China", "title": "shares border with", "to": "Laos", "value": 14, "width": 1}, {"arrows": "to", "from": "Vientiane", "title": "instance of", "to": "Capital", "value": 10, "width": 1}, {"arrows": "to", "from": "Vientiane", "title": "instance of", "to": "provinces", "value": 3, "width": 1}, {"arrows": "to", "from": "1.1", "title": "point in time", "to": "1", "value": 8, "width": 1}, {"arrows": "to", "from": "New project", "title": "instance of", "to": "project", "value": 8, "width": 1}, {"arrows": "to", "from": "Lao", "title": "said to be the same as", "to": "PDR", "value": 3, "width": 1}, {"arrows": "to", "from": "services", "title": "part of", "to": "production", "value": 7, "width": 1}, {"arrows": "to", "from": "services", "title": "different from", "to": "goods", "value": 3, "width": 1}, {"arrows": "to", "from": "production", "title": "part of", "to": "trade", "value": 3, "width": 1}, {"arrows": "to", "from": "technology", "title": "has part", "to": "science", "value": 7, "width": 1}, {"arrows": "to", "from": "technology", "title": "has cause", "to": "innovation", "value": 4, "width": 1}, {"arrows": "to", "from": "women", "title": "opposite of", "to": "men", "value": 5, "width": 1}, {"arrows": "to", "from": "women", "title": "has part", "to": "children", "value": 4, "width": 1}, {"arrows": "to", "from": "Kenya Vision 2030", "title": "point in time", "to": "2030", "value": 7, "width": 1}, {"arrows": "to", "from": "2030", "title": "point in time", "to": "Vision 2030", "value": 3, "width": 1}, {"arrows": "to", "from": "provincial", "title": "located in the administrative territorial entity", "to": "district", "value": 6, "width": 1}, {"arrows": "to", "from": "regional", "title": "part of", "to": "international integration", "value": 6, "width": 1}, {"arrows": "to", "from": "regional", "title": "part of", "to": "international", "value": 5, "width": 1}, {"arrows": "to", "from": "rural", "title": "opposite of", "to": "urban", "value": 5, "width": 1}, {"arrows": "to", "from": "rural", "title": "has part", "to": "remote areas", "value": 4, "width": 1}, {"arrows": "to", "from": "rural", "title": "opposite of", "to": "urban areas", "value": 3, "width": 1}, {"arrows": "to", "from": "urban", "title": "opposite of", "to": "rural areas", "value": 4, "width": 1}, {"arrows": "to", "from": "Kenya", "title": "country", "to": "SDGs", "value": 3, "width": 1}, {"arrows": "to", "from": "Kenya", "title": "member of", "to": "United Nations", "value": 3, "width": 1}, {"arrows": "to", "from": "SDGs", "title": "instance of", "to": "3", "value": 3, "width": 1}, {"arrows": "to", "from": "SDGs", "title": "facet of", "to": "implementation", "value": 4, "width": 1}, {"arrows": "to", "from": "SDGs", "title": "has part", "to": "8", "value": 3, "width": 1}, {"arrows": "to", "from": "SDGs", "title": "facet of", "to": "SDG", "value": 3, "width": 1}, {"arrows": "to", "from": "forestry", "title": "part of", "to": "agriculture", "value": 6, "width": 1}, {"arrows": "to", "from": "males", "title": "opposite of", "to": "females", "value": 6, "width": 1}, {"arrows": "to", "from": "localities", "title": "has part", "to": "sectors", "value": 4, "width": 1}, {"arrows": "to", "from": "local", "title": "located in the administrative territorial entity", "to": "central", "value": 5, "width": 1}, {"arrows": "to", "from": "administration", "title": "part of", "to": "public governance", "value": 5, "width": 1}, {"arrows": "to", "from": "legislation", "title": "part of", "to": "regulations", "value": 4, "width": 1}, {"arrows": "to", "from": "teaching", "title": "subclass of", "to": "learning", "value": 5, "width": 1}, {"arrows": "to", "from": "II.", "title": "point in time", "to": "II", "value": 4, "width": 1}, {"arrows": "to", "from": "economic development", "title": "subclass of", "to": "development", "value": 4, "width": 1}, {"arrows": "to", "from": "development", "title": "part of", "to": "infrastructure", "value": 3, "width": 1}, {"arrows": "to", "from": "development", "title": "subclass of", "to": "sustainable", "value": 3, "width": 1}, {"arrows": "to", "from": "development", "title": "part of", "to": "research", "value": 3, "width": 1}, {"arrows": "to", "from": "sustainable", "title": "subclass of", "to": "green", "value": 4, "width": 1}, {"arrows": "to", "from": "green", "title": "subclass of", "to": "sustainable development", "value": 4, "width": 1}, {"arrows": "to", "from": "research", "title": "part of", "to": "scientific", "value": 4, "width": 1}, {"arrows": "to", "from": "Output 1", "title": "facet of", "to": "economic growth", "value": 4, "width": 1}, {"arrows": "to", "from": "ECONOMIC", "title": "part of", "to": "DEVELOPMENT", "value": 4, "width": 1}, {"arrows": "to", "from": "tourism", "title": "instance of", "to": "industry", "value": 4, "width": 1}, {"arrows": "to", "from": "social security", "title": "subclass of", "to": "social protection", "value": 4, "width": 1}, {"arrows": "to", "from": "natural resources", "title": "part of", "to": "environment", "value": 4, "width": 1}, {"arrows": "to", "from": "public sector", "title": "opposite of", "to": "private sector", "value": 3, "width": 1}, {"arrows": "to", "from": "towns", "title": "different from", "to": "cities", "value": 3, "width": 1}, {"arrows": "to", "from": "4.2", "title": "point in time", "to": "4", "value": 3, "width": 1}, {"arrows": "to", "from": "vocational education", "title": "subclass of", "to": "secondary school", "value": 3, "width": 1}, {"arrows": "to", "from": "Marsabit", "title": "instance of", "to": "counties", "value": 3, "width": 1}, {"arrows": "to", "from": "counties", "title": "instance of", "to": "Busia", "value": 3, "width": 1}, {"arrows": "to", "from": "rich", "title": "opposite of", "to": "poor", "value": 3, "width": 1}, {"arrows": "to", "from": "programmes", "title": "part of", "to": "projects", "value": 3, "width": 1}, {"arrows": "to", "from": "forest", "title": "subclass of", "to": "natural resource", "value": 3, "width": 1}, {"arrows": "to", "from": "semi-arid", "title": "subclass of", "to": "arid", "value": 3, "width": 1}, {"arrows": "to", "from": "monetary", "title": "part of", "to": "financial", "value": 3, "width": 1}, {"arrows": "to", "from": "2017/18", "title": "follows", "to": "2018/19", "value": 3, "width": 1}, {"arrows": "to", "from": "provinces", "title": "part of", "to": "districts", "value": 3, "width": 1}, {"arrows": "to", "from": "hygiene", "title": "facet of", "to": "health", "value": 3, "width": 1}, {"arrows": "to", "from": "NATIONAL REVIEW REPORT", "title": "main subject", "to": "VOLUNTARY NATIONAL REVIEW", "value": 3, "width": 1}, {"arrows": "to", "from": "private sectors", "title": "has part", "to": "public", "value": 3, "width": 1}, {"arrows": "to", "from": "rule of law", "title": "subclass of", "to": "law", "value": 3, "width": 1}, {"arrows": "to", "from": "budgeting", "title": "subclass of", "to": "planning", "value": 3, "width": 1}, {"arrows": "to", "from": "revenue", "title": "part of", "to": "budget", "value": 3, "width": 1}, {"arrows": "to", "from": "girls", "title": "opposite of", "to": "boys", "value": 3, "width": 1}, {"arrows": "to", "from": "vocational", "title": "subclass of", "to": "education", "value": 3, "width": 1}, {"arrows": "to", "from": "drought", "title": "has effect", "to": "flood", "value": 3, "width": 1}]);
+
+                  nodeColors = {};
+                  allNodes = nodes.get({ returnType: "Object" });
+                  for (nodeId in allNodes) {
+                    nodeColors[nodeId] = allNodes[nodeId].color;
+                  }
+                  allEdges = edges.get({ returnType: "Object" });
+                  // adding nodes and edges to the graph
+                  data = {nodes: nodes, edges: edges};
+
+                  var options = {
+    "configure": {
+        "enabled": false
+    },
+    "edges": {
+        "color": {
+            "inherit": true
+        },
+        "smooth": {
+            "enabled": true,
+            "type": "dynamic"
+        }
+    },
+    "interaction": {
+        "dragNodes": true,
+        "hideEdgesOnDrag": false,
+        "hideNodesOnDrag": false
+    },
+    "physics": {
+        "enabled": true,
+        "stabilization": {
+            "enabled": true,
+            "fit": true,
+            "iterations": 1000,
+            "onlyDynamicEdges": false,
+            "updateInterval": 50
+        }
+    }
+};
+
+                  
+
+
+                  
+
+                  network = new vis.Network(container, data, options);
+
+                  
+
+                  
+
+                  
+
+
+                  
+                      network.on("stabilizationProgress", function(params) {
+                          document.getElementById('loadingBar').removeAttribute("style");
+                          var maxWidth = 496;
+                          var minWidth = 20;
+                          var widthFactor = params.iterations/params.total;
+                          var width = Math.max(minWidth,maxWidth * widthFactor);
+                          document.getElementById('bar').style.width = width + 'px';
+                          document.getElementById('text').innerHTML = Math.round(widthFactor*100) + '%';
+                      });
+                      network.once("stabilizationIterationsDone", function() {
+                          document.getElementById('text').innerHTML = '100%';
+                          document.getElementById('bar').style.width = '496px';
+                          document.getElementById('loadingBar').style.opacity = 0;
+                          // really clean the dom element
+                          setTimeout(function () {document.getElementById('loadingBar').style.display = 'none';}, 500);
+                      });
+                  
+
+                  return network;
+
+              }
+              drawGraph();
+        </script>
+    </body>
+</html>
