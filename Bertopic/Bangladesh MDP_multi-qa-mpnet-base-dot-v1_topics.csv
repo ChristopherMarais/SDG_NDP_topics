@@ -1,4 +1,91 @@
 topic,probability,count,topic_words
--1.0,0.0,13665,
-0.0,0.8225483142804132,17935,the of and to in for be will is with on an as by has
-1.0,0.7353624776323011,175,              
+-1.0,0.0,13889,
+0.0,0.8171206470248153,13282,the of in to and 8fyp for be is will on plan by as with
+1.0,0.9593703313422549,844,agriculture agricultural fisheries farmers production crop fish livestock crops farming farm yield shrimp and products
+2.0,0.8899335169975819,236,food nutrition security safety vitamin nutritional micronutrient supplementation feeding iron foods nutritious ensuring and nutrient
+3.0,0.8505524992975466,195,forest biodiversity wildlife forestry conservation tree cover forests sundarbans management protected department tiger deforestation shall
+4.0,0.3876038706950521,185,covid 19 pandemic effects spread virus recovery impact the corona global health onslaught to has
+5.0,0.5506216121939695,171,health medical care hospitals nursing doctors quality phc nurses facilities service healthcare services clinics private
+6.0,0.4914646344935062,159,              
+7.0,0.6117583362976555,138,rural development infrastructure area micro transformation poverty people economy through livelihood of population farm the
+8.0,0.48179401171106984,125,waste sludge solid faecal management disposal wastes treatment plant composting recycling fsm compost effluent collection
+9.0,0.861114086565528,124,skills training skill learning lifelong job be programmes courses education innate to will specialist entrepreneurship
+10.0,0.6278533655131833,112,migration migrant migrants overseas workers employment ministry labour reintegration abroad returnee cost for of potential
+11.0,0.7450552335725549,108,births mortality maternal birth reproductive family live planning health 000 expectancy marriage svrs rate contraceptive
+12.0,0.5349364986027717,88,tax vat taxes income collection administration reform revenue taxpayers taxation filing simplified modernization sources returns
+13.0,0.6955786300316135,86,              
+14.0,0.6795979301884677,77,justice cases judicial backlog law judiciary judges court courts pending justic formal case informal disposal
+15.0,0.5793329670832493,67,rdcd brdb rda rural coxda breb development bpdb board rba kda has organization electrification socio
+16.0,0.70485294702773,66,diseases communicable disease immunization control vaccines hepatitis vaccination emerging oral non tb chikungunya prevention surveillance
+17.0,0.7865757966835162,63,air airports airport international demand domestic traffic transport aviation upgrade runway services airline growing inter
+18.0,0.6564425544542617,63,delta plan wing knowledge related implementation adaptive 2100 ministries the dp management option research adm
+19.0,0.9110809760790605,59,religious islamic buddhist books libraries mosques temples project hindu trust renovation publication provide imam churches
+20.0,0.5892958164998657,56,fta agreement ftas trade pta ptas free wto preferential bilateral list safta signing could negotiations
+21.0,0.7322257702856038,56,remittance remittances have flows income inflows povert played used use productive impact lowered they effects
+22.0,0.5588231673641757,55,4ir revolution fourth industrial stack 4i technology leveraging digital driving ir4 revolutions demand technologies sophistication
+23.0,0.6575905484446337,52,madrasa stream madrasas qawmi aliya education madrasah registered teachers technical 000 graduates students been ict
+24.0,0.649118209474689,48,hpn hpnsp 4th swap nutrition health sector population services program swaps fourth serving titled has
+25.0,0.7494815020705193,47,offences digital illegal cyber crime terrorist crimes media cybercrime computer networks data attacks privacy related
+26.0,0.6287869865932135,47,bdp2100 bdp 2100 implementation pip bdp210 water phase the iwrm adoption pp2041 management investment involves
+27.0,0.8795112627459537,46,passenger lac la ferry bus 101 130 00 by passeng mocat 31 34 146 biwtc
+28.0,0.8514169911775135,43,culture cultural sports religion language tribal ethnic recreation upholding cultura spirit liberation arts religious values
+29.0,0.8414054545357332,42,ngos society civil organizations actors partnership ngo private cbos local community cso sector with media
+30.0,0.9444815697080766,40,postal post posts telecommunications offices courier mail ptd service division mailing 1898 sorting telecommunication services
+31.0,0.8476360551478292,40,rmg exports export sector jobs non million manufacturing prospered mostly readymade intensive oriented low exploiting
+32.0,0.42847926518669444,36,molgrd gd equiv 02 moljpa 04 08 06 amount disposal ntory gathe facilities amoun wastewater
+33.0,0.7943986266178817,36,regulatory prudential regulations legal regulators clearances expedite conducive standards dealing licensing regulation ensure strengthen supervision
+34.0,0.6526794295241038,35,tourism visa legislations arrival tourists wttc visitors ecotourism facilities travel eco council including partners encouraged
+35.0,0.7228695517659629,34,districts lagging district disparities poverty poorest prosperous these phenomenal poore tailorin talk thanas atial disaggregation
+36.0,0.731868320292733,32,local lgd lged government division divisio urban lge engineering municipalities lgi lgrd department intervention governance
+37.0,0.6279366288945355,28,freight truck vehicle vehicl nger 71la passe volumes deman nearly lac transport mt cent passenger
+38.0,0.7674900546852217,26,upazila parishads parishad plans uno nirbahi budgets planning officers proper level strategy extension vised ila
+39.0,0.7454745571844607,26,gini coefficient palma ratio inequality income measure measured 1980s 2000s gin alternative table decadal panel
+40.0,0.7347482363035166,25,tvet stream skilling vocationa technical update crucial linkage 2008 madrasa introduce education curriculum urriculum skills
+41.0,0.6573109574363055,25,tracts chittagong hill affairs cht ministry area live botanical chta 16 mochta districts 19 11
+42.0,0.6430780450258712,24,tota share 333 livestoc ebt internatio visitors total 21 serves amounted margin usual yields nal
+43.0,0.7667359500305737,23,apa performance annual apams agreement reward system agreed annually period has agreements been ministries further
+44.0,0.7965736813575139,23,tonne ton kg tonnes ha metric tons quantity day litre total cap no wast area
+45.0,0.7496135766571418,23,chapter chapters highlights below given some 11 are of the     
+46.0,0.7095679525992387,23,score rank ranking 137 countr 100 193 93 42      
+47.0,0.8905499519777733,23,audit audits financial controls selective internal accounting productive auditing criteria auditor standards committee reports cases
+48.0,0.5366033935948752,22,ix viii vii vi iv iii ii 35       
+49.0,0.5493880510124192,21,divisi baseline productio ministry mt on 000 visio       
+50.0,0.8861105598267742,21,6c navigation 4ir 2005 five of         
+51.0,0.786681043696859,21,mohfw uphc molgrd new service health focus fiduciary ustained under medical desi ephc collaborate evening
+52.0,0.6962940216828399,20,cht accord peace implementation consultation council treaty region stakeholders 1997 mochta development committee key provisions
+53.0,0.728483449866663,20,secondar secondary shed primary disput tertiar mas alternative pre and     
+54.0,0.8852848453012612,20,deaths people personne death famil person pe diversit missing package lives registration families 84 family
+55.0,0.7132382996867577,19,us 0080 0060 0040 0020 euro 00100 usd nominal tk 00120 00tk eurotaka real price
+56.0,0.8589215345565367,19,49 59 58            
+57.0,0.6536825098449731,18,lea reports lpl 10           
+58.0,0.936388718508073,17,plantation ha 000 strip mangrove hectares habitat 700ha jhuprie spp thatched plainland 600ha agor 633
+59.0,0.899125289507452,17,parks playgrounds park playground waterfront grounds spaces can space municipalities garding lungs donate et9 20k
+60.0,0.9681723625328221,16,sid bbs bb lgd fd managed 2020 bq 45 black definitions 64 2555 2790 3059
+61.0,0.8816095925019287,16,grievance redressal grs system resolution redress adr introduced dispute complaints alternative profess gulatory sufferers seamlessly
+62.0,0.7999492686306335,16,person day grams ml 250ml daily 120gm head 122 125gm generall borishal 130gm 36 piece
+63.0,0.9046242339440562,16,chapter 12 13 14 10          
+64.0,0.8175826100577747,16,dalit dalits quota uphold excluded preferential adolescents special government colleges will right created dali acce
+65.0,0.9104544593716072,15,sl sla stol landing agreement off short take level service and    
+66.0,0.9705658060059679,15,committee committees ccc cell central tob ject ctc ncgp coordi cic cmc acco ntcc succeeded
+67.0,0.8896535411381159,15,15 14 ministrie chil 19          
+68.0,0.9372964752251328,15,iwt inland transport water excavation transportation 948 economica foreseeable loping iwtmp manifold dominate 042 inadequat
+69.0,0.9553627476917139,14,deaths disease respiratory mortality chronic death cancer attributed 000 cardiovascular diabetes tobacco all rate or
+70.0,0.9437161971760953,14,lessons experience learnt experiences international good previous draw past from practice elevant alike strains experi
+71.0,0.8916893896520144,14,mics 2019 bbs mowca xxviii ork dab pertinent source ote married audio lic broadcasting mic
+72.0,0.9771148451493833,14,targe fy 2022 2023 topped fy05 dut levies targ supplement 2021 billions generous advertising fy16
+73.0,0.9227427166290572,14,archaeological sites archaeology museums monuments museum preserved conservation historical national archaeologic antiquities ethnological archaeologi programmes
+74.0,0.9838778142708383,13,xxii xlviii xlvi xxxvii fiv xxi xx xii xi arsenic next the   
+75.0,0.955214509541408,13,psmp 2016 power master revised psm plan 6th updated generation 2010 proposed inexpensive cre pspgp
+76.0,0.9567378898974473,13,fata non forma dife formal 2019 14 12 10 and     
+77.0,0.9179019765742422,13,25              
+78.0,0.9536316584104644,12,hiv aids stigma virus people living deters opiate immunodeficiency therapy inject niversal vigilance uniforme ake
+79.0,0.9995287234840009,12,45 propor tio 49 15          
+80.0,0.9461459077995112,12,current taka prices billion billions values nominal price safety market 19 in of  
+81.0,0.9601221756600166,12,injuries 163 111 occupational sex 100 by an       
+82.0,0.9878070988199571,12,remarks 2025             
+83.0,0.9954028701669307,12,biosafety biological diversity act global 2017 framework biodiversi guidelines rules genetically biodiv organis nbf ersity
+84.0,1.0,11,24              
+85.0,1.0,11,parit capit capacit installed parli capac amentary pter tnership cha electricit par ity awareness building
+86.0,1.0,11,container containers 667 767 1067 867 cellular vessel destination carry nos procurement port from to
+87.0,1.0,11,29              
+88.0,0.9996416131151875,11,company corporation corporations lt divisiona limited city department all at     
